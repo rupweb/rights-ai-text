@@ -1,0 +1,574 @@
+IN THE COUNTY COURT AT YEOVIL
+Case No: F00YE161
+BEFORE:
+DISTRICT JUDGE BOSMAN
+BETWEEN:
+The Law Courts
+Petters Way
+Yeovil
+BA20 1SW
+Monday, 9 January 2023
+BRUCE KERSTIN WEIR
+Claimant
+- and -
+(1) PERSONS UNKNOWN
+(2) RUPERT ST JOHN WEBSTER
+MR NEWINGTON-BRIDGE appeared on behalf of the Claimant
+MR TREVIS appeared on behalf of the Second Defendant
+JUDGMENT
+(Approved)
+Defendants
+Digital Transcription by Epiq Europe Ltd,
+Unit 1 Blenheim Court, Beaufort Business Park, Bristol, BS32 4NE
+Web: www.epiqglobal.com/en-gb/ Email: civil@epiqglobal.co.uk
+(Official Shorthand Writers to the Court)
+This Transcript is Crown Copyright. It may not be reproduced in whole or in part other than in accordance with
+relevant licence or with the express consent of the Authority. All rights are reserved.
+WARNING: reporting restrictions may apply to the contents transcribed in this document, particularly if the case
+concerned a sexual offence or involved a child. Reporting restrictions prohibit the publication of the applicable
+information to the public or any section of the public, in writing, in a broadcast or by means of the internet, including
+social media. Anyone who receives a copy of this transcript is responsible in law for making sure that applicable
+restrictions are not breached. A person who breaches a reporting restriction is liable to a fine and/or imprisonment.
+For guidance on whether reporting restrictions apply, and to what information, ask at the court office or take legal
+advice.
+1
+Epiq Europe Ltd, Unit 1 Blenheim Court, Beaufort Business Park, Bristol BS32 4NE
+www.epiqglobal.com/en-gb/
+Page 335 of 380
+1.
+THE DISTRICT JUDGE: This is a long-running piece of litigation in relation to
+possession of a property. The parties are on the claimants side, trustees of the late J S
+Neal deceased and the defendants are principally the second defendant, Mr Rupert St
+John Webster; the first defendant referred to as "Persons Unknown" have not engaged
+in this litigation. The property in question is called Bondip Farm House, Kingsdon,
+Somerton.
+2.
+3.
+4.
+Today's hearing was listed pursuant to an order made by District Judge Rahman, that
+order was dated 7 November last year, and principally at paragraph 1, stayed execution
+of a possession order, pursuant to the second defendant's N244 application. I will deal
+with some of the specifics in a moment, but I want to firstly thank both counsel before
+the court, Mr Newington-Bridge for the claimant and Mr Trevis pro bono counsel for
+the second defendant for your assistance this afternoon.
+This case has an exceptionally long history. Today's hearing is the first time I have
+dealt with the matter and I did my best this morning in the time I had to read into the
+file, which is exceptionally protracted in terms of the material before the court. The
+possession order was made as long ago as 16 January 2020 by DJ Walsh sitting at
+Yeovil County Court, so almost three years ago. There is a full transcript of the
+judgment of the District Judge within one of the bundles the claimants' solicitors have
+provided, and those bundles also show that decision was the subject of an unsuccessful
+appeal; and there have been many other attempts on the second defendant's side to set
+aside or challenge this possession order made nearly three years ago, all of which (save
+one) have proven to be unsuccessful. In many instances, learned Circuit Judges have
+not only dismissed appeals and other applications by the second defendant, but they
+have recorded them as totally without merit. It does appear, however, that no civil
+restraint order has been made in respect of the second defendant.
+Another unusual feature of this case is that on 23 August 2021, the second defendant,
+who remains in the property, was actually evicted from it. That was pursuant to a High
+Court writ. However, as later transpired, that writ was erroneous, it was a writ of
+control, not a writ of possession, and was fundamentally flawed. At a hearing on 26
+2
+Epiq Europe Ltd, Unit 1 Blenheim Court, Beaufort Business Park, Bristol BS32 4NE
+www.epiqglobal.com/en-gb/
+Page 336 of 380
+5.
+6.
+7.
+August 2021 before His Honour Judge Cotter QC, as he then was, (he is now a High
+Court Judge), it was determined that no valid writ was ever issued and no valid notice
+of eviction was ever served. In that order, on 26 August 2021, the second defendant
+was restored to the property. So that in itself is
+very
+unusual.
+In addition to the above-mentioned order, at the hearing on 26 August 2021, HHJ
+Cotter QC also dismissed the application by the second defendant to set aside his own
+order of 21 August 2021 (refusing to stay enforcement of the possession order), and
+recorded the second defendant's application as totally without merit. Within that same
+order of 26 August 2021, there is also a reference to a claimants' application dated 23
+August 2021 for a civil restraint order, which was adjourned with liberty to restore.
+From my reading of the papers, the claimants have made no attempt to restore that
+application, not that I have seen anyway. The second defendant remains in the property
+since the order of 26 August 2021
+Subsequent to 26 August 2021, there have been a number of other orders made, some
+of which are not particularly important for this afternoon. Both counsel produced very
+detailed and helpful skeleton arguments, and spoke to those during the hour hearing we
+had earlier this afternoon. The first principal point of challenge by the second
+defendant to the current attempt by the claimants to evict him from the property
+pursuant to a warrant for possession, (stayed by District Judge Rahman's aforesaid
+order) three days before the eviction was due to take place, is based upon Part
+83.26(2)(b) of the Civil Procedure Rules. It is not a challenge I have encountered
+before, and I have been doing this work as a Judge nearly nine years now, with
+time prior to that as a Deputy District Judge.
+some
+The rule is in front of me in The White Book, 83.26, headed "Warrants of possession".
+After sub-rule 1 which says that orders" for recovery of land will be enforceable by
+way of a warrant of possession", sub-rule (2) of CPR 83.26 says,
+"An application for a warrant of possession
+(a) may be made without notice; and
+(b) must be made to -
+3
+Epiq Europe Ltd, Unit 1 Blenheim Court, Beaufort Business Park, Bristol BS32 4NE
+www.epiqglobal.com/en-gb/
+Page 337 of 380
+(i) the County Court hearing centre where the judgment or order which
+it is sought to enforce was made; or
+(ii) the County Court hearing centre to which the proceedings have
+since been transferred.
+Also relevant in this case is CPR Part 83.26(11) which provides:
+"No warrant of possession against a trespasser may be issued after the expiry of 3
+months from the date of the order without permission of the court"
+8.
+9.
+10.
+11.
+The proceedings, historically, have been in Yeovil and the possession order was made
+here on 16 January 2020. The case moved to Bristol, it seems, because of the various
+appeals, where they were heard before the civil Circuit Judges in that location. There
+was no formal order transferring the case from Yeovil to Bristol.
+After all of the appeals were resolved and concluded, they concluded in Bristol, the
+claimant's solicitor made an application to the court for permission to issue a warrant.
+After three o'clock and during some breaks in other hearings today, I had a chance to
+look through the file in relation to this aspect of the case. I have found within the file
+an application notice in the Part 23 N244 format from the claimant's solicitor dated 12
+May 2022, which sought permission to issue the warrant for possession pursuant to
+Rule 83.26(11)
+That N244 application had with it a draft order which referred to Yeovil County Court,
+but the solicitor (whose name appears to be Scott Bowley) sent it to Bristol County
+Court, where it was duly processed, presented in boxwork to District Judge Markland,
+who issued the order (in the terms of the draft order) from Bristol, on 30 May 2022.
+This order was later amended under the slip rule because of a mis-spelling of the word
+"warrant". Arising from this, on 6 October 2022 the Claimants applied in form N325 to
+Yeovil with a request for warrant of possession; the warrant no. 1A381149 was issued
+by Yeovil, the notice of eviction being dated 20 October 2022, the eviction date being
+10 November 2022, stayed 3 days before by DJ Rahman's said order.
+The point Mr Trevis argued forcefully earlier on this afternoon is that the court where
+enforcement is dealt with must follow the rule (CPR Part 83.26(2)(b)(i) ) and be the
+court which made the possession order ie Yeovil, not Bristol. From the claimant's
+4
+Epiq Europe Ltd, Unit 1 Blenheim Court, Beaufort Business Park, Bristol BS32 4NE
+www.epiqglobal.com/en-gb/
+Page 338 of 380
+perspective, Mr Newington-Bridge sees this as yet another attempt by the second
+defendant to further stave off possession from the January 2020 order.
+12. Having considered this carefully this afternoon after submissions, I agree with
+Mr Trevis that this is a matter of some significance for the purpose of the issuing of a
+warrant for possession. The key matter here is not the warrant itself, because that was
+sought from Yeovil and issued from Yeovil, but the problem lies with the order that
+gave permission for the warrant to be issued ie DJ Markland's order on 30 May 2022
+made at Bristol.
+13.
+The Judge in front of you is familiar with a similar type of permission application in
+cases where possession orders are historic, where the original possession order was
+made more than six years previously and relatively frequently, the court does see
+applications for permission to issue the warrants in respect of possession orders made
+more than six years previously.. Those applications are made by claimants under Part
+23, and are dealt with on a without notice basis on paper, and then they give rise to the
+issuing of the warrants when the appropriate form, N325, is received by the court.
+14. Here, the permission application is a different and fairly rare situation, being sought
+against a trespasser more than three months after the date of the possession order. Rule
+83.26(2)(b)(i) is clear, the warrant of possession has to be issued from the original
+court. It follows that where permission to issue the warrant is required under Rule
+83.26(11), that must also be obtained from the original court. Mr Bowley sent the
+paperwork to the wrong court, he sent it to Bristol and not Yeovil, and unfortunately
+Bristol did not pick up on that at the time, and simply put the order before the District
+Judge there. The District Judge did not pick up the point either. This is not a criticism,
+it is just an observation, it is a very unusual point that Mr Trevis has spotted within the
+Rules. However, he has correctly pointed out that the enforcement process must be
+through the court which made the possession order. The permission which was
+required in this instance for the issuing of the N325 did not come from this court,
+therefore the challenge is well founded on that point.
+5
+Epiq Europe Ltd, Unit 1 Blenheim Court, Beaufort Business Park, Bristol BS32 4NE
+www.epiqglobal.com/en-gb/
+Page 339 of 380
+15.
+16.
+17.
+As far as other matters mentioned by Mr Trevis today, the interesting arguments
+referred to in his skeleton argument, these are potentially substantive challenges and
+are not appropriate for today's hearing. They may arise in the future. I reserve
+comments specifically in relation to them, but I would simply say that the possession
+order has already been appealed, and that those appeals and challenges have been
+dismissed and recorded as totally without merit.
+For today's purposes, the decision is based upon the procedural deficiency, but
+nevertheless the Rules are there to be complied with and followed, particularly when
+enforcement is concerned is as follows. The warrant for possession 1A381149 which
+is presently stayed pursuant to District Judge Rahman's order is dismissed. However,
+also to move matters forward and having regard to the fact that the claimant's solicitors
+did make the proper application back in May last year, albeit sent it to the wrong court,
+and the court itself did not pick up on the point either as I have just said. I am, as part
+of today's order within my case management powers, and having regard to the
+overriding objective to deal with matters expeditiously and at minimal cost, going to
+give the claimant permission from this court to issue a warrant for possession pursuant
+to Rule 83.26(11). That will obviate the need for the claimant to file a new N244
+application.
+The claimant will of course, for the avoidance of doubt, still need to apply to Yeovil for
+a warrant on form N325, which will then be issued from this court, and the second
+defendant will then have his right to apply in form N244 to set aside, suspend or stay
+that warrant of possession, if he chooses to do so. That lies ahead of us.
+Epiq Europe Ltd, Unit 1 Blenheim Court, Beaufort Business Park, Bristol BS32 4NE
+www.epiqglobal.com/en-gb/
+Page 340 of 380
+Epiq Europe Ltd hereby certify that the above is an accurate and complete record of the
+proceedings or part thereof.
+Unit 1 Blenheim Court, Beaufort Business Park, Bristol BS32 4NE
+Email: civil@epiqglobal.co.uk
+This transcript has been approved by the Judge
+7
+Epiq Europe Ltd, Unit 1 Blenheim Court, Beaufort Business Park, Bristol BS32 4NE
+www.epiqglobal.com/en-gb/
+Page 341 of 380
+Neutral Citation Number: [2023] EWHC 1034 (Ch)
+Case No: CH-2020-000194
+IN THE HIGH COURT OF JUSTICE
+BUSINESS AND PROPERTY COURTS OF ENGLAND AND WALES
+PROPERTY, TRUSTS AND PROBATE LIST (ChD)
+BEFORE:
+MR JUSTICE MILES
+Royal Courts of Justice
+Rolls Buildings
+7 Fetter Lane
+LONDON
+EC4A 1NL
+Friday, 10 March 2023
+BETWEEN:
+RUPERT ST JOHN WEBSTER
+Claimant/Respondent
+-and-
+(1) JOHN FRANCIS PENLEY
+(2) ALISON VIRGINIA ASHCROFT
+Defendants/Applicants
+MR R TREVIS appeared on behalf of the Claimant/Respondent
+MR O WOODING appeared on behalf of the Defendants/Applicants
+APPROVED
+JUDGMENT
+1
+Page 342 of 380
+MR JUSTICE MILES:
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+8.
+9.
+This is an application by Mr Penley and a successor firm, known as WSP (short for
+Winterbottom, Smith, Penley LLP), which succeeded to a firm of which Mr Penley
+was a partner.
+They apply for the extension of an order made by Morgan J on 10 February 2021.
+That was an extended civil restraint order directed to Rupert St John Webster. It
+prevented him from issuing any new proceedings against Mr Penley or Ms Ashcroft
+arising out of "any dispute with them or concerned or connected with events which
+occurred in relation to The Priory, Ash Priors, Taunton, Somerset, TA4 3ND or
+against any solicitor/barrister associate or anyone else connected with the said matters
+in the High Court of Justice or in any County Court in England and Wales, or issuing
+any application, appeal or other process in this action or any other action in the High
+Court of Justice or in any County Court in England and Wales concerning any of the
+same matters" without first obtaining permission in accordance with the order.
+By the order I was appointed as the primary judge to deal with any application made
+by Mr Webster for permission.
+Mr Webster sought permission to appeal the order of Morgan J, but that application
+was refused.
+The order of Morgan J was the third civil restraint order that has been made against
+Mr Webster relating in broad terms to the same matters.
+It is unnecessary to go into the background to the underlying disputes, save to say that
+they ultimately concern or arise out of the will of Valerie St John Webster and the
+consequences of that will, which included the appointment of Mr Penley and
+Ms Ashcroft as executors of an estate which related in various respects to The Priory.
+As it was put by Mr Trevis, who has appeared for Mr Webster in this hearing,
+Mr Webster feels aggrieved that he was originally unlawfully evicted from The
+Priory. Mr Trevis also explained that having left The Priory, Mr Webster moved to
+another property which is known as The Bondip Farmhouse and there are currently
+proceedings on foot relating to that property including an application by the trustees
+of the estate to evict Mr Webster from that property. I mention this because it features
+in some of the history.
+Although Mr Trevis took me through the history relating to the matter before the order
+of Morgan J, it seems to me that the relevant events, for present purposes, relate to
+events which took place subsequent to that order.
+Just before the order of Morgan J, Mr Webster commenced professional negligence
+proceedings against Mr Penley and WSP. Those proceedings related, in very broad
+terms, to allegations that Mr Penley or WSP had failed to act properly in the advice
+they had given some years previously concerning the family estate and as part of that,
+in relation to The Priory.
+2
+Page 343 of 380
+10.
+11.
+12.
+13.
+14.
+15.
+16.
+17.
+18.
+The defendants applied to strike out the proceedings or for summary judgment and a
+hearing was listed for 2 December 2021. On 2 December 2021 Mr Webster applied
+to adjourn that hearing. He also applied to me for permission to make the adjournment
+application, as it fell within the scope of Morgan J's order. I gave that permission.
+HHJ Paul Matthews dismissed the application for an adjournment and then went on
+to hear the strike out application. Mr Webster applied for permission to appeal against
+the refusal of the decision of HHJ Matthews to grant the adjournment, and that was
+rejected by Asplin LJ.
+HHJ Matthews gave judgment on 15 December 2021. He made an order on 23
+December 2021, giving effect to his judgment. He ordered that the proceedings be
+struck out and that summary judgment be given. At paragraph 6 of his order he
+recorded that the claim was totally without merit.
+When dealing with questions of costs, HHJ Matthews noted that Mr Webster's
+obsession with the litigation was not normal, that he was unable to process his
+continued failure in every attempt he takes to dress his complaint in different clothes,
+as in any way the result of the lack of merit, whether procedural or substantive, his
+behaviour in this latest round has, the judge said, been very far out of the norm. The
+judge also noted that Mr Webster is not naïve or ignorant and is in fact a very capable,
+experienced litigant.
+While those comments were made in relation to costs, it does seem to me that they
+have a bearing on the view that HHJ Matthews took of Mr Webster's approach, which
+he described as obsessive.
+Mr Webster sought permission to appeal from the order of 23 December 2021. On
+18 May 2022 Lewison LJ refused permission.
+In May 2022, Mr Webster applied to me for permission under the ECRO to apply for
+a certificate pursuant to section 12 of the Administration of Justice Act 1969 from the
+decision of HHJ Matthews to bring a leapfrog appeal to the Supreme Court. I refused
+the application for permission to make an application for such a certificate and said in
+my reasons that the application was totally without merit.
+Later in May 2022, Mr Webster made a further application. There was some
+confusion in my mind about the nature of the application, but Mr Webster explained
+that he was seeking a certificate pursuant to section 12 of the Administration of Justice
+Act 1969 for leave to bring an appeal to the Supreme Court from my decision of 6
+May 2022 and that he was seeking permission to make that application. I dismissed
+that application by order of 19 May 2022 and certified that it was totally without merit.
+I have already mentioned that there is litigation concerning a property where it appears
+Mr Webster still resides, called Bondip Farmhouse. That litigation, again, appears to
+raise or involve questions about the will of Valerie St John Webster. There have been
+various orders made in those proceedings to which Mr Penley and WSP are not
+parties. An order for possession was made in January 2020. In February 2021
+HHJ Matthews made an order refusing permission to appeal against the order for
+possession. He certified the application for permission to appeal as totally without
+merit. In his reasons, he referred to the apparent overlap in the arguments being run
+3
+Page 344 of 380
+19.
+20.
+21.
+22.
+23.
+by Mr Webster in the Bondip Farmhouse proceedings and in the proceedings which
+had been brought against Mr Penley relating to The Priory. In particular,
+HHJ Matthews pointed out that there were various contentions concerning what had
+happened to properties previously belonging to the Webster family and that these
+included allegations concerning The Priory. The order of HHJ Matthews of
+1 February 2021 was taken into account as one of the totally without merit orders by
+Morgan J on 10 February 2021.
+As I have said, neither Mr Penley nor WSP are parties to the proceedings concerning
+Bondip Farmhouse and they are not privy to all of the steps that have been taken in
+those proceedings. Nonetheless, Mr Webster has, since about July 2022, consistently
+copied the solicitors acting for WSP, in particular Ms Creech, to correspondence
+concerning both Bondip Farmhouse and making allegations in relation to The Priory
+or the matters giving rise to Mr Webster's grievances in that regard. The
+correspondence in question in part consists of actual and proposed submissions to the
+UN Committee on the Rights of Persons with Disabilities. It refers in terms to The
+Priory which is described there as "the Taunton property". It also raises complaints
+about the way that the properties in the family estate were dealt with and makes
+complaints about the treatment of the will of Valerie St John Webster.
+-
+The correspondence included emails being sent to the Registry of the Supreme Court.
+These communications included a draft order being sent to Yeovil County Court
+which would have given, if it had ever been made, permission to persons unknown
+who include, it seems, Mr Webster, to apply to the UK Supreme Court and for WSP
+to be joined to the application. In November 2022, Mr Webster sent another draft
+order which is headed "In the Supreme Court of the United Kingdom and in the
+United Nations," which contains a series of proposed orders, including orders
+concerning the estate of Valentine St John Webster. These include that a will of 2000
+of Valerie Webster be declared valid and that another will of 2006 of Valerie Webster
+be declared invalid. It also includes proposed orders concerning title in respect of
+The Priory. Paragraph 7 of the order, if made, would state that costs and aggravated
+and exemplary damages of £7 million should be payable in 28 days by WSP and their
+“representing solicitors,” who include their current solicitors, to be distributed equally
+between two family trusts and any “purchasers” - which would seem to be a reference
+to purchasers of the property. Mr Webster has also, it appears, provided a detailed
+and lengthy submission to the UN committee complaining about various decisions
+and orders of the court.
+Against this background the applicants seek an extension of the existing civil restraint
+order.
+I should say that I made an order on 10 February 2023 extending the civil restraint
+order made by Morgan J until 7 April 2023. That was done in order to give
+Mr Webster the opportunity to appear by counsel and it was understood that I would
+approach the matter on the basis of the application and decide whether further to
+extend the civil restraint order.
+The court's power to make and extend civil restraint orders is found in CPR 3.11. That
+provides that a Practice Direction may set out the circumstances in which the court
+has the power to make a civil restraint order against a party to proceedings. The
+procedure where a party applies for a civil restraint order against another party and
+4
+Page 345 of 380
+24.
+25.
+26.
+27.
+28.
+29.
+30.
+the consequences of the court making a civil restraint order. Practice Direction 3C
+then sets out the detailed requirements for the making and extension of civil restraint
+orders.
+Paragraph 3.1 of the PD covers extended civil restraint orders. It provides that an
+extended civil restraint order may be made by (1) a judge of the Court of Appeal (2)
+a judge of the High Court or (3) a designated civil judge although appointed deputy
+in the County Court, where a party has persistently issued claims or made applications
+which are totally without merit.
+Paragraph 3.9 states that an extended civil restraint order will be made for a specified
+period not exceeding three years.
+Paragraph 3.10 states as follows:
+"The court may extend the duration of an extended civil restraint
+order if it considers it appropriate to do so but it must not be
+extended for a period greater than three years on any given
+occasion."
+It was common ground that for the purposes of paragraph 3.1, a party will only be
+treated as having persistently issued claims or made applications which are totally
+without merit if the party has done so on at least three occasions.
+Mr Trevis for Mr Webster submitted that the power to extend an ECRO under
+paragraph 3.10 requires the court to be satisfied that the criteria in paragraph 3.1 are
+satisfied. He said that an order extending an ECRO under 3.10 is itself a civil restraint
+order and, reading Practice Direction 3C together with CPR 3.11, the power to extend
+must be treated as arising and arising only under Rule 3.1.
+Counsel for the applicants, Mr Wooding, referred me to a number of authorities for
+the proposition that the test under paragraph 3.10 was distinct from the requirements
+of paragraph 3.1. He said that 3.1 was concerned with the imposition of an order
+whereas paragraph 3.10 was concerned with the extension of an order.
+There have been a number of cases in which the distinction between the test in
+paragraph 3.10 and the test in paragraph 3.1 has been drawn. These include Ashcroft
+v Webster [2017] EWHC 887 (Ch), AEY v AL (Family Proceedings Extension of Civil
+Restraint Order) [2020] EWHC 3539 (Fam) and Hurst v Green [2022] EWHC 2895
+(Ch). The position is also explained in note 3.11.7 in the 2022 edition of the White
+Book which quotes from a decision of the Court of Appeal in Chief Constable of Avon
+and Somerset v Gray [2019] EWCA Civ 1675. In that case the Court of Appeal
+approved the decision of the first instance judge. He drew a distinction between the
+test imposed for making an order in the first place and the test when the court is asked
+to extend a civil restraint order. The test for the latter is whether the court considers
+it appropriate to extend the order. The Court of Appeal approved the following
+statement:
+"That test must be read in the light of the criteria for imposing a
+GCRO in the first place since a restriction upon the party's right
+to bring litigation is the same during the original term of the
+5
+Page 346 of 380
+31.
+32.
+33.
+34.
+35.
+36.
+37.
+GCRO or during its extension. In briefest outline, the question
+either on an original application for a GCRO or on an application
+for an extension, is whether an order (or its extension) is
+necessary in order (a) to protect litigants from vexatious
+proceedings against them and/or (b) to protect the finite resources
+of the court from vexatious waste. This question is to be answered
+having full regard to the impact of any proposed order upon the
+party to be restrained. The main difference between an original
+application for a GCRO and an application for an extension is that
+on an application for an extension, the respondent will have been
+restrained from bringing vexatious proceedings during the period
+of the existing GCRO."
+That case concerned a GCRO but the same reasoning, it seems to me, applies to an
+ECRO. It shows that the same test of necessity applies whether one is considering the
+imposition of the order or its extension. However, the other criteria set out in the
+Practice Direction, which are thresholds for the imposition of an order, are not to be
+read into paragraph 3.10. So, for instance, there is the requirement in paragraph 3.1
+that the party has persistently issued claims or other applications which are totally
+without merit. That requirement is not to be read into paragraph 3.10.
+Nonetheless, the overall test to be applied is whether an order is necessary in order to
+protect litigants in vexatious proceedings and/or to protect the finite resources of the
+court from vexatious waste.
+In any event the point is academic here as there have in fact been three totally without
+merit certifications on orders made since the order of Morgan J. The first was the
+order of HHJ Matthews of 23 December 2021 and the second and third were my
+orders of 6 May and 19 May 2022.
+The question is therefore whether in the circumstances it is necessary to extend the
+existing order in order to protect the applicants from vexatious proceedings against
+them and/or to protect the finite resources from the court from vexatious waste.
+The orders which I have just referred to, namely the order of 23 December 2021 and
+my two orders of May 2022, are themselves, it seems to me, evidence that Mr Webster
+is not prepared to behave like a normal litigant. I agree with the comment of HHJ
+Matthews that he has an obsessive approach to these matters and is not prepared to
+accept orders of the court which have gone against him.
+On top of this, the correspondence which has taken place since July 2022 shows that
+he has not been prepared to accept the orders of the court in relation to The Priory or
+the family estates. He has provided a series of draft orders, the latest of which would
+result in essentially undoing the many orders of the court which have been made over
+well over a decade - and which would indeed involve a payment of many millions of
+damages by a number of solicitors' firms, including the applicants for this extension.
+Mr Trevis explained to me that Mr Webster feels aggrieved that he considers that he
+was unlawfully evicted from The Priory and that no valid possession orders were ever
+made and that he has drawn together the litigation about The Priory with the litigation
+6
+Page 347 of 380
+38.
+39.
+40.
+41.
+42.
+43.
+concerning Bondip Farmhouse in his mind, and that that is no doubt why he has
+knitted the two things together in the correspondence.
+That may well be an explanation, but it gives no grounds for confidence that
+Mr Webster has come close to accepting the position in relation to The Priory. He
+has continued to correspond with the solicitors for Mr Penley and WSP, has continued
+to send them material which makes allegations of professional negligence and
+wrongdoing against them and which contains, albeit indirectly, threats that they
+should have to pay very large amounts of damages. Mr Trevis says that there is a
+difference between making such threats and bringing legal proceedings, but these are
+matters which have to be dealt with by the solicitors and in my judgment there is a
+very serious concern that if Mr Webster is not restrained from bringing proceedings
+by an extended ECRO, some of these grievances and complaints will find their way
+into yet further litigation. It seems to me that, for these reasons, there is a real and
+serious risk that unless some filter is put in place, further resources of these applicants
+and the court will be wasted by unmeritorious and vexatious proceedings.
+I balance that finding against the consequences for Mr Webster of a continuation of
+the order of Morgan J. It restrains his access to the courts. But it is also important to
+bear in mind that the order does not operate as a complete bar to the bringing of
+proceedings or applications. It is open to Mr Webster to apply to the court for
+permission to bring proceedings or applications and if they are properly arguable and
+are not totally without merit, the court will give permission. That indeed happened in
+December 2021 when I granted permission to Mr Webster to apply to adjourn the
+strike out hearing. It is a qualified constraint and in the circumstances appears to me
+to be a proportionate one.
+Mr Trevis, as a fallback submission, said that if an extended order is to be made it
+should be for a period less than the maximum of three years now available under the
+Practice Direction. It seems to me that there is some force in that submission: the
+question whether there should be a yet further extension hereafter can be tested by
+what actually happens in the future. Mr Webster may at some stage become
+reconciled to the orders that have been made by the court over many years and cease
+to challenge them through yet more litigation; and it may be that in those
+circumstances there would be no justification for a further order. In framing a
+proportionate and appropriate response, the court must of course consider the length
+of any extension.
+It seems to me that an appropriate period would be to extend the order of Morgan J
+for a further period of two years from today. That means that there will have been an
+extension for more than two years in total, given my earlier order. But any court
+assessing the position at the end of that period will no doubt take into account the
+events between now and the expiry of that period.
+So taking all of these matters in the round, the conclusion I have reached is that the
+order of Morgan J of 10 February 2021 should be extended for a further period of two
+years from today's date.
+I will make an order for Mr Webster to pay the costs of the application. The costs are
+to be assessed on the standard basis. That requires the costs to be both reasonable and
+proportionate. I am a little troubled by the overall amount of the costs bill as it seems
+7
+Page 348 of 380
+to me that this was a comparatively straightforward application albeit it has taken over
+half a day. It also seems to me that Mr Webster has succeeded in persuading me that
+the length of the extension should not be the full period sought by the applicants and
+that some element of the costs should be reflected in that degree of success on the part
+of Mr Webster. It also looks to me as though at least some of the work done on
+documents may well have predated the application for the continuation of the ECRO
+itself, so for example, there are elements for considering the section 12 applications
+and other steps and it looks as though the amounts spent on the application itself are
+rather more limited. Doing the best I can and including the need for such costs to be
+maintained at a proportionate level, it seems to me that the amount that should be
+awarded is £14,000.
+8
+Page 349 of 380

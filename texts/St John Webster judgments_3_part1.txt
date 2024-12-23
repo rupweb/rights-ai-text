@@ -1,0 +1,750 @@
+OF
+Neutral Citation Number: [2017] EWHC 887 (Ch)
+Case No: B30BS071/B30BS107/A00TA241
+IN THE HIGH COURT OF JUSTICE
+CHANCERY DIVISION
+BRISTOL DISTRICT REGISTRY
+Bristol Civil and Family Justice Centre
+2 Redcliff Street, Bristol BS1 6GR
+Before:
+HHJ PAUL MATTHEWS
+sitting as a judge of the High Court
+Between:
+(1) Alison Virginia Ashcroft
+(2) John Francis Penley
+- and -
+Rupert Jolyon St John Webster
+Date: 21/04/2017
+Claimants
+Defendant
+Oliver Wooding (instructed by Clarke Willmott LLP) for the Claimants
+The Defendant in person
+Hearing date: 21 March 2017
+Approved Judgment
+I direct that pursuant to CPR PD 39A para 6.1 no official shorthand note shall be taken of this
+Judgment and that copies of this version as handed down may be treated as authentic.
+HHJ PAUL MATTHEWS SITTING AS A JUDGE OF THE HIGH COURT
+Page 115 of 380
+HHJ PAUL MATTHEWS SITTING AS A JUDGE OF THE
+HIGH COURT
+Approved Judgment
+Ashcroft v Webster
+HHJ Paul Matthews:
+Introduction
+1.
+This is my judgment on an application by the Claimants to extend the life of an
+extended civil restraint order made against the Defendant on 23 March 2015 by HHJ
+McCahill QC for another two years. The application is made by notice dated 8 March
+2017, supported by the first witness statement of Esther Margaret Woolford dated 8
+March 2017, together with one exhibit. The application is opposed by the Defendant,
+who has made a statement dated 21 March 2017. The application was argued before
+me on 21 March 2017, by Oliver Wooding of counsel for the Claimants and the
+Defendant in person.
+The context in which the earlier extended civil restraint order was made by HHJ
+McCahill QC is one of complex family dealings in property followed by a number of
+pieces of litigation involving the same or similar parties. In order to make this
+judgment intelligible, I will shortly say something of the family and its members, and
+the property dealings, and then something about the litigation. Fuller details are set
+out in the judgment of HHJ Purle QC of 22 May 2013, [2013] EWHC 1316 (Ch). In
+this judgment I shall mostly use Christian names to distinguish the various members
+of the Webster family. I intend no disrespect to any of them in doing so.
+Background facts
+2.
+3.
+4.
+5.
+Captain Antony Webster and his wife Valerie had four children. There were two sons
+and two daughters. Valentine was the elder son and Rory was the younger. Virginia
+(later Ashcroft, the First Claimant) and Antonia (later Sloane) were the two daughters.
+Valentine married Jennifer, and they had three children, Rupert (the Defendant),
+Letitia and Arabella. Rupert married Jane, and they have three children, Beatrice,
+Roselle and Luke.
+In 1950 Captain Webster acquired the property in the village of Ash Priors, Taunton,
+known as Priory Farm, consisting of some 44 acres including eight cottages. In 1965
+two of these cottages were sold to Valerie. She later sold a half share to Rory. In 1987
+Captain Webster transferred another three cottages to Valerie. In 1990 part of the
+estate known as Priory Barn was sold to a company belonging to Valentine.
+Meanwhile, in 1971 Valerie purchased a nearby property known as Monks Walk. She
+sold most of it to Valentine in 1972, and gave him the rest in 1990. Valentine
+attempted to develop the Barn, using Monks Walk as security, but ran into financial
+difficulties. In 1992 the mortgagee took possession of Monks Walk, and sold it.
+In April 1992 Captain Webster transferred the farmhouse and two fields out of the
+Priory Farm estate to himself and Valerie as tenants in common. Three weeks later,
+Captain Webster transferred the remaining agricultural land and certain cottages to
+Valerie. Two days later, Valerie created a discretionary trust of that land and cottages,
+of which her four children were discretionary objects. This was all part of a tax
+planning exercise, carried out on the advice of Bevirs solicitors, assisted by the
+Second Claimant, Mr Penley, the family solicitor (not from Bevirs).
+2
+Page 116 of 380
+6.
+HHJ PAUL MATTHEWS SITTING AS A JUDGE OF THE
+HIGH COURT
+Approved Judgment
+Ashcroft v Webster
+In December 1992, Valentine became bankrupt. Other members of the family became
+bankrupt later. In October 1995 Priory Barn was repossessed and sold by the
+mortgagee. Valentine and Jennifer moved into the farmhouse, The Priory. In February
+1996, Captain Webster died, and probate of his will was granted to Virginia and Mr
+Penley, the Claimants, in May 1996. His will operated on his 50% interest in the
+farmhouse and two fields, and created a nil rate discretionary trust for the benefit of
+Valerie and his issue, with a small legacy to Virginia and the residue going to Valerie.
+She died in August 2007, and the Claimants became personal representatives of her
+estate also. Valentine had unfortunately died the year before, in September 2006, aged
+only 64, and his son Rupert, the Defendant, became personal representative of his
+estate.
+The original claim
+7.
+8.
+9.
+10.
+After the death of his father, Valentine, in 2006, and of his grandmother in 2007,
+Rupert, as personal representative of his father's estate, sought to make a claim in
+proprietary estoppel against his grandparents' estates. The claim was issued in 2009.
+It was based on various alleged representations or promises made over the years, but
+apparently starting in the 1970s, by both Captain Webster and his wife Valerie, to the
+effect that The Priory would come to Valentine.
+This claim was issued primarily against Virginia and Mr Penley (the Claimants in
+these proceedings), although Jennifer, Rory and Antonia were also joined as
+defendants. Ultimately it was taken to trial, when Rupert (as claimant) and Virginia
+and Mr Penley (as defendants) were represented by counsel, and the other defendants
+appeared in person.
+The claim was dismissed by HHJ Purle QC in a written judgment handed down 22
+May 2013. He said, in summary:
+"23. ... In my judgment, no representation or promise to the effect suggested by
+Rupert was ever made. Nor, if I am wrong about that, was there detrimental
+reliance."
+The judge also said this:
+"28. ... What did emerge very clearly from the evidence, however, was the fact
+that Valentine held the strong conviction that as the eldest son he was entitled at
+least morally to control and (ultimately) inherit The Priory as his birthright. That
+conviction was not, however, shared by other family members, and Valentine
+knew this. During the course of the tax planning exercise undertaken in 1992,
+Valentine's conviction was expressly rejected by Valerie at a family meeting in
+the presence of solicitors (fully minuted) on 25 February 1992. Notably,
+Valentine did not rely upon any representation or promise at this stage, only a
+conviction of his prior entitlement as the first born son.
+29. That said, there is little doubt that the hope was expressed from time to time,
+in different ways, especially by Valerie, that Valentine might inherit or live at
+Ash Priors, or the farmhouse. But there was nothing amounting to a commitment
+to ensure that any part of Ash Priors, or the farmhouse, or the two fields, would
+become his. Moreover, after the 1992 tax planning exercise, Mr Penley was very
+3
+Page 117 of 380
+HHJ PAUL MATTHEWS SITTING AS A JUDGE OF THE
+HIGH COURT
+Approved Judgment
+11.
+12.
+Ashcroft v Webster
+much against the taking any step that might imperil the tax efficiency of the
+structure he had helped to put in place, and his advice was heeded."
+The Defendant having lost at first instance, and having been refused permission to
+appeal by the judge, he applied on paper for permission to appeal to the Court of
+Appeal. On 31 October 2013, Lord Justice Lewison refused permission to appeal. The
+Defendant sought to renew his application at an oral hearing before Lord Justice
+Floyd on 13 February 2014. Lord Justice Floyd also refused permission to appeal.
+The Defendant sought to protect his position in the pending litigation by means of
+entries dated 6 March 2012 in the register of pending land actions, to which he later
+added two further entries dated 3 September 2013, and then two entries dated 24
+February 2014 in the register of land charges to protect claimed substantive rights, all
+registered against the property in the Land Charges Registry, it being unregistered
+land. In May 2014, after the original claim had been dismissed and all appeals
+exhausted, the Claimants applied by notice to vacate those land charges. Sitting then
+in the Chancery Division of the High Court as a deputy master, I acceded to that
+application in August 2014, and vacated all six charges.
+Further litigation
+13. The Defendant then brought a new claim (A00TA241) against the Claimants in
+September 2014 in the County Court at Taunton, seeking possession of a part of the
+property at Ash Priors, on the basis that he had a right, whether through his mother
+Jennifer, pursuant to the estate of his father Valentine, as a member of a class of
+objects under a discretionary trust, or under a statutory tenancy or licence, to occupy
+that part of the property. Parts of the claim were then struck out as totally without
+merit by Deputy District Judge Orme, sitting at Taunton. The remainder of the matter
+was transferred to Bristol, where on 23 March 2015 HHJ McCahill QC struck out the
+remainder, also as totally without merit.
+14.
+15.
+The Claimants then brought a claim (B30BS071) against the Defendant in early 2015
+in trespass and slander of title. On 23 March 2015 HHJ McCahill QC granted a final
+injunction against the Defendant, requiring him not to enter the property, not to
+interfere with or prevent the marketing or sale of it, not to make any entry on the title
+of the property without the permission of the court, and not to publish or use words to
+the effect that he had an interest in The Priory or that his permission was required
+before its disposal or that the registered owners were not freehold owners of the
+property and/or that the trustees did not have the power to give instructions as to the
+disposition of the property.
+The Defendant in the meantime brought a new claim (B30BS107) against the
+Claimants in the Bristol District Registry. This was treated as effectively an
+application being made by the Defendant to vary the injunction granted in claim
+number B30BS071. It was struck out by HHJ McCahill QC on 23 March 2015.
+The first extended Civil Restraint Order
+16.
+As a result of the last three matters, HHJ McCahill QC on his own initiative made an
+extended civil restraint order against the Defendant, restraining the Defendant until 22
+March 2017 from issuing any claim or application against Virginia or Mr Penley (in
+4
+Page 118 of 380
+HHJ PAUL MATTHEWS SITTING AS A JUDGE OF THE
+HIGH COURT
+Approved Judgment
+17.
+Ashcroft v Webster
+their capacity as executors of the estate of Valerie and trustees of the will of Captain
+Webster), except for any personal claim the Defendant might bring in professional
+negligence as a disappointed beneficiary or otherwise. So, for example, it does not
+apply to a claim brought by the Defendant against lawyers alleging negligence
+causing him loss as a disappointed beneficiary. It is however common ground that the
+present ECRO goes too far, in that it purports to apply to "any courts” rather than
+being restricted to the High Court and the County Court. Only a judge of the Court of
+Appeal can make an ECRO applying to "any courts”: CPR PD3C, para 3.2(1)(b).
+It is also clear that the order, even when it applies, does not bar access to the courts.
+Instead, it constitutes a filter through which applications and claims must first pass
+before they can have any impact on any respondents or defendants: see Nowak v The
+Nursing and Midwifery Council [2013] EWHC 1932 (QB), [59], quoted later in this
+judgment. If the judge to whom the application or claim has been referred considers
+that it has any prospect of success, it passes through the filter and is thereafter in the
+same position as an application or claim made by any other litigant.
+Events after the first ECRO
+18.
+19.
+20.
+21.
+22.
+The property itself was sold by the Claimants to a third-party purchaser in October
+2015 for £1.125 million. The new owner is not a party to the present litigation or to
+this application.
+On 14 April 2015, in Claim B30BS071, the Defendant made a written request under
+CPR Part 18 for further information, this consisted of some 56 questions spread over
+12 pages. A cursory examination shows that it covers much the same ground as that
+covered by the original claim which was dealt with by HH Judge Purle QC.
+Before the extended civil restraint order was made in March 2015, the Defendant had
+also issued three further claims against the Second Claimant alone, under claim
+numbers HC14B01306, HC14C01307, and HC14D01309. At the hearing, the
+Defendant told me he had been advised to bring three separate proceedings. Each
+claim sought to challenge the valuation of the estate of (respectively) Valentine,
+Valerie and Captain Webster. After the extended civil restraint order was made, on 11
+June 2015 Mr Justice Birss struck out all three claims, recording that each was totally
+without merit. The judge made a (second) extended civil restraint order against the
+Defendant. I make clear that the present application to extend the order made by HHJ
+McCahill QC on 23 March 2015 does not include an application to extend the order
+made by Mr Justice Birss.
+On 28 September 2015, Lord Justice Lewison on the papers refused permission for
+the Defendant to appeal against the decision of HHJ McCahill QC of 23 March 2015,
+recording that the appeal was totally without merit.
+On 14 December 2015 the Defendant applied to set aside the default judgment dated
+23 March 2015 in claim B30BS071. He attached a draft defence putting in issue
+matters which had been dealt with by the original claim dismissed by HH Judge Purle
+QC. On 13 January 2016 HH Judge Denyer QC ordered that that application fell
+within the scope of the extended civil restraint order made against the Defendant on
+23 March 2015, and declined to give permission for that application to be made. (I
+note that in a letter dated 10 January 2017 the Defendant referred to the draft defence
+5
+Page 119 of 380
+HHJ PAUL MATTHEWS SITTING AS A JUDGE OF THE
+HIGH COURT
+Approved Judgment
+23.
+24.
+25.
+26.
+27.
+Ashcroft v Webster
+and the application to set aside the default judgment as matters that remained “still to
+be heard".)
+On 17 December 2015 Lord Justice Floyd on the papers refused permission for the
+Defendant to appeal the decision of Mr Justice Birss of 11 June 2015. On 17
+November 2016 Lord Justice Patten refused a renewed (oral) application for
+permission to appeal the decision of Mr Justice Birss. He recorded in his judgment
+that an appeal would be totally without merit.
+In September and in November 2015 the Defendant issued two new claims, this time
+against the Lord Chancellor or the Ministry of Justice, claiming a breach of his, or his
+family's, human rights pursuant to the European Convention on Human Rights, as
+rendered justiciable in the courts of the United Kingdom by the Human Rights Act
+1998. The first such claim was the subject of a Tomlin order made by Mr Justice
+Snowden on 8 December 2015, and was therefore stayed. The second claim appears
+never to have been progressed. At all events, no Particulars of Claim have ever been
+served.
+On 13 May 2016 yet another claim (HC-2016-001499) was issued by the Defendant
+against the Ministry of Justice. This claim is expressed in the claim form to be
+“for the Claimant's family's rights as expressed through claims HC 09C01570,
+A320132303, HC 14B01306, 07 & 09, A00TA241, B30BS071, B30BS107,
+A320151181 ("the claims"); the Protection from Eviction Act 1977; the
+Inheritance Act 1977; sections 12 to 15 of the Trusts of Land and Appointment of
+Trustees Act 1996; and instructions given trustees that have been informally
+exercised for over 20 years such that now the first registration of the family home
+includes the Claimant under the Land Registration Act 2002 ("the Acts”); without
+application of which are alleged violations of Articles 8, 14 and Protocol 1 Article
+1 of the European Convention ("the articles")."
+On 5 October 2016 the Ministry of Justice issued an application for an order that the
+claim form and particulars of claim be struck out, for it to be recorded that the
+Claimant's claim was totally without merit, for the imposition of a (third) civil
+restraint order, and for the Claimant to pay the Defendant's costs. On 17 October
+2016 Mrs Justice Rose made an order adjourning this application, for the parties to
+agree directions and for contact to be made with the Bristol District Registry in order
+to ascertain whether the judges currently supervising the existing extended civil
+restraint orders would be content to be named as supervising judges should the further
+extended civil restraint order sought in the present application be granted.
+A number of costs orders have been made in the original claim against the Defendant
+which remain outstanding. The Claimants have sought charging orders over the
+interests of the Defendant under various trusts in order to secure those orders. An
+interim charging order was made by me in the original claim, then sitting as a
+chancery master, on 5 January 2017. That order was made final by Deputy Master
+Nurse on 9 March 2017. A witness statement of the Defendant dated 7 March 2017 in
+relation to these applications made allegations and claims which mirrored those made
+in the original claim dismissed by HH Judge Purle QC.
+6
+Page 120 of 380
+HHJ PAUL MATTHEWS SITTING AS A JUDGE OF THE
+HIGH COURT
+Approved Judgment
+28.
+29.
+30.
+31.
+Ashcroft v Webster
+Finally, there is an issue relating to the Defendant's continued use of The Priory as an
+address for service for one of the companies which he controls. It appears that the new
+owner of The Priory had applied to Companies House to remove The Priory as the
+registered address. Companies House had invited the Defendant's response. The
+Defendant was apparently concerned that if he responded to Companies House he
+might breach the terms of the injunction. The attitude of the Claimants was that,
+although arguably the Defendant was in breach of the injunction, since the property
+had been sold the Claimants were not directly concerned by this matter. The
+Defendant prepared a draft letter to Companies House, in which he would object to
+the new owner's application on the basis that there was a possibility that the
+Defendant and his company might be authorised to use The Priory for the registered
+address after the hearing of his claims against the Lord Chancellor.
+On 8 February 2017 the Defendant sent an email to the court, the effect that he was
+preparing three applications, to vary the injunction to allow him to communicate with
+Companies House, to appeal the decision of HH Judge Denyer QC, and to rely on
+claim HC-2016-001499.
+I add that, after the hearing, I received an email dated 23 March 2017 from the
+Claimants' counsel. This informed me that the Defendant had issued an application in
+the County Court at Taunton for an order setting aside a statutory demand issued by
+the First Claimant and served on the Defendant in respect of costs orders in the
+original claim. The notice of hearing is dated 20 March 2017, which means that the
+application to set aside must have been issued before the hearing before me on 21
+March. The Defendant made no mention of it at that hearing, though there is a
+reference in his witness statement of 21 March 2017, para 11.2, to applying to set
+aside a statutory demand, and this may be a reference to that application.
+The Claimants in their email submitted that the application was caught by the terms of
+the first ECRO. I invited the Defendant's comments on the email. In an email dated
+24 March 2017 to the Court, he appeared to challenge the view that the application
+was so caught, and concluded that
+"the ECRO against me ought to be brought to an end without delay. I have
+already served my time."
+Whether an application to set aside a statutory demand falls within the scope of the
+first ECRO is a matter which was not argued before me at the hearing. However, for
+reasons which will become apparent, I do not need to resolve this question now, or to
+take this matter into account in reaching my decision on the continuation of the order,
+and accordingly I have not done so.
+The relevant law
+32.
+I turn now to the law relevant to extending the life of an extended civil restraint order.
+CPR rule 2.3 (1) provides that “civil restraint order” means “an order restraining a
+party –
+(a) from making any further applications in current proceedings (a limited civil
+restraint order);
+7
+Page 121 of 380
+HHJ PAUL MATTHEWS SITTING AS A JUDGE OF THE
+HIGH COURT
+Approved Judgment
+33.
+34.
+Ashcroft v Webster
+(b) from issuing certain claims or making certain applications in specified courts
+(an extended civil restraint order); or
+(c) from issuing any claim or making any application in specified courts (a
+general civil restraint order).”
+Rule 3.11 provides:
+"A practice direction may set out
+(a) the circumstances in which the court has the power to make a civil restraint
+order against a party to proceedings;
+(b) the procedure where a party applies for a civil restraint order against another
+party; and
+(c) the consequences of making a civil restraint order."
+Practice Direction 3C to Part 3 of the CPR in paragraph 3.10 provides:
+"The court may extend the duration of an extended civil restraint order, if it
+considers it appropriate to do so, but it must not be extended for a period greater
+than 2 years on any given occasion."
+In Nowak v The Nursing and Midwifery Council [2013] EWHC 1932 (QB), Mr
+Justice Leggatt explained the justification for civil restraint orders. He said:
+“58. As explained by the Court of Appeal in the leading case of Bhamjee v
+Forsdick [2004] 1 WLR 88, the rationale for the regime of civil restraint orders is
+that a litigant who makes claims or applications which have absolutely no merit
+harms the administration of justice by wasting the limited time and resources of
+the courts. Such claims and applications consume public funds and divert the
+courts from dealing with cases which have real merit. Litigants who repeatedly
+make hopeless claims or applications impose costs on others for no good purpose
+and usually at little or no cost to themselves. Typically such litigants have time on
+their hands and no means of paying any costs of litigation - so they are entitled to
+remission of court fees and the prospect of an order for costs against them is no
+deterrent. In these circumstances there is a strong public interest in protecting the
+court system from abuse by imposing an additional restraint on their use of the
+court's resources.
+59. It is important to note that a civil restraint order does not prohibit access to the
+courts. It merely requires a person who has repeatedly made wholly
+unmeritorious claims or applications to have any new claim or application which
+falls within the scope of the order reviewed by a judge at the outset to determine
+whether it should be permitted to proceed. The purpose of a civil restraint order is
+simply to protect the court's process from abuse, and not to shut out claims or
+applications which are properly arguable."
+In Noel v Society of Lloyd's [2010] EWHC 360, Mr Justice Eady discussed in some
+detail the circumstances in which it might be appropriate for the court to extend the
+8
+Page 122 of 380
+HHJ PAUL MATTHEWS SITTING AS A JUDGE OF THE
+HIGH COURT
+Approved Judgment
+35.
+36.
+Ashcroft v Webster
+duration of an extended civil restraint order. That decision is not reported, and the
+parties have been unable to procure a transcript to put before me. However, full
+extracts from the judgment of Mr Justice Eady are to be found in another case which
+is reported, namely Society of Lloyd's v Noel [2015] 1 WLR 4406, a decision of Mr
+Justice Lewis.
+At paragraph 12 of his judgment, Mr Justice Lewis quotes from paragraphs 23 to 27
+of the decision of Mr Justice Eady, as follows:
+"23. I think in the context of a proposal to extend the civil restraint order, at the
+expiry of the period of two years, what the court would need to focus on
+particularly is evidence which suggests that there is good reason to apprehend
+vexatiousness and, in particular, persistent vexatiousness, for the future. That
+might be demonstrated by conduct or by threats, perhaps, but there must be, I
+would have thought, a reasonable apprehension that vexatious applications or
+claims will be made once the period expires or, in this case, when the undertaking
+expires following the court's ruling. That must be evidence based and, as I have
+indicated, the evidence relied upon here is that to be found in paragraphs 5 to 12
+or Mr Demery's witness statement.
+24. I have no doubt that the Society of Lloyd's and its representatives have a
+genuine apprehension or concern that trouble might break out, if I could put it
+that way, once the protection of the ECRO is removed. That is based on their past
+experience and on the background of vexatiousness in the past, all those matters
+which were taken into account by Steel J when he made the order in November
+2007.
+25. But their apprehension, based on the past, does not seem to me necessarily to
+make it appropriate to grant an extension of the order at this juncture. There must
+be something more solid in my judgment. The mere request for documents and
+information on 2 November would not justify such an apprehension. The mere
+negative failure to comply with the request for an assurance as to the future does
+not amount to a threat or solid grounds for an apprehension or fear as to the
+future.
+26. It is said to be irrational on Mrs Noel's part that she turned down the offer that
+was made to her in November, which was that the outstanding costs order of
+£16,000 would not be enforced if she were to give such an undertaking. That was
+such a carrot, it is suggested, that she must have in mind an intention to make
+further applications or to launch further claims of a vexatious nature.
+27. I think that is to infer too much from her limited conduct so far and I feel in
+all the circumstances, therefore, that the criteria have not been fulfilled to date. I
+would add, however, if evidence emerges in the future, in particular the near
+future, that there is an intention to make any vexatious claim, or an application
+launched, then the matter will be reviewed in the light of that further evidence."
+And, at paragraph 43 of his judgment, Mr Justice Lewis quoted again from paragraph
+10 of the decision of Mr Justice Eady:
+9
+Page 123 of 380
+HHJ PAUL MATTHEWS SITTING AS A JUDGE OF THE
+HIGH COURT
+Approved Judgment
+37.
+38.
+39.
+Ashcroft v Webster
+"10. It seems to me that it would be necessary in such circumstances for Lloyd's
+to demonstrate why it is now appropriate for a fresh order to be made. There
+cannot simply be a presumption of continuance. There must be evidence that the
+criteria are once again fulfilled. Of course, the background is important as
+background and the degree of persistence, in particular, prior to the original order
+being made would, no doubt, be a highly relevant factor. So too would the
+conduct of the relevant person after, the order was made; the extent, for example,
+to which he/she had sought to get round the order or made unmeritorious
+applications during its subsistence."
+In a more recent decision of Mr Justice Warby, in The Chief Constable of Avon and
+Somerset Constabulary v Gray [2016] EWHC 2998 (QB), the judge made two
+observations which are relevant to the present application:
+"7. (2)... Secondly, the threshold requirements in PD 3C 4.1 needs to be satisfied
+before a GCRO is made. But the test for the grant of an extension is different: it is
+whether the court "considers it appropriate”. This plainly makes sense, as a
+person who has already been subject to a GCRO will in principle have had no
+opportunity to issue any TWM claim or application, other than an application for
+permission to proceed, or to vary or discharge the GCRO.
+[ … ]
+(4). Fourthly, as Mr Gray has emphasised, a CRO interferes with the right of
+access to a court. That is a fundamental civil right. The court must be alive to
+that, and wary of too readily imposing restrictions upon the right of access.
+Restrictions should be imposed only if and to the extent that they are necessary in
+the pursuit of a legitimate aim. In the case of a CRO the legitimate aims in view
+include the protection of the rights of others, to be free from the waste of time and
+precious resources that flow from the bringing of unfounded claims and
+applications. The scarce publicly funded resources of the court also require
+protection against such waste. These are considerations which justify the
+existence of the CRO regime."
+From these authorities it is clear that, in considering whether it is appropriate to
+extend the ECRO, I cannot go back to the beginning and ask whether the court would
+now be justified in imposing a further ECRO. For one thing, that would be to give
+double credit for the applications or claims held to be “totally without merit” that
+justified the order in the first place. For another, the filter mechanism means that there
+are not inherently likely to be many further applications anyway, much less many
+which are "totally without merit”. Third, the test for an extension is simply whether
+the court considers that it is "appropriate" to do so. It is quite different from the test
+for the first ECRO.
+On the other hand, in considering whether it is "appropriate", all the circumstances
+must be taken into account. Here, the Defendant's conduct leading to the ECRO is
+still relevant, not least as setting the scene: cf Noel v Society of Lloyd's [2010] EWHC
+360, [38]-[46]. Normal people do not behave in this way. They eventually accept that
+they have lost, and move on. For such persons, not subject to an ECRO, the
+subsequent conduct on its own might be more susceptible of an innocent, non-
+10
+Page 124 of 380
+HHJ PAUL MATTHEWS SITTING AS A JUDGE OF THE
+HIGH COURT
+Approved Judgment
+Ashcroft v Webster
+vexatious explanation. But where an ECRO has properly been made, what comes
+afterwards is seen through the prism of the earlier conduct. In such a case it is easier
+to see the likelihood of further vexatious conduct. This is not double-counting, but
+rather better understanding a person's motivation in acting in a particular way.
+Submissions
+40.
+41.
+42.
+43.
+44.
+The Claimants submit that during the course of the existing (first) extended Civil
+Restraint Order the Defendant has persistently issued proceedings which touch upon
+the same underlying matters that were first determined against him by HH Judge
+Purle QC, which are without merit, and continue to impose burdens both in time and
+costs, not only on the Claimants, but also on the system and its users.
+The Claimants further submit that the Defendant is simply waiting for the expiry of
+the current civil restraint order in order to issue further applications against the
+Claimants. They say that the Defendant imposes costs on others at little or no cost to
+himself, and has no means to pay any costs of litigation. There is no real prospect,
+they say, of any future costs incurred by the Claimants in dealing with or responding
+to the Defendant's litigation being satisfied. Accordingly, they submit that it is
+appropriate for the civil restraint order to be extended, and for 2 years on this
+occasion.
+The Defendant rejects these arguments. He submits that the civil restraint order
+jurisdiction ought to be exercised sparingly, and says that his conduct is not as severe
+as has been claimed. He says the complaints are over 18 months old and following an
+appellate process. He submits that the application is unwarranted and unnecessary. At
+the hearing he told me that the Solicitors Regulation Authority had said he should go
+to the Ombudsman. But the letter dated 9 March 2015 from Lord Faulks QC at the
+Ministry of Justice said instead that he should go to the courts. He invites the Court to
+dismiss the application.
+Discussion
+For the Defendant, the problem stems from the fact that the implementation of the tax
+planning exercise in 1992 did not carry into effect what he says was an (oral)
+agreement between his grandfather Captain Webster and the Second Claimant, Mr
+Penley. He referred me to a letter written by Mr Penley to the Defendant's
+grandparents on 24 April 1992 (pages 165-6 of the bundle). He says that, three years
+later, his grandmother changed her mind and instructed Mr Penley to put the oral
+agreement in writing. But Mr Penley, it is said, refused.
+However that may be (and of course I make no findings on any of these points), all of
+this was either part of, or should have been part of, the litigation fought out before
+HHJ Purle QC, and decided by him in 2013. The Defendant sought to appeal, but two
+Court of Appeal judges, looking at the matter separately (one on the papers, the other
+at an oral hearing) and taking into account what he wanted to say, each concluded
+there was no real prospect of success, and each refused permission. So the Defendant
+has had his “day in court", his opportunity to prove his case, and an experienced trial
+judge (reviewed by two more senior judges afterwards) has held that he has failed to
+do so. In our system, that ought to be the end of the matter. Other people have cases to
+be heard and decided, too.
+11
+Page 125 of 380
+HHJ PAUL MATTHEWS SITTING AS A JUDGE OF THE
+HIGH COURT
+Approved Judgment
+45.
+46.
+47.
+48.
+49.
+Ashcroft v Webster
+Since then, however, the Defendant has repeatedly sought to go back over all or some
+of the issues raised and decided in that litigation. He placed two pending land action
+entries and two land charges on the Land Charges Register in relation to the land,
+which had to be vacated. He brought two further separate claims against the
+Claimants, and interfered with the proposed sale of the property to the extent that the
+Claimants were obliged to bring further proceedings (successfully) to restrain him.
+These actions led directly to the first ECRO in the present case, that of March 2015.
+The Defendant also brought the three sets of valuation proceedings against the Second
+Defendant.
+Since the first ECRO, the Defendant has unsuccessfully tried all avenues of appeal
+from that and other orders, including those striking out the three sets of valuation
+proceedings. He has issued the Request for Further Information under CPR Part 18,
+the application to set aside the default judgment, the three new claims against the
+Ministry of Justice (to which he has said the Claimants should be joined: see the
+Clarke Willmott letter of 2 February 2017 (bundle, 34/189)), and has also sought to
+argue the Companies House address issue. All of these, to a greater or lesser extent,
+raise questions mirroring or overlapping with those arising in the original claim
+dismissed by HHJ Purle QC. All of them burden the Claimants, and sometimes others,
+to some extent. And they take up huge amounts of time and court resources that,
+frankly, the system can no longer afford. The Defendant has already had far more than
+his fair share of these, without at any stage having any sufficient merit to his claims.
+At the hearing before me, where his conduct and behaviour since the imposition of the
+ECRO were considered, the Defendant accepted that he had gone too far in seeking to
+set aside the default judgment and put in a defence raising issues already decided. He
+also said that the Companies House issue had been resolved, as he had changed the
+address for his company to a box number. But, in answer to a question from me, he
+made clear that he is still complaining about the decision of HHJ Purle QC, and that,
+if he could get back into possession of the property through the courts, he would do
+SO.
+It is clear from the authorities cited to me that there is no presumption of continuance
+of an expiring ECRO. There must be evidence that it is “appropriate" to extend its
+life. I ask myself whether, in the words of Mr Justice Eady, there is "good reason to
+apprehend … persistent vexatiousness for the future”. Mere concern on the part of the
+Claimants is not enough.
+On the material before me, my appreciation of the present situation is this. The
+Defendant has made some progress. He now has at least some self-awareness in
+relation to his own difficulties in moving on from the judgment of HHJ Purle QC. He
+claims to have resolved the Companies House issue, and accepts he went too far with
+the default judgment application. But he still believes that the decision of HHJ Purle
+QC was wrong, and, despite having had more than his share of court resources he is
+still looking for a way to get round or over it, using the courts to get back into
+possession of the property if he can. He intends, if permitted, to make further
+applications in future: see his letter of 10 January 2017 and his email of 8 March 2017
+(bundle, 33/177 and 37/226). He persists in an irrational refusal to take “no” for an
+answer.
+12
+Page 126 of 380
+HHJ PAUL MATTHEWS SITTING AS A JUDGE OF THE
+HIGH COURT
+Approved Judgment
+50.
+51.
+Ashcroft v Webster
+Moreover, so far as I can see, he has no money to pay any costs orders made against
+him. I was told at the hearing by the Claimants that, in addition to approximately
+£120,000 of costs orders which are secured against entitlements of the Defendants
+under family trusts, there are a further £150,000 of costs orders which remain
+unsecured. The Defendant challenges these figures. He says that about £186,000 of
+costs are secured and only £47,000 plus interest are unsecured.
+As to the Defendant's financial resources, in his witness statement dated 7 March
+2017 in relation to the charging orders made in the original claim, he says
+"13. [...] My financial position is that legal insurers paid out their entire
+indemnity fund of £100,000 to solicitors. I then found myself evicted, I say
+unlawfully and possibly fraud. Local Police told me it was a civil matter requiring
+a court process, and so I paid out funds to solicitors and barristers to protect my
+(and my mother's) home and property. Having now forfeited my house, and
+office, and my small agricultural business, I cannot afford to pay more money to
+court."
+In addition, his marriage has broken down. Sadly, he has nothing more to lose.
+Conclusion
+52.
+53.
+54.
+In my judgment, the Defendant's behaviour since the ECRO of March 2015, in the
+light of everything that has gone before, shows that there remains a clear and serious
+risk to the Claimants, to third parties such as the new owners of the property, and
+(importantly) to the administration of public justice, which is simply too great to
+allow the first ECRO not to be continued.
+I have considered whether it would be safe to extend the ECRO for a short period, for
+example six months or even one year, so that the restraint can be limited in time as far
+as possible. I have concluded, however, that that would not be enough. We are now
+nearly four years on from the original decision of HHJ Purle QC, and, as I say, the
+Defendant still wants to overturn it if he can. I see no sign that six months' or a year's
+further lapse of time would cause the risk of vexatious behaviour on his part to
+diminish sufficiently.
+I will therefore extend the order (but of course limited to the High Court and the
+County Court) to expire on 22 March 2019.
+13
+Page 127 of 380
+PTA Template 269C1 OCT16 - First Appeal
+IN THE COURT OF APPEAL, CIVIL DIVISION
+REF: A3/2017/1685/PTA
+Her Majesty's
+Court of Appeal
+[SEAL]
+06 OCT 2017
+COURT OF APPEAL
+PENLEY & ANR
+-V-
+WEBSTER
+ORDER made by the Rt. Hon. Lady Justice Asplin
+On consideration of the appellant's notice and accompanying documents, but without an oral hearing, in respect of an
+application for permission to appeal
+Decision: granted, refused, adjourned. An order granting permission may limit the issues to be heard or be
+made subject to conditions.
+Permission to appeal refused.
+Reasons
+The second, third and fourth grounds of appeal are not directed to the content of the order under appeal and do not
+form a challenge to it. The order of HHJ Paul Matthews sitting in the Bristol District Registry of the Chancery
+Division, dated 28 April 2017 extended the order of 23 March 2015 by which an ECRO was imposed, until 22 March
+2019. The second, third and fourth grounds of appeal are concerned with the Appellant's underlying complaint about
+possession of a home and agricultural business and therefore, are not relevant to the criteria applied by HJJ Paul
+Matthews when deciding to extend the ECRO. They have no real prospect of success.
+There is no real prospect of success on the first ground of appeal. The order dated 28 April 2017 applies to the
+Appellant/Defendant and not his family, their rights and freedoms. It is not directed to the relevant criteria in relation
+to the extension of an ECRO.
+There is no other compelling reason why the appeal should be heard.
+Information for or directions to the parties
+*
+This case falls within the Court of Appeal Mediation Scheme automatic pilot categories. Yes
+Recommended for mediation
+If not, please give reason:
+Yes
+No
+Where permission has been granted, or the application adjourned
+a) time estimate (excluding judgment)
+b) any expedition
+Signed:
+No
+5. Aplin
+Notes
+(1) Rule 52.6(1) provides that permission to appeal may be given only where-
+a)
+Date: 4 October 2017
+the Court considers that the appeal would have a real prospect of success; or
+b) there is some other compelling reason why the appeal should be heard.
+By the Court
+(2) Where permission to appeal has been refused on the papers, that decision is final and cannot be further reviewed or appealed. See rule 52.5
+MAJEnd section 54(4) of the Access to Justice Act 1999.
+Where permission to appeal has been granted you must serve the proposed bundle index on every respondent within 14 days of the date of
+the Listing Window Notification letter and seek to agree the bundle within 49 days of the date of the Listing Window Notification letter (see
+E&Wparagraph 21 of CPR PD 52C).
+HER MA
+(3)
+Page 128 of 380
+COURT
+OF
+APPE
+ROYAL
+OURTS
+OF J
+NEUTRAL CITATION NUMBER: [2017] EWHC 3626 (Ch)
+Case No: HC-2016-001499
+IN THE HIGH COURT OF JUSTICE
+BUSINESS AND PROPERTY COURT OF ENGLAND AND WALES
+CHANCERY DIVISION
+Rolls Building
+Fetter Lane
+London
+EC4A 1NL
+BEFORE:
+BETWEEN:
+22 November 2017
+THE HONOURABLE MR. JUSTICE MARCUS SMITH
+RUPERT ST JOHN WEBSTER
+-and-
+MINISTRY OF JUSTICE
+Claimant
+Defendant
+THE CLAIMANT appeared in person
+MR. TOM RAINSBURY (instructed by Government Legal Department) appeared on
+behalf of the Defendant
+Hearing date: 22 November 2017
+Approved Judgment
+Digital Transcript of Wordwave International Ltd trading as DTI
+8th Floor, 165 Fleet Street, London, EC4A 2DY
+Tel No: 0207 404 1400 Fax No: 020 7404 1424
+Web: www.DTIGlobal.com
+Email: TTP@dtiglobal.eu
+(Official Shorthand Writers to the Court)
+This Transcript is Crown Copyright. It may not be reproduced in whole or in part other than in accordance with relevant licence or with
+the express consent of the Authority. All rights are reserved.
+If this transcript is to be reported or published, there is a requirement to ensure that no reporting restriction will be breached. This is
+particularly important in relation to any case involving a sexual offence, where the victim is guaranteed lifetime anonymity (Sexual Offences
+(Amendment) Act 1992), or where an order has been made in relation to a young person.
+Page 129 of 380

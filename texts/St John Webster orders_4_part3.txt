@@ -1,0 +1,499 @@
+IN THE HIGH COURT OF JUSTICE
+HIGH
+*
+COUR
+OF
+JUSTICE
+CH-2020-008 May 2022
+BUSINESS AND PROPERTY COURTS OF ENGLAND AND WALES
+CHANCERY APPEALS
+WALES
+USINESS & PROPERTY COURTS OF ENGLAND &
+CH-2020-000194
+MR JUSTICE MILES
+6 May 2022
+BETWEEN:
+RUPERT ST JOHN WEBSTER
+APPLICANT
+and
+JOHN FRANCIS PENLEY
+RESPONDENT
+ORDER
+UPON the Applicant seeking to issue an application for a certificate under section 12 of the
+Administration of Justice Act 1969 (the “Section 12 application") from the decision of HHJ
+Matthews, sitting for the Business and Property Courts at Bristol in a judgment of 15 December
+2021 and order of 23 December 2021
+AND UPON the Respondent bringing the application to the Court's attention under the
+Extended Civil Restraint Order restraining the Applicant
+AND UPON reading the papers and correspondence filed with the Court by the Applicant and
+the Respondent
+IT IS ORDERED THAT
+The application for permission to apply to HHJ Matthews to issue the Section 12 application
+is refused
+REASONS
+1. Mr Webster seeks (by his letter of 25 April 2022) permission to apply for a certificate
+under s. 12 of the Administration of Justice Act 1969. He requires this permission under
+the ECRO dated 10 February 2021. I have considered his application and the letter
+from Womble Bond Dickinson dated 25 April 2022.
+Page 253 of 311
+2. The application for a certificate concerns an order made by HHJ Paul Matthews on 23
+December 2021 reflecting his judgment of 15 December 2021. By the order the judge
+struck out the claims.
+3. I do not consider that there is any realistic prospect that HHJ Matthews (the judge)
+would grant such a certificate. My reasons follow:
+a. The decision of the judge did not involve a point of law of general public
+importance which any judge could reasonably think was suitable for a s.12
+certificate. The decision was made by applying well-established principles
+concerning pleadings, procedure and limitation.
+b. The decision did not relate wholly mainly to the construction of an enactment
+which was fully argued and fully considered in the proceedings. Mr Webster
+refers in the materials filed before me to various enactments which he says could
+have been in issue but they are not the basis of the decision.
+c. There is no point of law involved in the decision which was one where the judge
+was bound by previous decisions of the Court of Appeal or the Supreme Court
+in previous proceedings and fully considered by such courts in such
+proceedings.
+d. The judge refused to grant permission to appeal (see [7] of the order of 23
+December 2021). A section 12 certificate presupposes that the judge is satisfied
+that there is a sufficient case for an appeal to the Supreme Court. The judge has
+already decided that he does not consider the case is a proper one for an appeal
+at all.
+e. Moreover, the judge also recorded (see [20] of the order of 23 December 2021)
+that this is not a proper case for a leapfrog certificate under s.12. Hence he has
+already decided the point against Mr Webster and there is nothing in the
+materials filed to lead one to think that the judge would change that view.
+f. The application for a certificate must be made immediately after the judge gives
+judgment or within 14 days from the giving of judgment or such other time as
+may be prescribed by rules of court. The application was not made within those
+periods and there to my mind no realistic prospect of further time being granted.
+4. For these reasons the application for permission to make the application for a s.12
+certificate is refused. I also consider that the application for permission under the
+ECRO is totally without merit.
+5. NOTICE TO THE APPLICANT. Any future applications under the ECRO should
+be by application notice in accordance with Part 23 of the CPR.
+Page 254 of 311
+SERVICE
+The Court has provided a sealed copy of the order to the parties and/or their legal
+representatives.
+Page 255 of 311
+PTA Template 269C1 - OCT16 - First Appeal
+ET MON
+COURT OF APPEAL
+First Appeal
+IN THE COURT OF APPEAL, CIVIL DIVISION
+REF: CA-2022-000051
+Webster -V- Penley
+MAJESTY
+COURT
+HER
+OF APPEAL
+(GS 14.06.19)
+18 May 2022
+CIVIL
+DIVISION
+ORDER made by the Rt. Hon. Lord Justice Lewison
+CA-2022-000051
+On consideration of the appellant's notice and accompanying documents, but without an oral hearing, in respect of an
+application for permission to appeal
+Decision: REFUSED
+An order granting permission may limit the issues to be heard or be made subject to conditions
+Reasons
+1. The claim advanced in the claim form and the Particulars of Claim ("the PoC") was a claim for damages for
+professional negligence. It was not a claim for possession of any property. Reliance on CPR Part 24.3 (Ground 1)is
+entirely misconceived. For the same reason whether the court has power to suspend an order for possession is
+irrelevant to a claim for damages for professional negligence (Ground 2).
+2. The judge correctly held that the allegations made in para 8 of the PoC were all statute barred as a result of s
+14B of the Limitation Act 1980. Ground 3 does not engage with this critical part of the judge's reasoning. The
+skeleton argument mentions section 32 of the Act (although it is not one of the grounds of appeal); and as the judge
+noted, s 32 was not relied upon before him. The skeleton argument also mentions s 21, but the PoC do not make
+any allegation of fraudulent breach of trust. As noted, the claim is one of professional negligence.
+3. The judge did not purport to strike out any earlier decision of the court (Ground 4). He considered the viability of
+the professional negligence claim before him as he was both entitled and required to do.
+4. The effect of the long stop date in s 14B of the Limitation Act 1980 bars a claim even where the claim has not
+accrued. That is made clear by s 14B (2). Thus whether an unborn member of a class can find a claim statute
+barred has been decided by Parliament. Whether that is or is not fair (Ground 5) is a matter for Parliament. In any
+event, the claim advanced is not a claim by anyone other than the claimant himself.
+5. The Equality Act 2010 was not in force at the time of the events complained of (Ground 6). Although the Disability
+Discrimination Act 1995 was in force, the PoC do not plead any cause of action arising under it. Even if they did, s 8
+of that Act provided for enforcement of duties to be within the jurisdiction of the industrial tribunal (now the
+Employment Tribunal); and s 25 provided that any claim for breach of statutory duty should be brought in the county
+court. But even if there had been a breach of the Disability Discrimination Act 1995, that would not have caused any
+loss to the claimant.
+6. The will referred to in ground 7 was admitted to probate in solemn form. The judge was correct to hold that any
+attempt to challenge it is an abuse of process.
+7. The allegations referred to in ground 8 are all statute barred as a result of s 14B of the Limitation Act 1980.
+9. I cannot see that grounds 9 or 10 add anything to the preceding grounds.
+10. Ground 11 (sale at an undervalue) is not a claim pleaded in the PoC. It cannot be the subject of an appeal.
+11. The judge was correct in deciding that in so far as form FR1 was incorrectly completed (Ground 12) any cause
+of action arose at the time it was completed and sent to HM Land Registry; with the consequence that both a claim
+in contract and a claim in tort were statute barred. Contrary to what is asserted in this ground the judge made no
+finding of fact about who (if anyone) was in actual possession. What is relevant is not when the form was disclosed
+but when the cause of action arose (Ground 13). As the judge noted there was no reliance before him on s 32 of the
+1980 Act.
+12. Ground 14 repeats preceding grounds of appeal and sets out the alleged consequences of failure in the appeal.
+It overlooks, however, that as the judge held many of the claims the claimant wished to advance in these
+proceedings had already been litigated and decided adversely to him in previous proceedings. This was a plain case
+of abuse of process.
+13. None of the grounds of appeal has any prospect of success.
+Page 256 of 311
+Information for or directions to the parties
+Mediation: Where permission has been granted or the application adjourned:
+Does the case fall within the Court of Appeal Mediation Scheme (CAMS) automatic
+pilot categories (see below)?
+Pilot categories:
+Yes/No (delete as appropriate)
+Inheritance disputes.
+• All cases involving a litigant in person (other than immigration and family
+appeals)
+•
+Boundary disputes;
+•
+•
+EAT Appeals
+·
+• Personal injury and clinical negligence cases;
+• All other professional negligence cases;
+• Small contract cases below £500,000 in judgment (or claim) value, but not
+where principal issue is non-contractual;
+If yes, is there any reason not to refer to CAMS mediation under the pilot?
+If yes, please give reason:
+Non-pilot cases: Do you wish to make a recommendation for mediation?
+Where permission has been granted, or the application adjourned
+a) time estimate (excluding judgment)
+b) any expedition
+Residential landlord and
+tenant appeals
+Yes/No (delete as appropriate)
+Yes/No (delete as appropriate)
+Signed:
+Date: 18 May 2022
+BY THE COURT
+Notes
+(1) Rule 52.6(1) provides that permission to appeal may be given only where -
+a)
+b)
+the Court considers that the appeal would have a real prospect of success; or
+there is some other compelling reason why the appeal should be heard.
+(2) Where permission to appeal has been refused on the papers, that decision is final and cannot be further reviewed or appealed. See rule 52.5
+and section 54(4) of the Access to Justice Act 1999.
+(3) Where permission to appeal has been granted you must serve the proposed bundle index on every respondent within 14 days of the date of
+the Listing Window Notification letter and seek to agree the bundle within 49 days of the date of the Listing Window Notification letter (see
+paragraph 21 of CPR PD 52C).
+Case Number: CA-2022-000051
+Page 257 of 311
+HIGH
+COUR
+*
+OF
+JUSTICE
+IN THE HIGH COURT OF JUSTICE
+BUSINESS AND PROPERTY COURTS OF ENGLAND AND WALES
+CHANCERY APPEALS
+19
+CH-2020-0001ay 2022
+WALES
+USINESS & PROPERTY COURTS OF ENGLAND
+CH-2020-000194
+BETWEEN:
+RUPERT ST JOHN WEBSTER
+APPLICANT
+and
+JOHN FRANCIS PENLEY
+RESPONDENT
+ORDER
+UPON the Applicant issuing an application dated 19 May 2022 for permission to make an
+application to grant a certificate under section 12 of the Administration of Justice Act 1969 for
+leave to bring an appeal to the Supreme Court (the “Section 12 application") from the decision
+of HHJ Matthews, sitting for the Business and Property Courts at Bristol
+AND UPON reading the papers filed with the Court
+AND UPON the Court noting that the order of Mr Justice Miles dated 6 May 2022 also refused
+permission to make a similar application to grant a certificate under section 12 of the
+Administration of Justice Act 1969
+IT IS ORDERED
+The application for permission to apply to the High Court to issue the Section 12 application
+is refused. The application is totally without merit.
+REASONS
+1. This is the second application for permission to apply to HH Judge Paul Matthews QC
+(the trial judge) for a section 12 certificate. I refused the first (identical) application on
+6 May 2022. I gave full reasons in that order.
+2. I have considered the skeleton argument served by the applicant. Nothing in it affects
+any of the reasons given in my order of 6 May 2022. They are to be treated as repeated
+herein.
+3. Since 6 May 2022 Lewison LJ has refused the application for permission to appeal to
+the Court of Appeal on the grounds that there an appeal would have no prospects of
+Page 258 of 311
+success. This is a further reason why the application for a s.12 certificate would be
+hopeless: both the trial judge and the Court of Appeal, who have considered the
+potential prospects of the proposed appeal have decided that it has no realistic
+prospects. It would be inconceivable in such circumstances for the trial judge to grant
+a s. 12 certificate.
+SERVICE
+The Court has provided a sealed copy of the order to the parties and/or their legal
+representatives.
+Page 259 of 311
+General Form of Judgment or Order
+In the County Court at
+Bristol
+Claim Number
+Date
+FO0YE161
+8 June 2022
+THE
+COUNTY
+COURT
+MR BRUCE KERSTIN WEIR TRUSTEE OF J S NEAL DECEASED TRUST
+1st Claimant
+Ref S BOWLEY DL/
+EP/90578/042
+MS LESLEY JOAN GASKELL TRUSTEE OF J S NEAL DECEASED TRUST 2nd Claimant
+PERSONS UNKNOWN
+Ref
+1st Defendant
+Ref
+RUPERT ST JOHN WEBSTER
+2nd Defendant
+Ref
+Before District Judge Markland sitting at the County Court at Bristol, Bristol Civil Justice Centre, Number 2,
+Redcliff Street, Bristol, BS1 6GR.
+Upon reading the Claimant's application dated 12 May 2022
+IT IS ORDERED THAT
+1) Permission to the Claimants to issue a arrant of possession in respect of the possession order dated 16 January
+2020
+2) No order as to costs
+Dated 30 May 2022
+The court office at the County Court at Bristol, Bristol Civil Justice Centre, 2 Redcliff Street, Bristol, BS1 6GR. When corresponding with the court, please address forms
+or letters to the Court Manager and quote the claim number. Tel: 0117 3664800 Fax: 0870 3240048. Check if you can issue your claim online. It will save you time
+and money. Go to www.moneyclaim.gov.uk to find out more.
+N24 General Form of Judgment or Order
+Page 269 DA Bilalite
+CJR065C
+General Form of Judgment or Order
+In the County Court at
+Bristol
+Claim Number
+Date
+F00YE161
+3 August 2022
+THE CO
+COUNTY
+COURT
+MR BRUCE KERSTIN WEIR TRUSTEE OF JS NEAL DECEASED TRUST
+1st Claimant
+Ref S BOWLEY DL/
+EP/90578/042
+MS LESLEY JOAN GASKELL TRUSTEE OF J S NEAL DECEASED TRUST 2nd Claimant
+PERSONS UNKNOWN
+Ref
+1st Defendant
+Ref
+RUPERT ST JOHN WEBSTER
+2nd Defendant
+Ref
+Before District Judge Brown sitting at the County Court at Bristol, Bristol Civil Justice Centre, Number 2, Redcliff
+Street, Bristol, BS1 6GR.
+IT IS ORDERED THAT
+The case be transferred to the Yeovil County Court to list the Defendants application.
+Dated 3 August 2022
+The court office at the County Court at Bristol, Bristol Civil Justice Centre, 2 Redcliff Street, Bristol, BS1 6GR. When corresponding with the court, please address forms
+or letters to the Court Manager and quote the claim number. Tel: 0117 3664800 Fax: 0870 3240048. Check if you can issue your claim online. It will save you time
+and money. Go to www.moneyclaim.gov.uk to find out more.
+N24 General Form of Judgment or Order
+Page 26 of Bilit
+CJR065C
+Notice of Hearing
+In the County Court at
+Bristol
+Claim Number
+Date
+F00YE161
+4 August 2022
+THE
+COUNTY
+COURT
+MR BRUCE KERSTIN WEIR TRUSTEE OF J S NEAL DECEASED TRUST
+1st Claimant
+Ref S BOWLEY DL/
+EP/90578/042
+MS LESLEY JOAN GASKELL TRUSTEE OF J S NEAL DECEASED TRUST 2nd Claimant
+PERSONS UNKNOWN
+RUPERT ST JOHN WEBSTER
+Ref
+1st Defendant
+Ref
+2nd
+Defendant
+Ref
+TAKE NOTICE that the Hearing will take place on
+9 August 2022 at 3:45 PM
+at the County Court at Yeovil, The Law Courts, Petters Way, Yeovil, Somerset, BA20 1SW
+When you should attend remotely by MS Teams
+15 minutes has been allowed for the Hearing
+ORDER
+1. The parties must supply or confirm both their email and telephone contact details to the court not less than 21
+days before any hearing. They must do so in writing or by email. Depending on the nature of the hearing that may
+include the contact details of the party, their advocate and/or any witnesses.
+2. If the hearing notice is provided less than 21 days before the next hearing then the parties must take steps to
+comply with this order immediately upon receipt.
+3. The parties should note that:
+(1) It is the responsibility of each party to ensure that the court has the required contact details to allow a remote
+hearing in accordance with this order. It is not the court's responsibility to contact the parties requesting these
+details; the court does not generally have capacity to do so.
+The court office at the County Court at Bristol, Bristol Civil Justice Centre, 2 Redcliff Street, Bristol, BS1 6GR. When corresponding with the court, please address forms
+or letters to the Court Manager and quote the claim number. Tel: 0117 3664800 Fax: 0870 3240048. Check if you can issue your claim online. It will save you time
+and money. Go to www.moneyclaim.gov.uk to find out more.
+N24 Notice of PTR/Adjnd/Restored/Hrg/Management Conference
+Prod Rage 262 of 11
+CJR024
+General Form of Judgment or Order
+In the County Court at
+Bristol
+Claim Number
+Date
+FOOYE161
+19 August 2022
+COUNTY
+THE COU
+COURT
+MR BRUCE KERSTIN WEIR TRUSTEE OF JS NEAL DECEASED TRUST
+1st Claimant
+Ref S BOWLEY DL/
+EP/90578/042
+MS LESLEY JOAN GASKELL TRUSTEE OF J S NEAL DECEASED TRUST 2nd Claimant
+PERSONS UNKNOWN
+Ref
+1st Defendant
+Ref
+RUPERT ST JOHN WEBSTER
+2nd Defendant
+Ref
+Before Deputy District Judge Guppy sitting at the County Court at Yeovil, The Law Courts, Petters Way,
+Yeovil, Somerset, BA20 1SW.
+UPON reading the Claimant's email dated 10 August 2022
+UPON the Claimant's agreeing to withdraw their Warrant of Possession dated 14 June 2022 ('the Warrant')
+IT IS ORDERED THAT:
+1. The hearing listed at 12 noon 10 August 2022 be vacated.
+2. The planned eviction on 11 August 2022 pursuant to the Warrant shall be cancelled.
+The court office at the County Court at Bristol, Bristol Civil Justice Centre, 2 Redcliff Street, Bristol, BS1 6GR. When corresponding with the court, please address forms
+or letters to the Court Manager and quote the claim number. Tel: 0117 3664800 Fax: 0870 3240048. Check if you can issue your claim online. It will save you time
+and money. Go to www.moneyclaim.gov.uk to find out more.
+N24 General Form of Judgment or Order
+ProduPage 2631of3b
+CJR065C
+3. No order as to costs.
+Dated 10 August 2022
+Page 264 of 311
+AMENDED
+General Form of Judgment or Order
+In the County Court at
+Bristol
+Claim Number
+Date
+F00YE161
+8 June 2022
+19/8/22
+THE
+COUNTY
+COURT
+MR BRUCE KERSTIN WEIR TRUSTEE OF J S NEAL DECEASED TRUST
+1st Claimant
+Ref S BOWLEY DL/
+EP/90578/042
+MS LESLEY JOAN GASKELL TRUSTEE OF J S NEAL DECEASED TRUST 2nd Claimant
+PERSONS UNKNOWN
+Ref
+1st Defendant
+Ref
+RUPERT ST JOHN WEBSTER
+2nd Defendant
+Ref
+Before District Judge Markland sitting at the County Court at Bristol, Bristol Civil Justice Centre, Number 2,
+Redcliff Street, Bristol, BS1 6GR.
+Upon reading the Claimant's application dated 12 May 2022
+VECT
+WARRANT
+COUNTY
+1) Permission to the Claimants to issue a arrant of possession in respect of the possession order dated 16 January
+2020
+IT IS ORDERED THAT
+2) No order as to costs
+Dated 30 May 2022
+The court office at the County Court at Bristol, Bristol Civil Justice Centre, 2 Redcliff Street, Bristol, BS1 6GR. When corresponding with the court, please address forms
+or letters to the Court Manager and quote the claim number. Tel: 0117 3664800 Fax: 0870 3240048. Check if you can issue your claim online. It will save you time
+and money. Go to www.moneyclaim.gov.uk to find out more.
+N24 General Form of Judgment or Order
+Produced by:L Aluzaite
+CHR0656
+Page 265 0111
+AMENDED
+General Form of Judgment or Order
+In the County Court at
+Bristol
+Claim Number
+F00YE161
+8 June 2022
+Date
+19/08/22
+THE
+COUNTY
+COURT
+MR BRUCE KERSTIN WEIR TRUSTEE OF JS NEAL DECEASED TRUST
+1st Claimant
+Ref S BOWLEY DL/
+EP/90578/042
+MS LESLEY JOAN GASKELL TRUSTEE OF JS NEAL DECEASED TRUST 2nd Claimant
+PERSONS UNKNOWN
+Ref
+1st Defendant
+Ref
+RUPERT ST JOHN WEBSTER
+2nd Defendant
+Ref
+Before District Judge Markland sitting at the County Court at Bristol, Bristol Civil Justice Centre, Number 2,
+Redcliff Street, Bristol, BS1 6GR.
+Upon reading the Claimant's application dated 12 May 2022
+IT IS ORDERED THAT
+WARRANT
+1) Permission to the Claimants to issue a arrant of possession in respect of the possession order dated 16 January
+2020
+2) No order as to costs
+Dated 30 May 2022
+The court office at the County Court at Bristol, Bristol Civil Justice Centre, 2 Redcliff Street, Bristol, BS1 6GR. When corresponding with the court, please address forms
+or letters to the Court Manager and quote the claim number. Tel: 0117 3664800 Fax: 0870 3240048. Check if you can issue your claim online. It will save you time
+and money. Go to www.moneyclaim.gov.uk to find out more.
+N24 General Form of Judgment or Order
+Produced by:L Aluzaite
+Page 26 of 311
+Notice of Hearing
+In the County Court at
+Yeovil
+Claim Number
+Date
+F00YE161
+7 November 2022
+THE CO
+COUNTY
+COURT
+MR BRUCE KERSTIN WEIR TRUSTEE OF JS NEAL DECEASED TRUST
+1st Claimant
+Ref S BOWLEY DL/
+EP/90578/042
+MS LESLEY JOAN GASKELL TRUSTEE OF J S NEAL DECEASED TRUST 2nd Claimant
+PERSONS UNKNOWN
+Ref
+1st Defendant
+Ref
+RUPERT ST JOHN WEBSTER
+2nd Defendant
+Ref
+TAKE NOTICE that the Hearing will take place on
+9 January 2023 at 2:00 PM
+at the County Court at Yeovil, The Law Courts, Petters Way, Yeovil, Somerset, BA20 1SW
+When you should attend in person
+1 hour has been allowed for the Hearing
+Please Note: This case may be released to another Judge, possibly at a different Court
+The court office at the County Court at Yeovil, The Law Courts, Petters Way, Yeovil, Somerset, BA20 1SW. When corresponding with the court, please address forms
+or letters to the Court Manager and quote the claim number. Tel: 01935 382150 Fax: 0870 3240162. Check if you can issue your claim online. It will save you time
+and money. Go to www.moneyclaim.gov.uk to find out more.
+N24 Notice of PTR/Adjnd/Restored/Hrg/Management Conference
+ProdPagey 267hiof Billy
+CJR024

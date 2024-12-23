@@ -1,0 +1,700 @@
+HHJ Paul Matthews
+Approved Judgment
+Webster v Penley & Anor (Strike-out)
+33.
+c. Claim No. B30BS071 (“the Trespass and Injunction Proceedings")
+whereby the First Defendant and Virginia, as the then legal owners of
+The Priory, obtained permanent injunctive relief against the Claimant's
+slander of their title and trespass on The Priory by order of HHJ
+McCahill QC dated 23 March 2015."
+In this judgment, I shall use the expressions “the Original Claim”, “the Possession
+Proceedings” and “the Trespass and Injunction Proceedings" in the same way, to refer
+to the three sets of proceedings referred to above respectively. One consequence of
+the claimant's lack of success in all the litigation in which he has been involved to
+date is that adverse costs orders have swallowed up all the interests to which he was
+entitled under the various wills and trusts. This has an impact on parts of the present
+application.
+Limitation
+34.
+35.
+Paragraph 7 of the defence goes on to say:
+"Without prejudice to the remainder of the Defence set out below, the claim was
+issued on 9 February 2021. Any claim in negligence arising out of any act before
+9 February 2006 is accordingly barred for limitation pursuant to s. 14B Limitation
+Act 1980. The Defendants contend that insofar as they purport to allege
+negligence against the First and/or Second Defendants, then paragraphs 8 to 20
+should be struck out accordingly."
+The relevant provisions of the Limitation Act 1980 are as follows:
+"2. Time limit for actions founded on tort.
+An action founded on tort shall not be brought after the expiration of six years
+from the date on which the cause of action accrued.
+[...]
+5. Time limit for actions founded on simple contract.
+An action founded on simple contract shall not be brought after the expiration of
+six years from the date on which the cause of action accrued.
+[...]
+[14A.― Special time limit for negligence actions where facts relevant to cause of
+action are not known at date of accrual.
+(1) This section applies to any action for damages for negligence, other than
+one to which section 11 of this Act applies, where the starting date for
+reckoning the period of limitation under subsection (4)(b) below falls after
+the date on which the cause of action accrued.
+(2) Section 2 of this Act shall not apply to an action to which this section
+applies.
+17
+Page 321 of 380
+HHJ Paul Matthews
+Approved Judgment
+Webster v Penley & Anor (Strike-out)
+(3) An action to which this section applies shall not be brought after the
+expiration of the period applicable in accordance with subsection (4) below.
+(4) That period is either—
+(a) six years from the date on which the cause of action accrued; or
+(b) three years from the starting date as defined by subsection (5)
+below, if that period expires later than the period mentioned in
+paragraph (a) above.
+(5) For the purposes of this section, the starting date for reckoning the
+period of limitation under subsection (4)(b) above is the earliest date on
+which the plaintiff or any person in whom the cause of action was vested
+before him first had both the knowledge required for bringing an action for
+damages in respect of the relevant damage and a right to bring such an
+action.
+(6) In subsection (5) above ‘the knowledge required for bringing an action
+for damages in respect of the relevant damage' means knowledge both—
+(a) of the material facts about the damage in respect of which
+damages are claimed; and
+(b) of the other facts relevant to the current action mentioned in
+subsection (8) below.
+(7) For the purposes of subsection (6)(a) above, the material facts about the
+damage are such facts about the damage as would lead a reasonable person
+who had suffered such damage to consider it sufficiently serious to justify
+his instituting proceedings for damages against a defendant who did not
+dispute liability and was able to satisfy a judgment.
+(8) The other facts referred to in subsection (6)(b) above are—
+(a) that the damage was attributable in whole or in part to the act or
+omission which is alleged to constitute negligence; and
+(b) the identity of the defendant; and
+(c) if it is alleged that the act or omission was that of a person other
+than the defendant, the identity of that person and the additional facts
+supporting the bringing of an action against the defendant.
+(9) Knowledge that any acts or omissions did or did not, as a matter of law,
+involve negligence is irrelevant for the purposes of subsection (5) above.
+(10) For the purposes of this section a person's knowledge includes
+knowledge which he might reasonably have been expected to acquire―
+(a) from facts observable or ascertainable by him; or
+18
+Page 322 of 380
+HHJ Paul Matthews
+Approved Judgment
+Webster v Penley & Anor (Strike-out)
+(b) from facts ascertainable by him with the help of appropriate expert
+advice which it is reasonable for him to seek;
+but a person shall not be taken by virtue of this subsection to have
+knowledge of a fact ascertainable only with the help of expert advice
+so long as he has taken all reasonable steps to obtain (and, where
+appropriate, to act on) that advice.]
+[14B. Overriding time limit for negligence actions not involving personal
+injuries.
+(1) An action for damages for negligence, other than one to which section
+11 of this Act applies, shall not be brought after the expiration of fifteen
+years from the date (or, if more than one, from the last of the dates) on
+which there occurred any act or omission―
+(a) which is alleged to constitute negligence; and
+(b) to which the damage in respect of which damages are claimed is
+alleged to be attributable (in whole or in part).
+(2) This section bars the right of action in a case to which subsection (1)
+above applies notwithstanding that—
+(a) the cause of action has not yet accrued; or
+(b) where section 14A of this Act applies to the action, the date which
+is for the purposes of that section the starting date for reckoning the
+period mentioned in subsection (4)(b) of that section has not yet
+occurred;
+before the end of the period of limitation prescribed by this section.]
+[ … ]
+21. Time limit for actions in respect of trust property.
+(1) No period of limitation prescribed by this Act shall apply to an action by
+a beneficiary under a trust, being an action—
+(a) in respect of any fraud or fraudulent breach of trust to which the
+trustee was a party or privy; or
+(b) to recover from the trustee trust property or the proceeds of trust
+property in the possession of the trustee, or previously received by the
+trustee and converted to his use.
+(2) Where a trustee who is also a beneficiary under the trust receives or
+retains trust property or its proceeds as his share on a distribution of trust
+property under the trust, his liability in any action brought by virtue of
+subsection (1)(b) above to recover that property or its proceeds after the
+expiration of the period of limitation prescribed by this Act for bringing an
+19
+Page 323 of 380
+HHJ Paul Matthews
+Approved Judgment
+Webster v Penley & Anor (Strike-out)
+36.
+37.
+38.
+action to recover trust property shall be limited to the excess over his proper
+share. This subsection only applies if the trustee acted honestly and
+reasonably in making the distribution.
+(3) Subject to the preceding provisions of this section, an action by a
+beneficiary to recover trust property or in respect of any breach of trust, not
+being an action for which a period of limitation is prescribed by any other
+provision of this Act, shall not be brought after the expiration of six years
+from the date on which the right of action accrued. For the purposes of this
+subsection, the right of action shall not be treated as having accrued to any
+beneficiary entitled to a future interest in the trust property until the interest
+fell into possession.
+(4) No beneficiary as against whom there would be a good defence under
+this Act shall derive any greater or other benefit from a judgment or order
+obtained by any other beneficiary than he could have obtained if he had
+brought the action and this Act had been pleaded in defence.”
+As I have already said, no reply has been filed by the claimant, and accordingly, with
+one possible exception, no facts are pleaded which might engage the provisions of
+Part II of the Limitation Act 1980 to postpone or extend the relevant limitation
+periods. The one possible exception is that the claimant argues that his father's motor
+neurone disease constituted a “disability” for the purposes of sections 28 and 28A.
+However, and as was pointed out by Mr Wooding for the defendants, section 38(2) of
+the Act provides that:
+"For the purposes of this Act a person shall be treated as under a disability while
+he is an infant, or [lacks capacity (within the meaning of the Mental Capacity Act
+2005) to conduct legal proceedings]."
+It is clear therefore that a physical illness is not enough for this purpose, unless it
+deprives the person of capacity. The claimant accepted before me that that was not
+this case.
+In one of the letters he wrote to the court after the hearing (to which I refer at the end
+of this judgment) the claimant sought to apply section 38(2) to himself, because he
+said a lack of capacity was alleged of him in relation to the application in 2015 to
+exhume the body of his late father. Even if that were true, it would not show that he
+lacked mental capacity for the purposes of the section 38(2) at the time of the
+application. Moreover, and as I have already said, the claimant has not filed a reply to
+plead any reliance on the provisions of the Limitation Act extending time limits. In
+any event, the factual premise is wrong. As will be seen later, there was no suggestion
+in Mrs Jennifer Webster's application for exhumation that the claimant lacked mental
+capacity.
+In English law, the cause of action for breach of contract is complete without proof of
+substantive loss: see eg Gibbs v Guild (1881) 8 QBD 296. However, the cause of
+action in the tort of negligence is not complete until the claimant has suffered
+actionable damage as a result of the breach of duty: see eg Coburn v Colledge [1897]
+1 QB 702, CA. The date on which that happens is the date of the accrual of the cause
+of action. Where the claim is for negligent professional advice, the loss generally
+20
+20
+Page 324 of 380
+HHJ Paul Matthews
+Approved Judgment
+Webster v Penley & Anor (Strike-out)
+occurs at the time that the client enters into the transaction in reliance on the advice,
+rather than when the transaction later goes wrong or produces an adverse result:
+Forster v Outred & Co [1982] 1 WLR 86, CA. However, the imposition of a wholly
+contingent liability does not amount to actual loss unless and until the contingency
+occurs: Law Society v Sephton & Co [2006] 2 AC 543, HL. It is also clear that where
+a lawyer advises negligently on a scheme to save inheritance tax, there is no claim in
+negligence for the deceased (because the liability to pay the tax is a liability which
+arises only on death), and therefore no such claim can pass into the estate, although, if
+there were, it would arise at the time that the advice was implemented: Daniels v
+Thompson [2004] EWCA Civ 307, [42], [59], [72].
+Discussion
+Paragraphs 7 and 8
+39.
+I turn therefore to the application of the rules I have set out to the claimant's case
+before me. Paragraphs 7 and 8 make a number of claims. One is that the advice on
+estate planning given by a firm called Bevirs in February 1992 was wrong and that the
+defendants “administered it anyway causing loss and damage” to the estate of Captain
+Antony Webster (the claimant's grandfather). So far as the claim is not against the
+defendants it must fail anyway, because Bevirs are not a party. But even as against the
+defendants, it does not state a cause of action. Giving or administering "wrong"
+advice is not in itself a tort or any other cause of action. In any event, and most
+importantly, the acts and omissions complained of date from 1992, and even the
+"longstop" fifteen-year limitation period under section 14B had expired before the
+claim was issued. There must be summary judgment for the defendants in relation to
+this part of the claim.
+Paragraphs 8.3 and 8.4
+40.
+Another claim in paragraphs 8.3 and 8.4 is that the defendants would not claim
+agricultural property relief from inheritance tax on Captain Webster's estate and
+neither would they apply what is said to be the "protection" of the Trusts of Land and
+Appointment of Trustees Act 1996 for the benefit of the claimant's family. The
+failures were said in paragraph 8.4 to amount to fraud under sections 3 and 4 of the
+Fraud Act 2006. First of all, the pleading in paragraph 8.3 does not state a cause of
+action, eg it does not allege that the omissions were negligent and/or in breach of
+duty, giving particulars. Merely pleading that this amounts to the criminal office of
+"fraud” (without any particulars) does not improve matters. But again the fundamental
+problem is that the acts and omissions complained of date from the period after
+Captain Webster's death in 1996, and even the “longstop” fifteen year period had
+expired before the claim was issued. There must again be summary judgment for the
+defendants under this head.
+Paragraphs 9 to 12
+41.
+Paragraphs 9 to 12 claim that the mutual intentions of Captain Webster and his wife
+Valerie, including to confer life interests upon the claimant and his father Valentine,
+and an alleged “deal” among beneficiaries on the future of his farm were not
+implemented by "the wills and trust produced” by the defendants. The first problem
+for the claimant here is that the allegations in respect of the mutual intentions and the
+21
+Page 325 of 380
+HHJ Paul Matthews
+Approved Judgment
+Webster v Penley & Anor (Strike-out)
+42.
+43.
+alleged "deal" were made in two of the earlier proceedings involving the claimant and
+resolved against him. In the Original Claim HHJ Purle QC held that the proprietary
+estoppel claim advanced by the claimant on behalf of his father's estate wholly failed.
+As the judge put it, having regard to the structure put in place in 1992,
+"30... That structure is wholly inconsistent with the estoppel claim. For that
+claim to succeed, I must find that Antony and Valerie did one thing, and told
+Valentine something different. Not only am I not persuaded that that was the
+case, but it is clear that all family members in fact knew what occurred in 1992,
+and (in due course) that Antony's will trust duly took effect in 1996. ...”
+Accordingly, there was no such mutual intention, nor any "deal" amongst the intended
+beneficiaries.
+In addition, the claimant attempted to run the argument again in the Possession
+Proceedings before HHJ McCahill QC, in seeking permission to amend his statement
+of case in those proceedings. But the judge both struck out the remaining parts of the
+proceedings and also refused permission to amend. Accordingly, to entertain these
+allegations again in these proceedings would be to permit the collateral attack on
+earlier decisions.
+But even if that were not so, once more the fundamental problem is that the acts and
+omissions complained of date from 1992 through to the period after Captain
+Webster's death in 1996, and even the “longstop" fifteen-year period had expired
+before the claim was issued. There must once again be summary judgment for the
+defendants.
+Paragraphs 13 to 16
+44.
+Paragraphs 13 to 16 plead Captain Webster's death on 10 February 1996, allege that
+the defendants failed to ensure any deal among Captain Webster's issue, and in July
+1996 both falsely represented that life interests could not be created and gave
+negligent advice to Mrs Valerie Webster in a letter, which misled her into revoking
+her 1992 will by making a new one in September 1998 (itself “revised" by a further
+will of November 2000), so that the “mutual aims” of Captain and Mrs Webster were
+not carried out. Once again, the problem is that the acts and omissions complained of
+date from 1996 through to 2001, and even the “longstop” fifteen-year period had
+expired before the claim was issued. There must therefore be summary judgment on
+this part of the claim for the defendants. In any event, the claim on behalf of Mrs
+Valerie Webster's estate must also fail, for two distinct reasons. One is that the
+claimant has no standing to make it, not being her personal representative. The other
+is that her 1998 will was not her last will (that was the will of 2006) and so any
+complaints that the defendants obtained the revocation of the 1998 will could not be
+causative of any loss. There are other problems with this part of the case as well, but
+in the circumstances it is not necessary to deal with them.
+Paragraph 17
+45.
+Paragraph 17 is an allegation of reliance by the claimant on the alleged
+encouragement “to expect to own ‘The Priory' farmhouse..." This claim must fail for
+the same reasons as given in relation to the claim under paragraphs 9 to 12 above,
+22
+Page 326 of 380
+HHJ Paul Matthews
+Approved Judgment
+Webster v Penley & Anor (Strike-out)
+namely that it amounts to a collateral attack on decisions made in the Original
+Proceedings and the Possession Proceedings, and in any event the acts complained of
+took place so long ago that they are now statute barred under section 14B, if not under
+section 2.
+Paragraphs 18 and 19
+46.
+Paragraphs 18 and 19 deal with an offer in July 2005 by the first defendant to retire as
+executor and trustee of Captain Webster's will, which was not implemented, even
+though the first defendant had allegedly lost the confidence of Mrs Webster and her
+children. But these allegations do not amount to an allegation of the tort of
+negligence, or indeed any other tort, and must therefore fail. In addition, the acts and
+omissions complained of took place more than 15 years before this claim was issued,
+and are accordingly caught by section 14B of the 1980 Act. There must therefore be
+summary judgment in favour of the defendants.
+Paragraphs 20-22 and 24
+47.
+48.
+Paragraphs 20-22 and 24 deal with the attempt in 2005 by Mrs Valerie Webster to
+instruct another solicitor to prepare a codicil to her will and the preparation by the
+defendants of a further will of Mrs Webster dated 24 May 2006, revoking her will of
+2000. This will had appointed the claimant's father as an executor and trustee, but the
+2006 will appointed the first defendant instead, it is said on the basis that the
+claimant's father was then suffering from motor neurone disease. The claimant says
+that this was contrary to the United Nations Convention on the Rights of Persons with
+Disabilities. The claimant pleads an attempted revocation by Mrs Webster of the May
+2006 will by a further will and letter in September 2006.
+This part of the claim is wholly inconsistent with, and therefore amounts to a
+collateral attack on, the decision in the Original Claim to admit the 2006 will to
+probate in solemn form, and the finding that Mrs Webster knew and approved the
+contents. In his judgment, the judge said this:
+"49. Mr Penley confirmed that this was an accurate attendance note. He also
+explained in an affidavit that he made on 1st June 2006 that he explained the Will
+in considerable detail including taking her through the Will line by line for the
+relevant clauses. I accept that evidence. No-one has challenged Valerie's capacity
+at this time. That is, of course, a separate question of whether she knew and
+approved of the contents of this Will. The evidence before me was that Valerie
+not merely had sufficient capacity but was generally in full possession of her
+mental faculties right up to the day she died, despite her great age (98 when she
+made the 2006 Will). She was a strong-willed lady perfectly capable of making
+up her own mind. Moreover, the same attendance note reveals that she raised with
+Mr Penley intelligent questions concerning tax penalties.
+50. I have no doubt that Valerie knew and approved of the contents of the 2006
+Will. It makes no difference that the instructions to Mr Penley came from Rory.
+Rory was her son and she trusted him to pass on her wishes. Likewise, it makes
+no difference that Rory and Virginia were both present. That was Valerie's wish.
+What matters is that the contents were fully explained to her, and that she
+23
+23
+Page 327 of 380
+HHJ Paul Matthews
+Approved Judgment
+Webster v Penley & Anor (Strike-out)
+understood the Will, which I am satisfied she did. The Will was a rational
+response to the dilemma that Valentine might well die before her.
+51. It is said that she gave different instructions to another solicitor, Mrs Booth,
+not long previously (initially in mid to late 2005, and then again in early 2006).
+Mrs Booth declined to carry out those instructions, as she did not feel it
+appropriate for Valerie to be completing any fresh documentation in view of her
+great age and current health. I leave aside the period immediately following
+Valentine's death, dealt with later. As capacity is not challenged before me, this
+point is of minimal relevance. The fact that she made different dispositions in the
+events which happened is not that unusual or remarkable. Old people commonly
+do change their wills. Anyone can change their mind from one month to the next,
+or even from one day to the next.
+[...]
+55. In all the circumstances, I pronounce in favour of the validity of the 2006
+Will."
+Accordingly, this part of the claim must be struck out as an abuse of process.
+Paragraphs 23 and 25 to 27
+49.
+Paragraph 23 pleads the claimant's father's death on 16 September 2006, and
+paragraph 25 pleads the death of Mrs Webster in August 2007. The defendants admit
+both. Paragraph 26 pleads that on 2 June 2008 the defendants wrote to the claimant's
+mother Jennifer “to confirm the inheritance position on Valerie's [the grandmother's]
+estate”. Paragraph 27 alleges that the defendants did not remain neutral, “by
+proactively litigating against the [claimant's] family..." None of these paragraphs,
+singly or taken together, makes allegations amounting to professional or any other
+kind of negligence, nor indeed to any other cause of action. They should be struck out.
+Paragraph 28
+50.
+Paragraph 28 alleges a breach of the second defendant's contract of retainer on 22
+July 2014 by completing Panel 12 in the Form FR1 relating to the registration of The
+Priory incorrectly, with alleged knowledge of the misstatement in question, namely
+that only the first defendant “is in actual possession of the property...". Paragraph 29
+refers to this as a “fraudulent title registered at Land Registry”. So far as there is an
+allegation of breach of contract, any such cause of action, having accrued on or before
+22 July 2014, would now be barred by section 5 of the Limitation Act 1980. Any
+cause of action in tort would also have arisen on the same date, as being the date of
+registration, and therefore when any damage would be suffered. That would be barred
+by section 2 of the Limitation Act 1980. In the circumstances I do not think I need to
+decide whether there would have been any real prospect of successfully showing
+negligence or breach of contract on the facts, although, for the reasons set out in
+paragraph 52 of the Defence, my present view is that there would not. I must give
+summary judgment to the defendants on this part of the claim.
+Paragraph 29
+24
+Page 328 of 380
+HHJ Paul Matthews
+Approved Judgment
+Webster v Penley & Anor (Strike-out)
+51.
+Paragraph 29 goes on to allege that the defendants illegally seized the claimant's
+possessions and wrongfully evicted him and his children without consent or a court
+order, which it is said was an offence under the 1996 Act. These are matters dealt with
+in both the Possession Proceedings and the Trespass and Injunction Proceedings, and
+this part of the claim is therefore an attack on the findings of DDJ Orme (who struck
+out an allegation that the claimant had a tenancy in relation to The Priory) and of HHJ
+McCahill QC (who struck out the rest of the proceedings) in the former proceedings
+and of HHJ McCahill QC in the latter, and amounts to an abuse of process. This part
+of the claim should therefore be struck out.
+Paragraph 30
+52.
+Paragraph 30 alleges that the "illegally obtained title was used to obtain [the
+claimant's] wrongful arrest by the Police". This does not however state a cause of
+action against the defendants, and should also be struck out.
+Paragraphs 31 and 32
+53.
+Paragraphs 31 and 32 deal with the possession proceedings brought (successfully) by
+the first defendant and Virginia Ashcroft against the claimant in respect of The Priory,
+and the later sale by them of the property to a third party. These paragraphs also make
+no claim against the defendants and should be struck out.
+Paragraph 33
+54.
+Paragraph 33 alleges that the defendants “failed to take proper care in an application
+to the Home Office" for the exhumation of the claimant's father's remains from the
+property. This paragraph does not state a cause of action. For example, it does not
+plead any loss. Moreover, the particulars of the failure to take proper care are that the
+defendants "approv[ed] a false statement that [the claimant] suffers from mental
+illness that means that [the claimant] should not be informed of a family matter." A
+copy of the application for exhumation contained in the bundle provided to the court
+by the claimant shows that in fact the application was made to the Ministry of Justice,
+but more fundamentally was not made by the defendants at all. It was made by Mrs
+Jennifer Webster, the claimant's mother. Nor did it state that the claimant suffered
+from "mental illness”. It said that he was against the sale of the property and would do
+everything in his power to stop it. It further said he was “mentally unstable over all of
+this”, and it would be better not to inform him of the application. Thus, even if a
+complete cause of action had been alleged by this paragraph, I would have granted
+reverse summary judgment on the basis that there is no real prospect of the claimant
+succeeding on this part of his claim.
+Paragraph 34
+55.
+Paragraph 34 pleads that the second defendant retained the proceeds of sale of The
+Priory, and also that Virginia Ashcroft brought a claim against the first defendant
+which was not notified to the claimant, his mother or his children. A copy of the claim
+form, sealed on 20 August 2019, was included in the claimant's bundle before me.
+The claim was one under CPR Part 8 for the first defendant to be removed as executor
+of Valerie Webster's estate under section 50 of the Administration of Justice Act
+1985. The claimant was not a party to the claim, and there was no legal requirement
+25
+Page 329 of 380
+HHJ Paul Matthews
+Approved Judgment
+Webster v Penley & Anor (Strike-out)
+that he should be one. Neither of these allegations can amount, without more, to a
+cause of action against the defendants, and this paragraph should be struck out
+accordingly.
+Paragraph 35
+56.
+57.
+58.
+59.
+60.
+61.
+Lastly, paragraph 35 pleads the loss and damage allegedly suffered by the claimant
+and "the aforesaid St John Webster family”. So far as the claimant is seeking to make
+a claim on behalf of “the aforesaid St John Webster family”, there is no clarity as to
+exactly what that term means, but, even if there were, the claimant has no standing to
+make such a claim. It is nowhere stated, for example, that the claimant is making any
+of his claims in any representative capacity, such as the capacity of personal
+representative of a named person's estate. As stated in paragraph 1 of the particulars
+of claim, the claimant claims as “an intended beneficiary under the 6 April 1992
+Trusts & Will of Anthony St John Webster ... and under a Trust, Settlement & Will
+of Valerie St John Webster ...” That means that there is no standing to make the
+claims stated in paragraphs 35.1.1 to 35.1.5 and 35.1.8 to 35.1.10, except so far as
+concerns the claimant himself personally.
+So far as the claim is being made on behalf of the claimant himself, the various heads
+of claim encounter several difficulties. The first and most obvious is that the
+preceding paragraphs of the particulars of claim either state no cause of action (see
+paragraphs 23, 25-27, 30-34) or those paragraphs should be struck out (see paragraphs
+20-22, 24, 29) or reverse summary judgment should be given against the claimant in
+respect of them (see paragraphs 7-19, 28). Accordingly, the particulars of loss cannot
+take the matter any further. To put the matter another way, you cannot turn something
+which is not a claim in law into such a claim by saying that you have suffered a loss
+in respect of it (except in the case where allegations not amounting to a claim in tort
+are completed by an allegation of loss, which is not the case here). Nor can you turn a
+claim which has been struck out or in respect of which summary judgment has been
+given against you into a claim which has not been struck out or has not had summary
+judgment given in respect of it, by saying that you have suffered a loss in respect of it.
+But there are other difficulties as well. As to paragraph 35.1.1 (loss of agricultural
+property relief to Mrs Valerie Webster's estate, in the sum of £61,594.99), I was told
+by counsel at the hearing that the claimant's one-twelfth interest in that estate has long
+been exhausted by costs orders made against the claimant arising from the earlier
+litigation, and a one twelfth share in an additional £61,594.99, being £5,133, would
+equally have been used up.
+As to paragraph 35.1.2 (loss of occupation of part of The Priory and loss of the
+“mutual intentions" of Captain and Mrs Webster), the decisions in the earlier
+proceedings make clear that the claimant had no such right of occupation and there
+were no such enforceable “mutual intentions".
+As to paragraph 35.1.3 (unlawful eviction) this was the subject of the Possession
+Proceedings which were struck out as totally without merit.
+As to paragraph 35.1.4 (unpaid works on the property in the 1980s), the claimant
+showed me the invoices concerned, but not only was the work alleged to have been
+26
+Page 330 of 380
+HHJ Paul Matthews
+Approved Judgment
+Webster v Penley & Anor (Strike-out)
+62.
+63.
+64.
+65.
+66.
+67.
+68.
+69.
+70.
+71.
+done by the claimant's father, but the work was done in the period from the 1980s to
+2006, and any claim is accordingly statute barred under section 5 of the 1980 Act.
+As to paragraph 35.1.5 (loss of reasonable financial provision), this appears to relate
+to possible claims against Captain Webster's estate under the Inheritance (Provision
+for Families and Dependants) Act 1975. However, such claims must be made within
+six months of probate being obtained, and are now long out of time. Moreover, at no
+time since the death of Captain Webster in 1996 has the claimant attempted to make
+such a claim.
+As to paragraph 35.1.6 (loss of the claimant's Maidenhead flat in 2001), the judgment
+of HHJ Purle QC in the Original Claim said:
+"23. ... In my judgment, no representation or promise to the effect suggested by
+Rupert was ever made. Nor, if I am wrong about that, was there detrimental
+reliance."
+Hence the decision of the claimant to sell the flat was his own.
+As to paragraph 35.1.7 (loss of earnings as a result of DJ Million's order of 24 March
+2009), this is the opportunity cost to the claimant of litigating (and losing) the
+Original Claim. It is therefore not recoverable in any event.
+As to paragraph 35.1.8 (loss of registration of rights in The Priory), the decisions in
+the earlier proceedings make clear that the claimant had no such right capable of
+binding the property and therefore capable of registration. He has therefore lost
+nothing in this respect, and it would be a collateral attack on the findings of the court
+to allow this paragraph to stand.
+As to paragraph 35.1.9 (loss of right to purchase The Priory), the judgment of HHJ
+Purle QC in the Original Claim made clear that there was no promise of any such
+right. Accordingly, this paragraph is a collateral attack on that finding, and must be
+struck out.
+As to paragraph 35.1.10 (loss of “legal and beneficial ownership" of Captain
+Webster's "trust land" since 1996) the decisions in the earlier litigation mean that the
+claimant never had any right to such a thing. Accordingly, this paragraph too is a
+collateral attack on that finding, and must fail.
+As to paragraph 35.2 (loss of “goodwill”), this discloses no recoverable loss.
+As to paragraph 35.3 (court costs since DJ Million's order of 24 March 2009), the
+court orders made against the claimant in the litigation so far are decisions of the
+various courts involved, as a result of the conduct of the claimant himself, and cannot
+be recovered in these proceedings.
+As to paragraph 35.4 (the claimant's divorce from his wife), the loss alleged is too
+remote to be recoverable.
+As to paragraph 35.5 (loss of the claimant's “family burial ground”), it is difficult to
+see how the grave of the claimant's father in the grounds of The Priory can amount to
+a "family burial ground", let alone the claimant's “family burial ground”. In any
+27
+Page 331 of 380
+HHJ Paul Matthews
+Approved Judgment
+Webster v Penley & Anor (Strike-out)
+event, on the material before me, there is no real prospect of the claimant establishing
+that any such “loss” was the responsibility of the defendants, rather than of the
+claimant's mother, Jennifer Webster, who actually applied for the exhumation licence.
+But the reality is that, if and to the extent that this is a loss of the claimant, it adds
+nothing to his alleged losses of rights in The Priory, already discussed above. There is
+no separate basis for saying that this represents a loss of the claimant.
+Opportunity to amend?
+72.
+73.
+74.
+I have considered whether, in respect of the paragraphs in the particulars of claim (23,
+25-27, 30-34) which are liable to be struck out for failing to state complete causes of
+action, I should offer an opportunity to the claimant to amend his case so as to plead
+proper causes of action, as in Kim v Park [2011] EWHC 1781 (QB), discussed earlier.
+That of course was a case where the defect, though important, lay within a modest
+compass, and the claimant both explained at the time why it had not been corrected,
+and then subsequently provided the court with the material with which it could be
+corrected.
+This case is quite different. First of all, I have held that most of the claims in this
+negligence action fail anyway, for other reasons, either because of limitation or
+because of abuse of process. So far as concerns the remainder, the years of litigation
+that the claimant has indulged in, using enormous quantities of scarce judicial
+resources, with no substantive success so far, and in the process exhausting his own
+entitlement to share in the family wealth in pursuit of a greater share at the expense of
+his other relatives, and the number of extended civil restraint orders made against
+him, demonstrate that the claimant simply cannot process his lack of success as due to
+a lack of merits according to law (rather than according to his personal sense of what
+would be right).
+These are claims which, if they had any merits, should have been brought years ago.
+Correspondingly, the claimant has had years to consider how to frame his claims, and
+has had substantial assistance from pro bono counsel. Moreover, he has had the
+defendants' application to strike his claim out since early August, and has made no
+suggestion, let alone any attempt, to correct the defects. Here we are now in
+December, four months later. In my view, given the claimant's obsession with his
+claims, I do not consider that he is in any position rationally to correct the defects in
+his pleaded case, and I see no sufficient reason to leave this serious professional
+negligence claim hanging any longer over the heads of the defendants by giving him a
+further opportunity to attempt to do so.
+Conclusion
+75.
+The overall conclusion to which I have come is that the whole of this claim fails,
+either because it is liable to be struck out, or because I should give summary judgment
+to the defendants. I will deal with consequential matters in the first instance in
+writing. Each party should let me have its submissions by email by 4 pm on Friday 17
+December 2021, and its submissions in reply to those of the other side by 4 pm on
+Tuesday 21 December 2021. I will then decide whether there needs to be an oral
+hearing, or otherwise what consequential orders I should make.
+28
+88
+Page 332 of 380
+HHJ Paul Matthews
+Approved Judgment
+Webster v Penley & Anor (Strike-out)
+76.
+I should here add that, after I had reserved judgment on 2 December 2021, but before
+I had finished preparing this judgment, the claimant sent me a further submission in
+the form of a letter dated 6 December 2021, which I ensured was copied to the other
+side. On 13 December 2021 Mr Webster sent me a further letter submission, this time
+copied to the other side. Strictly speaking these further submissions are too late. There
+must be finality in argument, as in litigation, otherwise arguments might never be
+concluded. But by that stage the decision had not yet been handed down, and, partly
+because the first of them was sent only a few days after the hearing, and partly
+because both were short, but without deciding whether it was proper for me to do so, I
+have looked at them before reaching my decision. In fact, they made no difference.
+Postscript
+77.
+78.
+79.
+80.
+I have to record that, after I had circulated this judgment in draft on 13 December
+2021, seeking suggestions for corrections are obvious errors, I received two further
+emails from the claimant, one timed at 17:21 on 13 December 2021 and one timed at
+19:23 on the same day. The earlier email thanked me for my judgment, but continued:
+"An obvious omission is my interim reply dated 2 December 2021, which was filed
+and served on both parties, and I enclose a copy”. The second made further, more
+detailed arguments. Until I received that first email, I had not been aware that the
+claimant had even prepared, let alone filed and served a reply. The claimant had not
+referred to any such reply at the hearing, even when the defendant's counsel pointed
+out that no reply had been served. Nor did the claimant express any intention of
+preparing one, so that the propriety of doing so could be addressed.
+Having now checked CE file, I can see that the one-page “Interim Reply" to which the
+claimant referred me was submitted electronically at 11:42 on the 3 December 2021,
+and filed electronically some 30 minutes later. This was of course the day after the
+hearing of this application, and after I had reserved my judgment. At 17:58 on 13
+December 2021 the defendant's counsel sent an email to me objecting to my taking
+into account this further document as a matter of principle. But he also submitted that
+in any event all that the document did was to repeat points made by the claimant
+during his oral submissions.
+In my judgment, it is far too late for the claimant to be filing further statements of
+case, long out of time and without permission. There really has to be an end to the
+argument, or no decision would ever be reached. The claimant had the same
+opportunities to take advice, to file statements of case in accordance with the rules,
+and to make arguments at the hearing as any other litigant, whether in acting person or
+represented. He has taken full advantage of all three. It is quite wrong for him to try to
+correct an omission (if that is what it was) and seek to gain a procedural advantage
+after the hearing is over and the court has reserved its judgment.
+In any event, however, I have looked at the reply, in order to see whether it would
+have made any difference if it had been filed and served at the correct time. In my
+opinion it would not. All of the points which it seeks to make were made either in
+written or oral submissions at the hearing of this application. The only paragraphs
+which bear upon the limitation defence are paragraphs 2 and 8. Both deal with dates
+of knowledge by the claimant of material and other facts needed to know that an
+action might be brought. But section 14A(4)(b) of the Limitation Act 1980 provides
+for a limitation period of three years from the date of knowledge (if that is longer than
+29
+29
+Page 333 of 380
+HHJ Paul Matthews
+Approved Judgment
+Webster v Penley & Anor (Strike-out)
+81.
+82.
+83.
+the usual six-year period). In paragraph 2 it refers to knowledge obtained in 2012, and
+in paragraph 8 to knowledge obtained in 2015. Accordingly this pleading cannot
+assist the claimant. My judgment stands.
+A further matter which I should mention is that at 16:14 on 14 December 2021 the
+claimant electronically submitted an application to the court via CE-File for an
+extension of time in which to file a reply. This was filed electronically (and thus made
+available to court staff) at 10:15 this morning. I have read the application notice,
+which contains the evidence on which the claimant relies in box 10. He refers to the
+decision of Morgan J in Rind v Theodore Goddard [2008] EWHC 459 (Ch). That was
+a decision on different facts. In particular, the judge held that the limitation periods in
+that case had not expired by the time the claim was issued. I am satisfied that, for the
+reasons already given, the intended reply would make no difference to my decision.
+Accordingly, I have decided not to delay the handing-down of this judgment in order
+first to deal with this latest application. It will be overtaken by my order.
+Lastly, at 12:46 today, the claimant sent me what he called "a copy illustrating major
+errors and corrections" for me to consider making in my draft judgment. I had asked
+for these by 4 pm yesterday, so that I could hand down this judgment in final form at
+2 pm today (as stated in the email sending out the draft judgment and in the header to
+the draft judgment itself. The defendants complied with my request. The claimant
+however did not. Moreover, what the claimant has done is not to provide a list of
+corrections, but to interleave his suggested corrections to my draft judgment. Indeed,
+many of these are simply comments on, substantial additions to or even rewrites of
+portions of my judgment
+As a result, what was sent as a 55-page document (in double-spacing) has come back
+to me as a 69-page document. I am afraid that the courts cannot operate on the basis
+that parties are free to contribute whatever arguments they like whenever they like.
+Nor should the opportunity to suggest the correction of spelling and other minor
+errors be treated as an opportunity to re-argue the case (as paragraph 21.108 of the
+Chancery Guide makes clear), let alone to rewrite the judge's judgment. The rules are
+there to provide some certainty to everyone, to promote efficiency, and above all to
+give parties the same opportunities, so that the process is fair. I have looked through
+the corrections and additions that the claimant suggests, but decline to accede to any
+of them. As a result of this extra work, this judgment is being handed down later than
+I had intended. I am sorry about that.
+30
+30
+Page 334 of 380

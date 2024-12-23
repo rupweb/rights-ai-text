@@ -1,0 +1,627 @@
+Case No: B30BS071
+IN THE HIGH COURT OF JUSTICE
+Neutral Citation Number: [2021] EWHC 353 (Ch)
+BUSINESS AND PROPERTY COURTS IN BRISTOL
+PROPERTY TRUSTS AND PROBATE LIST (ChD)
+2 Redcliff Street
+Redcliffe
+Bristol BS1 6GR
+BEFORE:
+HIS HONOUR JUDGE PAUL MATTHEWS
+BETWEEN:
+Friday, 22 January 2021
+Claimants/Respondents
+(1) ALISON VIRGINIA ASHCROFT
+(2) JOHN FRANCIS PENLEY
+-and-
+RUPERT JOLYON RICHARD ST JOHN WEBSTER
+Defendant/Applicant
+MR O WOODING appeared on behalf of the First Claimant/Respondent
+The Second Claimant/Respondent appeared in person
+MR R TREVIS appeared on behalf of the Defendant/Applicant
+JUDGMENT
+(Approved)
+Digital Transcription by Epiq Europe Ltd,
+Unit 1 Blenheim Court, Beaufort Business Park, Bristol, BS32 4NE
+Web: www.epiqglobal.com/en-gb/ Email: civil@epiqglobal.co.uk
+(Official Shorthand Writers to the Court)
+This Transcript is Crown Copyright. It may not be reproduced in whole or in part other than in accordance with
+relevant licence or with the express consent of the Authority. All rights are reserved.
+WARNING: reporting restrictions may apply to the contents transcribed in this document, particularly if the case
+concerned a sexual offence or involved a child. Reporting restrictions prohibit the publication of the applicable
+information to the public or any section of the public, in writing, in a broadcast or by means of the internet, including
+social media. Anyone who receives a copy of this transcript is responsible in law for making sure that applicable
+restrictions are not breached. A person who breaches a reporting restriction is liable to a fine and/or imprisonment.
+For guidance on whether reporting restrictions apply, and to what information, ask at the court office or take legal
+advice.
+Epiq Europe Ltd, Unit 1 Blenheim Court, Beaufort Business Park, Bristol BS32 4NE
+www.epiqglobal.com/en-gb/
+Page 223 of 380
+1.
+2.
+3.
+JUDGE PAUL MATTHEWS: This is an application by notice dated 12 October 2020
+by Mr Webster to vary an order which was made by HHJ McCahill QC on 23 March
+2015. It has been heard remotely via the MS Teams video platform. The application is
+to remove a clause from that order, which it states as 3(c). But it is accepted that it is in
+fact clause 5(3)(c). I will come back to what it says. The application is not supported by
+a separate witness statement but only by the evidence contained in box 10 of the
+application notice, which is comparatively short. It says:
+"Defendant applies: that clause (3)(c) of the 23 March 2015 order is
+removed; to serve a skeleton argument in application
+CH-2020-000194 for permission to appeal a 6 August 2014 order
+out of time under claim number HC09C01570; to bring any claim
+under the Trusts of Land and Appointment of Trustees Act 1996
+sections 12 to 15; to bring a claim in professional negligence against
+the second defendant/his firm; to send a communication to the
+United Nations Disability Committee under article 1 of the Optional
+Protocol to the Convention on the Rights of Persons with
+Disabilities; to serve evidence in new claim BL-2019-BRS-000031
+between the first and second defendants; and to serve evidence in
+any other action that is commenced by any party. The HC09C01570
+skeleton argument is attached to this application. A copy of the
+23 March 2015 order is attached to this application."
+(Quote unchecked)
+The order of HHJ McCahill QC of 23 March 2015 followed a lengthy and detailed
+judgment given by the judge which was given ex tempore and the transcript for which
+covered more than 20 pages. That judgment and then the order implementing it were
+made following an application which was made by Mrs Ashcroft and Mr Penley by
+notice dated 23 May 2015. That application was made in two separate proceedings,
+B30BS107 and B30BS071, and the order dealt with both. What the order effectively said
+(and I am summarising) in relation to claim B30BS107 (where Mr Webster was claimant
+and Mrs Ashcroft and Mr Penley were defendants) was, first, that the claimant's
+application to amend his particulars of claim was refused as totally without merit;
+second, that the claimant's claim to vary the interim injunction in B30BS071 was to be
+treated as made in that claim and dealt with further on in the order; third, that the claim
+B30BS107 was struck out; and fourth, that the claimant (that is Mr Webster) was to pay
+the defendants' costs. That took up the first four paragraphs of the order.
+Then we come to claim B30BS071, in which Mrs Ashcroft and Mr Penley were the
+claimants and Mr Webster was the defendant. At paragraph 5 of the order, HHJ
+McCahill QC effectively entered judgment in default of a defence in favour of the
+claimants. Then there are a number of subparagraphs set out. The first stays the claim
+for damages with liberty to restore it. The second makes a declaration that the claimants
+are the freehold owners of The Priory. The third, which is the matter which we are
+concerned with, grants an injunction against the defendant (Mr Webster), prohibiting
+him, first of all, from entering the property (that is The Priory), and secondly from
+encouraging (and other similar actions) anyone else to enter The Priory.
+Epiq Europe Ltd, Unit 1 Blenheim Court, Beaufort Business Park, Bristol BS32 4NE
+www.epiqglobal.com/en-gb/
+Page 224 of 380
+4.
+5.
+6.
+7.
+8.
+Then thirdly (and this is the subparagraph 5(3)(c) that we are really concerned with in
+this application) it prohibits him from publishing statements of a number of kinds. These
+are (i) that either he or his father's estate (and that is Commander Valentine Webster) had
+an interest in the property, (ii) that the permission of the defendant or the estate of his
+father was required in order to sell the property, (iii) that the claimants were not the
+owners of the property, and (iv) that the claimants could not give instructions for the sale
+of the property. Then there was a further injunction against the defendant's interfering
+with the marketing or sale of the property, and also against making any entries against
+the properties at the Land Registry. However, subparagraph 5(3)(c) was subject to an
+exception for certain listed proceedings, and the details of those proceedings were given.
+There were five of them in total.
+The order then went on by paragraph 6 to deal with the defendant's application to vary
+the injunction in claim B30BS107. In paragraph 7, it released the claimants from various
+undertakings they had given. By paragraph 8, it was ordered that the defendant pay the
+claimants' costs. There were then some provisions which dealt with both claims. There
+were payments ordered on account of costs. Permission to appeal was refused to Mr
+Webster and an extended civil restraint order was made by the judge against him. That
+extended civil restraint order expired in 2017, when I renewed it for a further two years,
+but it expired in 2019.
+What Mr Webster wishes the court to do is to remove clause 5(3)(c) so that he is now
+free to publish statements of the kind which are set out in that part of the order without
+being limited to the listed proceedings. He has put forward a number of cases in which
+he wishes to make such statements. I will come back to those, but first I must consider
+what jurisdiction the court has to vary what was, in my judgment, a final order made by
+HHJ McCahill QC in that litigation.
+The only rule which is relied on here is that contained in CPR 3.1(7), which reads as
+follows:
+"A power of the court under these rules to make an order includes a
+power to vary or revoke the order."
+This is a rule which, on the face of it, looks extremely wide in scope. But it is clear from
+the cases which have been built up upon it that that scope is rather more limited than
+might first be imagined. I was referred in particular to the Court of Appeal's decision in
+Roult v The North West Strategic Health Authority [2010] 1 WLR 487 where Hughes LJ
+gave the judgment of the court.
+There, in particular at paragraph 15, Hughes LJ said this:
+"There is scant authority upon rule 3.1(7) but such as exists is
+unanimous in holding that it cannot constitute a power in a judge to
+hear an appeal from himself in respect of a final order. Neuberger J
+said as much in Customs & Excise Commissioners v Anchor Foods
+(No 2) The Times, 28 September 1999. So did Patten J in Lloyds
+Investment (Scandinavia) Ltd v Ager-Hanssen [2003] EWHC 1740
+Epiq Europe Ltd, Unit 1 Blenheim Court, Beaufort Business Park, Bristol BS32 4NE
+www.epiqglobal.com/en-gb/
+Page 225 of 380
+9.
+10.
+(Ch). His general approach was approved by this court, in the
+context of case management decisions, in Collier v Williams [2006]
+1 WLR 1945. I agree that, in its terms, the rule is not expressly
+confined to procedural orders. Like Patten J in the Ager-Hanssen
+case, I would not attempt any exhaustive classification of the
+circumstances in which it may be proper to invoke it. I am, however,
+in no doubt that CPR 3.1(7) cannot bear the weight which Mr
+Grime's argument seeks to place upon it. If it could, it would come
+close to permitting any party to ask any judge to review his own
+decision and, in effect, to hear an appeal from himself on the basis
+of some subsequent event. It would certainly permit any party to ask
+the judge to review his own decision when it is not suggested that he
+made any error. It may well be that, in the context of essentially case
+management decisions, the grounds for invoking the rule will
+generally fall into one or other of the two categories of (i) erroneous
+information at the time of the original order or (ii) subsequent event
+destroying the basis upon which it was made. The exigencies of case
+management may well call for a variation in planning from time to
+time in the light of developments. There may possibly be examples
+of non-procedural or continuing orders which may call for
+revocation or variation as they continue. An interlocutory injunction
+may be one. But it does not follow that, wherever one or other of
+the two assertions mentioned (erroneous information and subsequent
+event) can be made, then any party can return to the trial judge and
+ask him to reopen any decision. In particular, it does not follow, I
+have no doubt, where the judge's order is a final one disposing of the
+case, whether in whole or in part. And it especially does not apply
+where the order is founded upon a settlement agreed between the
+parties after the most detailed and highly-skilled advice. The
+interests of justice and of litigants generally require that a final order
+remains such unless proper grounds for appeal exist."
+In the present case, of course, this is not a final judgment on the merits. It is a final
+judgment given in default of defence. However, that does not matter. I refer to a recent
+decision of Zacaroli J in Sangha v Amicus Finance Plc [2020] EWHC 1074 (Ch), where
+at paragraph 26 he says:
+"The nature of the hearing at which an order is made is not
+determinative of the nature of the order made at it. An order may be
+final whether it is made on the merits after a trail or in default of
+compliance with orders or following summary judgment or strike-
+out."
+More recent decisions include the Court of Appeal's decision in Terry v BCS Corporate
+Acceptances Ltd [2018] EWCA Civ 2422 where Hamblen LJ gave the judgment of the
+court. At paragraph 75, Hamblen LJ said this:
+"In summary, the circumstances in which CPR 3.1(7) can be relied
+upon to vary or revoke an interim order are limited. Normally, it
+Epiq Europe Ltd, Unit 1 Blenheim Court, Beaufort Business Park, Bristol BS32 4NE
+www.epiqglobal.com/en-gb/
+Page 226 of 380
+11.
+12.
+13.
+14.
+will require a material change of circumstances since the order was
+made or the facts on which the original decision was made being
+misstated. General considerations such as these will not, however,
+justify varying or revoking a final order. The circumstances in
+which that will be done are likely to be very rare given the
+importance of finality. An example is provided by cases involving
+possession orders made when the defendant did not attend the
+hearing where CPR 39.3 may be relied upon by analogy
+see Hackney London Borough Council v Findlay [2011] EWCA Civ
+8, [2011] HLR 15. Another example is the use of powers akin to
+CPR 3.1(7) to vary or revoke financial orders made in family
+proceedings in relation to which there is a duty of full and frank
+disclosure and the court retains jurisdiction - see, for
+example, Sharland v Sharland [2015] UKSC 60, [2016] AC
+871 and Gohil v Gohil (No 2) [2015] UKSC 61, [2016] AC 849."
+In the case of Sangha, to which I have already referred, at paragraph 34 Zacaroli J sets
+out that paragraph from Terry and says in paragraph 35:
+"Three things are clear from this passage. First, in relation to a final
+order, it is not sufficient to show that there was a change in
+circumstances or that the facts were misstated at the time of the
+original decision. Second, the importance of finality is a critical
+consideration in an application to set aside a final order. Third, the
+circumstances in which it might be appropriate to set aside a final
+order will be very rare."
+What appears from the case law is that there is a distinction between the test for setting
+aside an interim order and for setting aside a final order which puts an end to the litigation
+or to a part of it. So far as interim orders are concerned, it is clear that CPR 3.1(7) can
+apply in at least two cases, first where there was erroneous basis for making the decision,
+and secondly where there has been a change of circumstances since it was made. In the
+other case, the case of the final order, it is clear that the test is stricter, because of the
+need for finality in the litigation. I have referred already to the remarks of Hamblen LJ
+in the Terry case at paragraph 75. Of course, it is clear that a judgment that has been
+obtained by fraud can be attacked subsequently, even if it is a final judgment, and it is
+clear that some kinds of possession order at least can be so attacked (for example, where
+the defendant was not present at the trial) but it is not clear whether any other kind of
+final order can be attacked using this rule.
+The history of the dispute and the litigation between the parties here is, unfortunately,
+lengthy and very sad because it represents a dispute inside a family. I set out the history
+of this litigation in my judgment in the case on the extension of the civil restraint order,
+Ashcroft & Penley v Webster [2017] EWHC 887 (Ch). In paragraphs 2 to 6, I set out the
+family background and then, in paragraphs 7 to 12, the original claim. I will not repeat
+those here. But I will summarise the position very briefly
+The claim had been issued by Mr Webster in 2009, his father having died in 2006.
+Essentially it said that his grandmother's will did not make proper provision and could
+Epiq Europe Ltd, Unit 1 Blenheim Court, Beaufort Business Park, Bristol BS32 4NE
+www.epiqglobal.com/en-gb/
+Page 227 of 380
+15.
+16.
+17.
+18.
+be attacked on two grounds. The first was that his father was entitled, as the eldest son,
+to inherit the family estate. The second was that he had a claim by way of proprietary
+estoppel to the estate. That claim was put forward and taken to trial by Mr Webster. It
+was dismissed by HHJ Purle QC on 22 May 2013. Notwithstanding that, there then
+followed further litigation, which I summarised in paragraphs 13 to 15 of my judgment,
+including (i) a claim being issued by Mr Webster for possession for part of The Priory,
+and (ii) a claim (which is the present claim) brought by Mrs Ashcroft and Mr Penley for
+in effect slander of title. This was brought on the basis that Mr Webster was making
+statements to the effect that Mrs Ashcroft and Mr Penley were not the owners and could
+not sell the property, et cetera. There was also a further application by Mr Webster to
+vary the injunction in the slander of title claim but I do not need to deal with that.
+Then I referred in my judgment to the fact that, at the end of that litigation involving
+slander of title and judgment being given in default against Mr Webster and in favour of
+Mrs Ashcroft and Mr Penley, the judge made an extended civil restraint order.
+Subsequent events were set out in paragraphs 18 to 31 of my judgment, which included
+further litigation which Mr Webster had brought against the Ministry of Justice.
+What Mr Trevis says on behalf of Mr Webster is that there are a number of further claims
+which are not listed among the exceptions to clause 5(3)(c) in the injunction, but in which
+Mr Webster would like to make reference to his claims to The Priory. However, he says
+that he is not allowed to by the terms of the injunction as it stands. The first one relates
+to proceedings brought in relation to a property in Kingsdon, which is some 30 miles
+away from Ash Priors where The Priory is. That relates to an estate which was occupied
+by Mr Webster's maternal grandparents and which, on the death of his maternal
+grandmother, was left by her in her will to her three daughters, including Mr Webster's
+mother (one of the three daughters, I think, had predeceased her but it does not matter).
+At all events, there is litigation going on between Mr Webster on the one hand and the
+trustees of the estate out of which the lease was granted to Mr Webster's maternal
+grandparents. In that litigation, Mr Webster makes a number of claims, including one to
+enfranchise the lease which had been granted to his maternal grandparents.
+Mr Webster wishes to put his case as strongly as possible in that claim and that, he says,
+will include referring to the claims to The Priory but he cannot do that by reason, he says,
+of clause 5(3)(c). In particular, he would like to say that he was unlawfully evicted from
+The Priory. Mr Trevis submitted that it would make his claim in relation to the Kingsdon
+matter stronger if he could say just that. Now, says Mr Trevis, The Priory has been sold
+and there is no longer any need for the protection of the trustees to continue the injunction
+so far as clause 5(3)(c) is concerned. I have to say for myself that I have some doubts as
+to whether Mr Webster's case in the Kingsdon proceedings would be actually
+strengthened by referring to having been unlawfully evicted as opposed to lawfully
+evicted but that, of course, is a matter for Mr Webster and his legal advisors.
+There is a second claim, or potential claim, which is the claim which Mr Webster wishes
+to bring against the second claimant, Mr Penley, and his former law firm. He also wishes
+to make a complaint to the Solicitors Regulation Authority and to the Legal Ombudsman
+about the conduct of that law firm. He says he cannot do this and he cannot bring the
+professional negligence claim because he is bound by the terms of the injunction. Mr
+Trevis points out that the ECRO that was made by HHJ McCahill QC specifically
+Epiq Europe Ltd, Unit 1 Blenheim Court, Beaufort Business Park, Bristol BS32 4NE
+www.epiqglobal.com/en-gb/
+Page 228 of 380
+19.
+20.
+21.
+22.
+23.
+excepted a professional negligence claim against Mr Penley's law firm from the scope of
+the ECRO but this injunction, however, does not. Mr Trevis says that Mr Webster would
+want to refer to the merits of his claim in order to obtain substantial damages.
+As it seems to me, the form of the injunction as granted does not seem to prevent any
+proceedings of the sort desired by Mr Webster to be brought against Mr Penley's law
+firm, nor to prevent a complaint being made to the SRA and the Legal Ombudsman. Mr
+Webster is perfectly entitled to issue proceedings saying, "Mr Penley's law firm were
+negligent [or gave unsatisfactory service or whatever] in the following respects and, had
+it been the case that they had done what they should have done, then I would have won
+my case. As it is, I lost it and Mrs Ashcroft and Mr Penley were held to be the owners
+of the property." In my view that would not be a breach of the injunction. But the main
+problem, it seems to me, with pursuing this claim is that the claim itself for negligence
+against the law firm would obviously be out of time. Mr Trevis suggested that time may
+run from a later date because of the disclosure of later correspondence. However, no
+particular detail of this was given, and I see difficulties in the way of any such contention,
+so it seems to me that this claim is likely to fail in any event.
+Mr Trevis did say that there is an incongruity between the order of 23 March 2015 and
+the ECRO. This is because the latter allows the professional negligence claim to be
+brought. I do not see this as incongruous at all. It simply means that any proceedings
+brought must respect the terms of the injunction. The claim can make the allegations of
+negligence and say, "Mr Penley's firm was negligent in the following respects and that,
+had it not been negligent, the result would have been different." What it cannot say is,
+"I am the owner of The Priory" or, "I have an interest in The Priory" or anything else
+prohibited by the injunction.
+Thirdly, there are TLATA claims which Mr Webster wishes to make. It is not clear,
+because he has not specified then, which claims he would make, and against whom, and
+exactly what these claims would concern. Mr Trevis suggested that they would be
+brought by Mr Webster as a trustee of his father's estate and that he would not be
+rerunning the proprietary estoppel case that failed before HHJ Purle QC. He suggested
+that that claim was different because it was founded on a different claimant, not the
+estate, but it seems to me again that any such claim would be out of time and should have
+been brought at the time. I cannot see how any such claim at this stage would have any
+prospect of success. Nevertheless, that is what Mr Webster would like to do.
+Mr Webster also wishes to make complaints to the United Nations and it may be that
+claims will eventually be brought pursuant to United Nations conventions in Geneva. I
+asked the question in argument whether the injunction would bite on any complaint made
+in Geneva and Mr Trevis suggested that, on the face of it, it would because Mr Webster
+was resident in England. In any event, as I suggested, it seems to me that the complaint
+would be against the UK Government, not against the individuals. It was suggested by
+Mr Trevis that the subject matter of the narrative would be a breach of clause 5(3)(c) but
+again I am far from satisfied that this is the case.
+Lastly, Mr Trevis referred to a claim which had apparently been brought between the
+trustees of the Kingdon estate, suggesting there was some kind of dispute between them.
+An order was made but I cannot see, if so, how it can have anything to do with
+Epiq Europe Ltd, Unit 1 Blenheim Court, Beaufort Business Park, Bristol BS32 4NE
+www.epiqglobal.com/en-gb/
+Page 229 of 380
+24.
+25.
+Mr Webster. Any such order cannot be binding on Mr Webster as a non-party, and, if
+the matter has been concluded, then there is nothing further to go on with and there is no
+prospect of Mr Webster being able to intervene in it.
+Those are the claims which Mr Webster wishes to make. Mr Trevis on his behalf also
+referred to the decision of the Court of Appeal in Tibbles v SIG [2012] EWCA Civ 518,
+[2012] 4 All ER 259. That was a case in which the leading judgment was given by Rix
+LJ, with whom Etherton LJ agreed. Lewison LJ also agreed but added some further
+comments of his own. At paragraph 39(ii), Rix LJ said:
+"The cases all warn against an attempt at an exhaustive definition of
+the circumstances in which a principled exercise of the discretion
+may arise. Subject to that, however, the jurisprudence has laid down
+firm guidance as to the primary circumstances in which the
+discretion may, as a matter of principle, be appropriately exercised,
+namely normally only (a) where there has been a material change of
+circumstances since the order was made or (b) where the facts on
+which the original decision was made were (innocently or otherwise)
+misstated."
+At paragraphs 41 and 42, Rix LJ goes on:
+"41. Thus it may well be that there is room within CPR 3.1(7) for a
+prompt recourse back to a court to deal with a matter which ought to
+have been dealt with in an order but which in genuine error was
+overlooked (by parties and the court) and which the purposes behind
+the overriding objective, above all the interests of justice and the
+efficient management of litigation, would favour giving proper
+consideration to on the materials already before the court. This
+would not be a second consideration of something which had
+already been considered once (as would typically arise in a change
+of circumstances situation) but would be giving consideration to
+something for the first time. On that basis, the power within the rule
+would not be invoked in order to give a party a second bite of the
+cherry or to avoid the need for an appeal but to deal with something
+which, once the question is raised, is more or less obvious on the
+materials already before the court.
+42. I emphasise, however, the word 'prompt' which I have used
+above. The court would be unlikely to be prepared to assist an
+applicant once much time had gone by. With the passing of time is
+likely to come prejudice for a respondent who is entitled to go
+forward in reliance on the order that the court has made. ..."
+I do not think I need to read any more of that paragraph.
+It is clear to me that that decision of the Court of Appeal contains much useful guidance,
+although it has now been to some extent overtaken by the subsequent decision of the
+Epiq Europe Ltd, Unit 1 Blenheim Court, Beaufort Business Park, Bristol BS32 4NE
+www.epiqglobal.com/en-gb/
+Page 230 of 380
+26.
+27.
+28.
+29.
+30.
+Court of Appeal in the Terry case. It seems also that what the Lord Justice was really
+concerned about there was interim orders than final orders (which, as I say, were the
+subject of the Terry case). What Mr Trevis said about that was that this is an injunction
+case and that kind of final order operates differently to other final orders. Of course, the
+Court of Appeal said in the Terry case, as indeed Rix LJ said in the Tibbles case, that
+normally the position was this, thereby accepting that there could be exceptional cases
+in which it would be right to exercise the power to revoke the order. In the present case,
+said Mr Trevis, circumstances have changed; in particular, very importantly, the house
+has been sold. There is no longer any need for the protection of the trustees, said Mr
+Trevis, to maintain this order made in the context of a slander of title action. Moreover,
+he says, the ECRO that had been made specifically provided for Mr Webster to bring a
+professional negligence claim against Mr Penley's firm and he should be allowed to do
+that.
+Mr Wooding responded. I hope he will forgive me if I do not summarise his submissions
+in any great detail. He submitted, however, that it made no difference that the property
+had been sold. He said that this was a case of a final order and finality was extremely
+important but, even if one was not applying the stricter test for finality on a final order,
+it would still have been foreseeable that the property would be sold, yet the injunction
+did not provide for it to expire once the property was sold.
+Secondly, Mr Wooding said that the injunction did not prevent Mr Webster from putting
+forward the various complaints in the proceedings that he wished to; he simply was not
+allowed to make certain statements in them. He said that Mr Webster could make the
+hypothetical assertion that, had for example Mr Penley's law firm not been (as he says)
+negligent, the result of the case would have been different or whatever (and that would
+not be a breach of the injunction) and that therefore there was no incongruity between
+the ECRO and the injunction.
+Then Mr Wooding made a number of comments on the underlying claims. I have already
+expressed some views about those underlying claims. As it seems to me, the professional
+negligence claim seems to suffer from severe limitation problems. The TLATA claim
+similarly would be out of time. The United Nations claim and the action between the
+trustees do not seem to me to be of any great importance in the context of this application
+to set aside the original order; they are rather more makeweights.
+I come back to this: the decision of the judge was made in 2015, The Priory has since
+been sold to third parties (I think in October 2015) and other third-party interests may
+well have attached in the meantime (that is the charges, leases and so on), so there is no
+prospect of rolling back time and awarding Mr Webster any interest in the property. That
+has all been decided. Mr Webster has only applied to vary the order in 2020. On no view
+could this be called a prompt application in accordance with what Rix LJ said in the
+Tibbles case. Mr Wooding also points out that, procedurally, since this was a default
+judgment, the obvious or immediate solution for Mr Webster was to apply under CPR
+13.3 but Mr Webster did not do that.
+In my judgment, what Mr Webster has put forward in this case is not a sufficient basis
+for the court exercising the power in CPR 3.1(7) in relation to a final order. Final means
+final, if I may use that phrase, because there is a very great public interest in litigation
+Epiq Europe Ltd, Unit 1 Blenheim Court, Beaufort Business Park, Bristol BS32 4NE
+www.epiqglobal.com/en-gb/
+Page 231 of 380
+between parties being brought to an end. There is no doubt an equal important public
+interest in rooting out fraud and therefore fraud is an obvious case where it may be
+possible to make an application under this rule. But, for cases short of that, other than
+for example the kind of possession case which was referred to by Hamblen LJ in the
+Terry case, it seems to me that there is no proper justification shown in this case and, in
+any event, the application has not been brought promptly. Accordingly, I dismiss this
+application.
+(After further submissions)
+31.
+Mr Wooding asks me to record that the application which I have just dismissed was one
+totally without merit. This means in effect that the application was bound to fail. I think,
+in the light of the authorities distinguishing between final and interim orders and also the
+requirement that applications be brought promptly, the application was indeed bound to
+fail because it has been brought so long after the order has been made and it concerns a
+final order, so I think there never was a prospect of the application succeeding.
+Accordingly, I will record that it was totally without merit.
+(After further submissions)
+32. The total costs claimed in this case amount to £9,672 for the solicitors and £750 for
+counsel. With VAT, that makes a grand total of £12,506.40. This is for an application
+which was originally estimated for an hour and has now lasted about two and a quarter.
+The application was for an order made some five years ago to be modified and a bundle
+of documents was prepared by the applicant, some of which at least was new. It is
+apparent that this is not a completely simple, straightforward case and therefore some
+work would have to be done on the part of the recipients of the application in order to
+respond appropriately to it.
+33.
+34.
+The point is made that I have recorded the application as totally without merit and it can
+fairly be said, "If it was totally without merit, why did it take so long to respond to?" An
+answer to that in this case is that, if an application is totally without merit, it is all the
+more difficult to deal with because it does not proceed along well-known pathways; it
+jumps around from one point to another and jumps from one document to another and it
+is not put in the usual legal way. I think the reference to "totally without merit" is a bit
+of a double-edged sword, if I may put it in that way.
+On the other hand, it does seem to me that overall £10,000 plus VAT is a lot to spend on
+an application which, as I say, was estimated for one hour and has lasted a bit more than
+two. When I look at the actual numbers that are given, I can see that there perhaps has
+not been as much delegation from a Grade A fee earner downwards as I should have
+liked. For example, in relation to attendances on the second claimant, letters out include
+3 hours by the Grade A fee earner and 1.7 hours by two Grade D fee earners. Telephone
+calls include 1.1 hours by the Grade A fee earner and 0.1 hours by the Grade D fee earner.
+Similarly, the attendances on opponents, letters out include 0.7 hours for the Grade A
+fee earner and 0.2 hours for the Grade D fee earner. Personal attendances on others
+include 1 hour for the Grade A and 1.3 hours for the Grade D. Letters out include 7
+hours for the Grade A and 10.6 hours for the Grade D. Telephone calls include 1.9 hours
+Epiq Europe Ltd, Unit 1 Blenheim Court, Beaufort Business Park, Bristol BS32 4NE
+www.epiqglobal.com/en-gb/
+Page 232 of 380
+35.
+for the Grade A and 1.9 hours for the Grade D. This is not, as I would see it, sufficient
+delegation.
+Secondly, there seem to have been a very remarkable number of attendances on others.
+I have already mentioned the figures for personal attendances, letters out and telephone,
+17.6 hours spent on letters out and 3.8 hours spent on the telephone. As Mr Wooding
+rightly points out, this is a case where there has had to be liaison between the two
+claimants (one of whom is represented and whose summary statement of costs this is,
+the other of whom is not) and therefore one must expect that the normal figures would
+be to some extent inflated, but this seems to me to go way beyond what I would expect.
+36. Thirdly, in relation to the documents which have been worked on, again we see that there
+is significant input, though here the delegation is better, from the Grade A fee earner.
+There is a huge amount of time spent on the instructions to counsel, a total of some 8.4
+hours. I must say that I think that is excessive.
+37. Taking all these matters overall, I think that the solicitors' costs are way too high. I do
+not quarrel with the hourly rates claimed but I do say that the time spent was excessive.
+I think the fairest thing I can do is to reduce the figure of £9,672 down to £6,000 and
+then add the fees for counsel on top, which were £750, so that is £6,750 plus VAT at 20
+per cent. That will be the summary assessment.
+Epiq Europe Ltd, Unit 1 Blenheim Court, Beaufort Business Park, Bristol BS32 4NE
+www.epiqglobal.com/en-gb/
+Page 233 of 380
+Epiq Europe Ltd hereby certify that the above is an accurate and complete record of the
+proceedings or part thereof.
+Unit 1 Blenheim Court, Beaufort Business Park, Bristol BS32 4NE
+Email: civil@epiqglobal.co.uk
+This transcript has been approved by the Judge
+Epiq Europe Ltd, Unit 1 Blenheim Court, Beaufort Business Park, Bristol BS32 4NE
+www.epiqglobal.com/en-gb/
+Page 234 of 380
+General Form of Judgment or Order
+In the County Court at
+Yeovil
+Claim Number
+Date
+F00YE161
+1 February 2021
+THE
+COUNTY
+MR BRUCE KERSTIN WEIR TRUSTEE OF J S NEAL DECEASED TRUST
+1st Claimant
+Ref SEW/DL/
+EP/90578/042
+MS LESLEY JOAN GASKELL TRUSTEE OF J S NEAL DECEASED TRUST 2nd Claimant
+PERSONS UNKNOWN
+Ref
+1st Defendant
+Ref
+RUPERT ST JOHN WEBSTER
+2nd Defendant
+Ref
+COURT
+Before His Honour Judge Paul Matthews sitting at the County Court at Bristol, Bristol Civil Justice Centre,
+Number 2, Redcliff Street, Bristol, BS1 6GR.
+Weir and Gaskell v Webster, Bristol Appeal no 10BS005C (original claim F00YE161)
+ORDER:
+UPON the appellant' application for permission to appeal by appellant's notice dated 5 February 2020 ("the
+Notice")
+AND UPON reading the Notice, the Grounds of Appeal and the skeleton argument (and attached documents)
+filed in support, and the transcript of the judgment in the court below
+IT IS ORDERED THAT:
+1. The application be refused, as totally without merit;
+2. The appellant may not request that the application be renewed at an oral hearing.
+REASONS:
+1. By appellant's notice dated 5 February 2020, the appellant Mr Webster seeks to appeal against the order of
+District Judge Walsh given in the County Court at Yeovil on 24 January 2020 that he give up possession of
+the property known as Bondip Farmhouse, Kingsdon, Somerton by 4 PM on 13 February 2020. There appear to
+have been issues with obtaining a transcript of the ex tempore judgment in the court below, which is why this
+application is only now being decided. The transcript runs to just over 12 A4 pages of typescript.
+2. The claim for possession was commenced by claim form issued on 11 June 2019 by the respondents, the
+registered proprietors of the fee simple estate in the property, in their capacity as trustees of the JS Neal Deceased
+Trust. The respondents applied by notice dated 26 September 2019 for an order striking out Mr Webster's defence
+The court office at the County Court at Yeovil, The Law Courts, Petters Way, Yeovil, Somerset, BA20 1SW. When corresponding with the court, please address forms
+or letters to the Court Manager and quote the claim number. Tel: 01935 382150 Fax: 0870 3240162. Check if you can issue your claim online. It will save you time
+and money. Go to www.moneyclaim.gov.uk to find out more.
+N24 General Form of Judgment or Order
+Produced Bages23530
+CJR065C
+Porter Dodson Llp
+The Quad
+Blackbrook Park Avenue
+Taunton
+Somerset
+TA1 2PX
+97176 TAUNTON (BLACKBROOK)
+Page 236 of 380
+and granting possession forthwith, on the basis that the defence disclosed no reasonable grounds for defending
+the claim.
+3. The order under appeal was made following a judgment given at the end of a second hearing of this application,
+lasting half a day. The first hearing was on 10 October 2019, but was adjourned to the second by the judge in
+order to allow the appellant time to adduce any evidence he wished in respect of the respondents' assertion that
+the lease had been surrendered on 31 July 2018. Both sides were represented by counsel, and the matter was fully
+argued, including full skeleton arguments.
+4. A number of basic facts are not disputed. On 6 March 1995 Prudence Neil granted a lease of the property at an
+annual rent of £5200 (subject to review) to Edward and Patricia Marrow for 35 years from 29 September 1994.
+The lease contained a provision that the landlord should be entitled to give one month's written notice to terminate
+the lease after the death of the survivor of Mr and Mrs Marrow.
+5. Mr Marrow died in 1997 and the lease accordingly vested in his widow Patricia by survivorship. She eventually
+suffered from Alzheimer's disease, and died on 25 December 2017. She had been cared for at the property for
+some years before her death by her daughter Jennifer St John Webster (the mother of the appellant, and since 2006
+a widow herself). For convenience, but without intending any disrespect, I shall refer to her hereafter as “Jennifer”.
+6. By her will dated 18 October 2006 the testatrix appointed her three daughters Jennifer, Miranda Maby and
+Priscilla Keyser as her executrices, and gave the residue of her estate (which would include the lease of the
+property) to her three daughters equally (but with a substitutionary gift in favour of the children of a predeceasing
+in child). It appears that Miranda predeceased the testatrix. At that time, no grant of probate had so far been taken
+out. I do not know if the position has changed since, but for present purposes it does not matter.
+7. On 1 April 2018, the respondents' solicitors, acting on their behalf, gave to Jennifer and the appellant a written
+notice to quit and deliver up possession of the property “on the day on which a complete period of your tenancy
+expires next after the end of four weeks from the service of this notice”. Whether that form of notice (suitable for
+a periodic tenancy) was apt to determine the lease granted in 1995 is not the issue which arises here, but it is part
+of the context in which further events occurred, as set out below.
+8. On 3 July 2018 Jennifer sent an email to the respondents' agents telling them that she would be moving out of
+the property at the end of July, to go and live permanently with her daughter in Bath, and that her sister Priscilla
+would be coming down from Scotland to help her move out. The email also pointed out that the appellant (who
+stayed there from time to time) had been told to move his things out of the property by the same date. On 31 July
+2018 Jennifer handed over the keys to the property to the respondents' agents and signed their final inspection
+form confirming that she had given them all the keys to the property.
+9. The appellant however declined to vacate the property. On 10 August 2018, the respondents issued a claim for
+possession against “persons unknown,” using forms N5 (claim form) and N121 (particulars of claim), under claim
+number E00YE247. The appellant made a witness statement dated 19 August 2018, as he put it, to “supplement
+and explain the Defence Form and a counter claim”.
+10. On 29 August 2018 the appellant served notice on the respondents claiming to enfranchise the property under
+the Leasehold Reform Act 1967. That notice stated that he was the tenant. However, in his defence in the present
+proceedings, the appellant claimed to have served the notice “acting on behalf of and with the authority of the
+executors".
+11. By 27 December 2018, the possession claim had been amended to show the appellant as first defendant and
+Jennifer as second defendant. On that date, however, the claim was “adjourned generally with liberty to either
+party to apply to restore” by Deputy District Judge Collins. The order recited the parties' agreement to adjourn
+"to allow the Defendants the opportunity to investigate and apply for the enfranchisement of the Property”.
+12. However, the order went on to provide that, if no application to restore had been made by 6 June 2019, the
+claim should stand automatically dismissed without further order. Since no application to restore was made by
+that date, the claim was indeed dismissed.
+13. In the interim, on 23 April 2019, further notices to quit were sent by post behalf of the respondents. These
+were expressly stated to be given pursuant to the provision in the lease for giving notice after the death of the
+survivor of the original tenants, and to expire on 1 June 2019.
+14. A second claim for possession was issued a few days later, on 11 June 2019, under number F00YE161. This
+is the present claim, out of which this appeal arises. This claim also was originally brought against “persons
+Page 237 of 380

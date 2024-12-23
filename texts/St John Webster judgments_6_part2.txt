@@ -1,0 +1,732 @@
+HIGH
+COURT
+OF
+JUSTICE
+COURTS
+ROYA
+OFUSTICE
+Neutral Citation Number: [2021] EWHC 3198 (Ch)
+IN THE HIGH COURT OF JUSTICE
+BUSINESS AND PROPERTY COURTS IN BRISTOL
+BUSINESS LIST (ChD)
+*
+29 Nov 2021
+NESS AND PR
+THE BUSINESS AND
+PROPERTY
+OURTS IN BRISTOL
+BL-2021-BRS-000008
+Case No: BL-2021-BRS-000008
+Bristol Civil Justice Centre
+2 Redcliff Street, Bristol, BS1 6GR
+Date: 29 November 2021
+Before:
+HHJ PAUL MATTHEWS
+(sitting as a Judge of the High Court)
+Between:
+RUPERT ST JOHN WEBSTER
+-and-
+(1) JOHN FRANCIS PENLEY
+(2) WITHERBOTHAM SMITH PENLEY LLP
+Claimant
+Defendants
+The Claimant in person
+Womble Bond Dickinson LLP for the Defendants
+Application dealt with on paper
+Approved Judgment
+I direct that pursuant to CPR PD 39A para 6.1 no official shorthand note shall be taken of this
+Judgment and that copies of this version as handed down may be treated as authentic.
+Page 291 of 380
+HHJ Paul Matthews
+Approved Judgment
+Webster v Penley & Anor (Adjournment)
+HHJ Paul Matthews:
+Introduction
+1.
+2.
+This is my judgment on an application by an undated notice, sealed on 25 November
+2021, on behalf of the claimant for an order to vacate a hearing currently fixed for 2
+December 2021. The application is made in the context of a claim for professional
+negligence made by claim form issued in February 2021 by the claimant against the
+defendants as solicitors to his parents, both now long deceased. The hearing of 2
+December 2021 was listed to deal with an application by notice dated 2 August 2021
+on behalf of the defendants for an order striking out the claimant's claim or giving
+summary judgment against the claimant.
+The current application is, as I have said, an application to adjourn the hearing of 2
+December 2021, on the basis that the claimant's preferred counsel is unavailable on
+that day. In order to deal properly with this application, it is necessary for me to set
+out, not only the procedural history of the listing of the application to strike out/for
+summary judgment, but also the background to this litigation itself.
+Background
+3.
+I can take the first part of the background from my own decision in a case called
+Ashcroft and Penley v Webster [2017] EWHC 887 (Ch), in which I decided to extend
+the life of an extended civil restraint order made against the Defendant on 23 March
+2015 by HHJ McCahill QC for another two years:
+"2. Captain Antony Webster and his wife Valerie had four children. There were
+two sons and two daughters. Valentine was the elder son and Rory was the
+younger. Virginia (later Ashcroft, the First Claimant) and Antonia (later Sloane)
+were the two daughters. Valentine married Jennifer, and they had three children,
+Rupert (the Defendant), Letitia and Arabella. Rupert married Jane, and they have
+three children, Beatrice, Roselle and Luke.
+3. In 1950 Captain Webster acquired the property in the village of Ash Priors,
+Taunton, known as Priory Farm, consisting of some 44 acres including eight
+cottages. In 1965 two of these cottages were sold to Valerie. She later sold a half
+share to Rory. In 1987 Captain Webster transferred another three cottages to
+Valerie. In 1990 part of the estate known as Priory Barn was sold to a company
+belonging to Valentine.
+4. Meanwhile, in 1971 Valerie purchased a nearby property known as Monks
+Walk. She sold most of it to Valentine in 1972, and gave him the rest in 1990.
+Valentine attempted to develop the Barn, using Monks Walk as security, but ran
+into financial difficulties. In 1992 the mortgagee took possession of Monks Walk,
+and sold it.
+5. In April 1992 Captain Webster transferred the farmhouse and two fields out of
+the Priory Farm estate to himself and Valerie as tenants in common. Three weeks
+later, Captain Webster transferred the remaining agricultural land and certain
+cottages to Valerie. Two days later, Valerie created a discretionary trust of that
+land and cottages, of which her four children were discretionary objects. This was
+2
+Page 292 of 380
+HHJ Paul Matthews
+Approved Judgment
+Webster v Penley & Anor (Adjournment)
+all part of a tax planning exercise, carried out on the advice of Bevirs solicitors,
+assisted by the Second Claimant, Mr Penley, the family solicitor (not from
+Bevirs).
+6. In December 1992, Valentine became bankrupt. Other members of the family
+became bankrupt later. In October 1995 Priory Barn was repossessed and sold by
+the mortgagee. Valentine and Jennifer moved into the farmhouse, The Priory. In
+February 1996, Captain Webster died, and probate of his will was granted to
+Virginia and Mr Penley, the Claimants, in May 1996. His will operated on his
+50% interest in the farmhouse and two fields, and created a nil rate discretionary
+trust for the benefit of Valerie and his issue, with a small legacy to Virginia and
+the residue going to Valerie. She died in August 2007, and the Claimants became
+personal representatives of her estate also. Valentine had unfortunately died the
+year before, in September 2006, aged only 64, and his son Rupert, the Defendant,
+became personal representative of his estate.
+7. After the death of his father, Valentine, in 2006, and of his grandmother in
+2007, Rupert, as personal representative of his father's estate, sought to make a
+claim in proprietary estoppel against his grandparents' estates. The claim was
+issued in 2009. It was based on various alleged representations or promises made
+over the years, but apparently starting in the 1970s, by both Captain Webster and
+his wife Valerie, to the effect that The Priory would come to Valentine.
+8. This claim was issued primarily against Virginia and Mr Penley (the Claimants
+in these proceedings), although Jennifer, Rory and Antonia were also joined as
+defendants. Ultimately it was taken to trial, when Rupert (as claimant) and
+Virginia and Mr Penley (as defendants) were represented by counsel, and the
+other defendants appeared in person.
+9. The claim was dismissed by HHJ Purle QC in a written judgment handed down
+22 May 2013. He said, in summary:
+"23. ... In my judgment, no representation or promise to the effect suggested
+by Rupert was ever made. Nor, if I am wrong about that, was there
+detrimental reliance."
+10. The judge also said this:
+"28. ... What did emerge very clearly from the evidence, however, was the
+fact that Valentine held the strong conviction that as the eldest son he was
+entitled at least morally to control and (ultimately) inherit The Priory as his
+birthright. That conviction was not, however, shared by other family
+members, and Valentine knew this. During the course of the tax planning
+exercise undertaken in 1992, Valentine's conviction was expressly rejected
+by Valerie at a family meeting in the presence of solicitors (fully minuted) on
+25 February 1992. Notably, Valentine did not rely upon any representation or
+promise at this stage, only a conviction of his prior entitlement as the first
+born son.
+29. That said, there is little doubt that the hope was expressed from time to
+time, in different ways, especially by Valerie, that Valentine might inherit or
+3
+Page 293 of 380
+HHJ Paul Matthews
+Approved Judgment
+Webster v Penley & Anor (Adjournment)
+live at Ash Priors, or the farmhouse. But there was nothing amounting to a
+commitment to ensure that any part of Ash Priors, or the farmhouse, or the
+two fields, would become his. Moreover, after the 1992 tax planning
+exercise, Mr Penley was very much against the taking any step that might
+imperil the tax efficiency of the structure he had helped to put in place, and
+his advice was heeded."
+11. The Defendant having lost at first instance, and having been refused
+permission to appeal by the judge, he applied on paper for permission to appeal to
+the Court of Appeal. On 31 October 2013, Lord Justice Lewison refused
+permission to appeal. The Defendant sought to renew his application at an oral
+hearing before Lord Justice Floyd on 13 February 2014. Lord Justice Floyd also
+refused permission to appeal.
+12. The Defendant sought to protect his position in the pending litigation by
+means of entries dated 6 March 2012 in the register of pending land actions, to
+which he later added two further entries dated 3 September 2013, and then two
+entries dated 24 February 2014 in the register of land charges to protect claimed
+substantive rights, all registered against the property in the Land Charges
+Registry, it being unregistered land. In May 2014, after the original claim had
+been dismissed and all appeals exhausted, the Claimants applied by notice to
+vacate those land charges. Sitting then in the Chancery Division of the High
+Court as a deputy master, I acceded to that application in August 2014, and
+vacated all six charges.
+13. The Defendant then brought a new claim (A00TA241) against the Claimants
+in September 2014 in the County Court at Taunton, seeking possession of a part
+of the property at Ash Priors, on the basis that he had a right, whether through his
+mother Jennifer, pursuant to the estate of his father Valentine, as a member of a
+class of objects under a discretionary trust, or under a statutory tenancy or
+licence, to occupy that part of the property. Parts of the claim were then struck
+out as totally without merit by Deputy District Judge Orme, sitting at Taunton.
+The remainder of the matter was transferred to Bristol, where on 23 March 2015
+HHJ McCahill QC struck out the remainder, also as totally without merit.
+15. The Claimants then brought a claim (B30BS071) against the Defendant in
+early 2015 in trespass and slander of title. On 23 March 2015 HHJ McCahill QC
+granted a final injunction against the Defendant, requiring him not to enter the
+property, not to interfere with or prevent the marketing or sale of it, not to make
+any entry on the title of the property without the permission of the court, and not
+to publish or use words to the effect that he had an interest in The Priory or that
+his permission was required before its disposal or that the registered owners were
+not freehold owners of the property and/or that the trustees did not have the
+power to give instructions as to the disposition of the property.
+16. The Defendant in the meantime brought a new claim (B30BS107) against the
+Claimants in the Bristol District Registry. This was treated as effectively an
+application being made by the Defendant to vary the injunction granted in claim
+number B30BS071. It was struck out by HHJ McCahill QC on 23 March 2015."
+First ECRO and further claims
+4
+Page 294 of 380
+HHJ Paul Matthews
+Approved Judgment
+Webster v Penley & Anor (Adjournment)
+4.
+5.
+6.
+It was in these circumstances that HHJ McCahill QC on his own initiative made an
+extended civil restraint order (“ECRO") against Mr Webster (then the defendant, now
+the claimant), restraining him until 22 March 2017 from issuing any claim or
+application against Mrs Ashcroft or Mr Penley (in their capacity as executors of the
+estate of Valerie and trustees of the will of Captain Webster), except for any personal
+claim that he might bring in professional negligence as a disappointed beneficiary or
+otherwise. I mention now that, on 28 September 2015, Lord Justice Lewison on the
+papers refused permission for the Defendant to appeal against the decision of HHJ
+McCahill QC of 23 March 2015, recording that the appeal was totally without merit.
+However, before the extended civil restraint order was made in March 2015, Mr
+Webster had also issued three further claims against Mr Penley alone, under claim
+numbers HC14B01306, HC14C01307, and HC14D01309. Each claim sought to
+challenge the valuation of the estate of (respectively) Valentine, Valerie and Captain
+Webster. On 11 June 2015 Mr Justice Birss struck out all three claims, recording that
+each was totally without merit. The judge made a (second) extended civil restraint
+order against the Defendant. On 17 December 2015 Lord Justice Floyd on the papers
+refused permission for the Defendant to appeal the decision of Mr Justice Birss of 11
+June 2015. On 17 November 2016 Lord Justice Patten refused a renewed (oral)
+application for permission to appeal the decision of Mr Justice Birss. He recorded in
+his judgment that an appeal would be totally without merit.
+On 21 April 2017, I extended the life of the ECRO of HHJ McCahill QC for two
+years, to expire on 22 March 2019.
+Appeal out of time and second ECRO
+7.
+I referred above to the fact that in 2014, when I was a deputy master, I made an order
+vacating certain entries in the land charges registry. On 5 August 2020, an appellant's
+notice from Mr Webster was sealed by the Business & property Courts in London.
+This sought to appeal against my order of 4 August 2014. On 3 November 2020 Mr
+Justice Adam Johnson refused on paper to extend time for filing the notice for the six
+years necessary. On 11 November Mr Webster sought an oral hearing. This was listed
+for 10 February 2021 before Mr Justice Morgan, when Mr Webster appeared before
+him personally. Mr Justice Morgan gave an extempore judgment, dismissing the
+application for an extension of time, certifying that the application was totally without
+merit, and making a further ECRO (the third) against Mr Webster, for two years.
+The present claim
+8.
+9.
+However, on 9 February 2021, the day before the third ECRO, Mr Webster had issued
+the claim form in these proceedings to make the present "claim in professional
+negligence” against the present defendants. Detailed particulars of claim were
+attached to the claim form, which was issued in the High Court in London. The
+particulars were not signed by counsel, and I infer that Mr Webster prepared them
+himself.
+The particulars alleged negligence by the defendants (inter alia) in (i) giving estate
+planning advice to the claimant's father's parents in 1992, (ii) preparing wills for each
+of them and two family trusts, (iii) estate administration after the deaths of each such
+grandparent (in 1996 and 2007 respectively), (iv) giving further advice in 2001, (v)
+5
+Page 295 of 380
+HHJ Paul Matthews
+Approved Judgment
+Webster v Penley & Anor (Adjournment)
+10.
+procuring in 2006 the revocation of his grandmother's will of 2000 by making a new
+one, (vi) failing to remain neutral with respect to the claimant's own family, (vii) and
+breach of contract by the second defendant in July 2014. As I have already said, the
+claimant's father died in 2006. The claimant claims damages in excess of £5 million.
+On 9 March 2021 Chief Master Marsh made an order transferring the claim to the
+Business and Property Courts in Bristol. The defence of both defendants was filed on
+2 July 2021. By their defence the defendants plead that "Any claim in negligence
+arising out of any act before 9 February 2006 is accordingly barred for limitation
+pursuant to s. 14B Limitation Act 1980." They say that “paragraphs 8 to 20 should be
+struck out accordingly”. In any event it is denied both that that the defendants were
+negligent, and also that they owed any duty to the claimant. Many of the factual
+allegations made are denied, it is denied that the claimant is entitled to sue in respect
+of any losses caused to members of his family other than himself, and other parts of
+the case are said to amount to an abuse of process as a collateral attack on earlier
+judicial decisions.
+The application to strike out/for summary judgment
+11.
+12.
+13.
+14.
+As I have said, on 2 August 2021 those defendants made an application for an order
+striking out the claimant's claim or giving summary judgment against the claimant. In
+making that application, the defendants rely on both the principles of abuse of process
+and the principles of limitation under the Limitation Act 1980. In relation to a number
+of the paragraphs in the particulars of claim, it is also submitted that no sufficient
+cause of action is pleaded, or that reverse summary judgment should be given.
+On Friday 3 September 2021 the defendant's solicitors telephoned, and then emailed,
+the court (at the Bristol Specialist email address) with a list of dates to avoid in listing
+the hearing of their application. The court had not asked them to do this. It was their
+initiative. They copied that letter by email to the claimant, Mr Webster. He emailed
+the court (also at the Bristol Specialist email address) the same day to say that he
+hoped to provide dates to avoid in respect of his counsel early the following week.
+Unfortunately, this did not happen.
+It was only on Friday 10 September 2021 that one of his counsel's clerks sent an
+email, giving details of dates to avoid, to the court, but using the email address e-
+filing.bristol.countycourt@justice.gov.uk. This is the email address for ordinary civil
+work in the County Court. The email would have been printed out by the civil team
+on that or the next business day to be added to the pile of pending work. It would not
+have been seen and attended to by the civil team until the following week at the
+earliest. (Indeed, neither the specialist team nor I became aware of it until it was sent
+again to the correct email address, on 22 November 2021.)
+Unfortunately, as I have said, that email was not sent to the Bristol Chancery Listing
+address or the Bristol Specialist email address, which are the correct email addresses
+for the Business and Property Courts in Bristol. The email was also not copied to the
+defendants' solicitors. The clerk concerned has now left those chambers, and
+accordingly I do not know why she chose to send an email concerning a High Court
+case in the Business and Property Courts to the county court email address. One
+possibility is that that address appears in the automatic signatures of all the court
+clerks, even when writing from another email address (such as Bristol Chancery
+6
+Page 296 of 380
+HHJ Paul Matthews
+Approved Judgment
+Webster v Penley & Anor (Adjournment)
+Listing or Bristol Specialist) about High Court work. The mistake is obviously
+regrettable, and has led to the present application.
+Listing and afterwards
+15.
+16.
+17.
+18.
+On Saturday, 11 September 2021, my then clerk, working overtime in order to clear a
+backlog of work, listed the hearing before me for a remote hearing via MS Teams on
+Thursday, 2 December 2021. On that day, she had no way of knowing about the email
+sent to the wrong email address the day before. A notice of hearing for 2 December
+2021 was sent to both sides. Mr Webster says in his skeleton argument that the system
+did not send out the notice. That is correct, in the sense that the clerk sends out the
+notice (as she did). But the notice remained on the system for the parties to see if they
+logged into it. (The notice asked the parties to send their details for the remote hearing
+to the Bristol Chancery Listing email address.)
+No complaint was made by Mr Webster in response. Indeed, Mr Webster next wrote
+to the court on 25 September 2021 (by email to the Bristol Specialist email address)
+about another matter in this litigation, but did not mention his counsel's availability,
+and neither did he complain that his counsel was not available for 2 December 2021.
+On 27 September 2021, the defendants' solicitors sent a copy of the Notice of Hearing
+to Mr Webster by email, and he acknowledged receipt on the same day. On 11
+October 2021 the defendants' solicitors wrote to the court (at the Bristol Chancery
+Listing address) to give the court contact details in relation to those on the defendants'
+side who were to attend it by Teams. The letter was copied to the claimant, and
+specifically referred to the hearing on 2 December 2021. There was still no complaint
+by Mr Webster.
+The claimant's skeleton argument says that it was only at a conference with counsel
+on 26 October that the clash of dates for the hearing on 2 December 2021 was
+discovered. Even so, the claimant did not contact the court then. Instead, it was only
+on 11 November 2021, some two weeks later, that the claimant's (direct access)
+counsel's clerk emailed the court (at the Bristol Chancery Listing address) to say that
+the claimant's counsel was not available on 2 December 2021, and providing a list of
+other dates when he would be available. That email was not copied to the defendant's
+solicitors.
+As a result of pressure of other work this email was referred to me only on 22
+November 2021. On the same day I responded as follows:
+"Please tell Mr Cole (with copy to Ds) that the Application Notice was issued on
+3 August, on 3 September both sides said they would send in dates to avoid, the
+Defendants did but the Claimant did not, and on 11 September the matter was
+listed and the parties notified.
+There was no objection from either side. Two months later the Claimant's counsel
+says he is not available. None of the alternative dates put forward by counsel's
+clerk is available for both the court and the Defendants' counsel, so the listing
+must remain as it is. If necessary, the Claimant will have to engage alternative
+counsel."
+7
+Page 297 of 380
+HHJ Paul Matthews
+Approved Judgment
+Webster v Penley & Anor (Adjournment)
+19.
+20.
+On 22 November 2021 the claimant's counsel's clerks responded (to the Bristol
+Chancery Listing address) to point out that an email had been sent on 10 September
+2021, albeit to the wrong email address. Mr Webster himself also wrote an email to
+one of the specialist clerks (at her own work email address). These were immediately
+passed to me, and I responded later the same day as follows:
+"Please tell the parties I have considered the further emails. The fact remains that
+the dates to avoid were sent to the wrong email address and my then clerk did not
+see them. Then when she notified the date to the parties, no complaint was made.
+it is too late to change now, as this would mean adjourning off into the New Year.
+Mr Webster has plenty of time to find another representative.”
+The defendants' solicitors wrote to the court (by CE-Filing) on 23 November 2021.
+They set out the history of the matter from their point of view. That letter concluded:
+"In any event, it is clear that the Claimant has known of the hearing date for the
+application since 13 September 2021. Following the listing, we have written to
+the Claimant on no fewer than five separate occasions in relation to the
+application. At no time prior to 22 November 2021 has the Claimant informed us
+that he objected to the hearing date or advised us that the date was inconvenient
+for his Counsel. In the circumstances, the Defendants therefore respectfully
+request that the application remain in the list for hearing on 2 December 2021."
+Application to adjourn the hearing
+21.
+22.
+23.
+Mr Webster then decided that he wished to make a formal application to adjourn the
+hearing on 2 December 2021 by application notice. However, under the terms of the
+ECRO of Mr Justice Morgan of 10 February 2021, he had first to seek permission to
+make that application. He did so and, on 26 November 2021, Mr Justice Miles gave
+that permission. As it happens, the application notice for the order adjourning the
+hearing of 2 December 2021 was actually sealed the day before, on 25 November
+2021. In circumstances where Mr Webster was trying to do the right thing, in a hurry,
+I am not minded to cavil at that.
+In these circumstances, I have to consider whether it is appropriate to adjourn the
+hearing already listed, as requested by the claimant, or to proceed with it on that date,
+as requested by the defendants. Ultimately, this is a matter of case management. As to
+that, CPR Rule 3.1(2) simply provides:
+"Except where these Rules provide otherwise, the court may—
+]
+(b) adjourn or bring forward a hearing;
+"
+In Boyd & Hutchinson (A Firm) v Foenander [2003] EWCA Civ 1516, Lord Justice
+Chadwick (with whom the other member of the court, Lord Justice Auld, agreed) said
+this:
+...
+“9. … in deciding whether or not to grant an adjournment, the court must have
+regard to the overriding objective of the Civil Procedure Rules set out in CPR 1.1,
+8
+Page 298 of 380
+HHJ Paul Matthews
+Approved Judgment
+Webster v Penley & Anor (Adjournment)
+and in particular at subrule (2) of that rule. Having regard to the overriding
+objective requires the court to deal with a case, so far as is practicable, in a
+manner which saves expense, is proportionate to the amount of money involved
+and allocates to it an appropriate share - - but no more than an appropriate share -
+of the court's limited resources. Courts are directed (by CPR 1.4) to have the
+overriding objective in mind when managing cases."
+Submissions
+24.
+25.
+26.
+27.
+28.
+29.
+The claimant has made two written submissions to me in support of his application to
+adjourn and relist. Since they are not signed by counsel, I infer that he prepared them
+himself. The defendants' solicitor, Sarah Tivey, has made a witness statement dated
+26 November 2021 in opposition, exhibiting relevant correspondence.
+In the first of his helpful written submissions, labelled “witness statement/skeleton
+argument", Mr Webster argues that, when the matter was transferred from the High
+Court in London to Bristol, “it appears to have been tracked into the Bristol specialist
+team instead of the general civil court teams for reasons unclear to” him.
+I do not accept that the reasons were unclear. Mr Webster well understood that this
+was not a matter going to the County Court at Bristol to be dealt with in its ordinary
+civil jurisdiction. The first letter to him after the transfer of the matter from London,
+dated 11 May 2021, told him that it had been transferred to the Business and Property
+Courts in Bristol rather than to the ordinary civil jurisdiction in the County Court.
+As I have already said, matters in the Business and Property Courts (and those
+generally in the High Court) are dealt with in Bristol by the specialist team, rather
+than by the County Court civil team. Mr Webster already knew this. He had dealt with
+the High Court in general, and the Business and Property Courts in particular, in
+Bristol on many occasions before then, and indeed also in the present litigation, using
+their Specialist or Chancery email addresses (see paras [9]-[13] above).
+Mr Webster further argues that it was the court's or the defendants' fault that the
+hearing on the defendant's application to strike out/for summary judgment was listed
+for 2 December 2021, which was a day that the court or the defendants already knew,
+or ought to have known, was unavailable for the claimant's counsel. This is a
+confused submission. It is not a matter of fault, on anybody's part, that the hearing
+was listed for a particular day. It is the result of what happened. I have already set out
+the relevant events. The defendants by their solicitors sent in their dates to avoid.
+They copied in the claimant. The claimant said that he would send in his dates to
+avoid "early next week”. Unfortunately, he did not do so, and when his counsel's
+clerk did reply (at the end of the following week) she sent it to the wrong address, and
+moreover did not copy in the defendants' solicitors.
+Accordingly, there was no way that my clerk, in listing the matter on Saturday, 11
+September 2021, or the defendant's solicitors, could have known at that date what
+were the non-available dates for the claimant's counsel. That meant that she listed the
+matter without being able to take account of those dates. Moreover, at no time
+thereafter until 11 November 2021, and despite several communications in the
+meantime to the claimant giving the date of the listed hearing, did the claimant or his
+counsel's clerks complain that the date was one which counsel could not meet.
+9
+Page 299 of 380
+HHJ Paul Matthews
+Approved Judgment
+Webster v Penley & Anor (Adjournment)
+30.
+31.
+32.
+33.
+34.
+Mr Webster relies on the decision of Mr Justice Fraser in Bates v Post Office Ltd
+[2017] EWHC 2844 (Ch), [17], where the judge says:
+"Fixing hearings in this group litigation around the diaries of busy counsel, rather
+than their fixing their diaries around this case, is in my judgment fundamentally
+the wrong approach. If the court embarks upon a course of organising hearings
+around counsel, more and more time will creep into the timetable of the litigation
+as a direct result. This applies to all hearings, but particularly to trials of
+substantive issues. All the parties are to be treated fairly. If a request by the
+defendant for delay of two to three months into 2019 is agreed by the court at this
+stage, there will be the risk of at least the appearance of unfairness if similar
+requests by the claimants' counsel are not acceded to in the future."
+That was a decision in group litigation on a vast scale. This is not. The opening
+sentence tells you everything: "Fixing hearings in this group litigation around the
+diaries of busy counsel, rather than their fixing their diaries around this case, is in my
+judgment fundamentally the wrong approach.” The judge was, if I may respectfully
+say so, quite rightly pointing out that, the more parties that are involved, the more
+difficult it is to take matters forward at a reasonable pace using dates available to the
+court and expecting all the counsel preferred by all of the parties to be available for
+those dates. When the judge said, "All the parties are to be treated fairly", he was not
+saying that all parties are to have the counsel of their choice for every hearing. Far
+from it. He was simply saying that procedural fairness is a fundamental principle of
+English law. No one doubts that. But it does not especially help me in the present
+case.
+Mr Webster in his detailed skeleton argument further comments that my comment that
+counsel's clerk's email was sent to the wrong email address
+“was not an impartial comment when neither the court nor D's counsel's clerks
+involved C or C's counsel's clerks to request dates of availability as done for D's
+solicitors."
+The factual basis for this comment is wrong. The court did not ask the defendants'
+solicitors for dates of availability, yet refuse to do so for the claimant. It was the
+defendants' solicitors themselves who wrote to the court on 3 September 2021,
+offering dates of availability, and copying their letter to the claimant. It was the
+claimant who offered to send his dates of availability “early next week" but did not do
+so. After more than a week, my clerk listed this case on the basis of the dates of
+availability that she then had. Having notified the parties (including the claimant), and
+the claimant having been also informed of the date by the defendants on numerous
+occasions, the court received no complaint from the claimant that his counsel was
+unavailable for the date listed, until the email of 11 November 2021, two months
+later.
+It is of course unfortunate that the claimant's counsel's clerk sent the dates of non-
+availability to the wrong email address for the Business and Property Courts in
+Bristol. But that is not the fault of the court, nor of the defendants. It is also
+unfortunate that no complaint was made thereafter on behalf of the claimant. But that
+too is not the responsibility of the court or the defendants.
+10
+Page 300 of 380
+HHJ Paul Matthews
+Approved Judgment
+Webster v Penley & Anor (Adjournment)
+35. The claimant has also produced a supplemental skeleton argument, which I have read.
+He complains that for the defendant's solicitors to contact the court without informing
+him was a breach of CPR rule 39.8. That rule relevantly reads as follows:
+36.
+37.
+38.
+39.
+"(1) Any communication between a party to proceedings and the court must be
+disclosed to, and if in writing (whether in paper or electronic format), copied to,
+the other party or parties or their representatives.
+(2) Paragraph (1) applies to any communication in which any representation is
+made to the court on a matter of substance or procedure but does not apply to
+communications that are purely routine, uncontentious and administrative.
+[...]"
+In my judgment, there was no breach of this rule in the present case. The
+communication of dates to avoid for a forthcoming hearing is an administrative
+matter, and not one of substance or procedure. Accordingly, the rule does not apply:
+see sub-rule (2). But even if it did, the telephone conversation between the defendant
+solicitors and the court on 3 September 2021 was disclosed to the claimant, by being
+referred to in the letter to the court of the same date. This was copied by email to the
+claimant on that date, and to which the claimant responded by contacting the court
+himself. Nor do I consider that the mere fact of breach of the rule (if there had been
+one) would be automatically sufficient to justify an adjournment, as the claimant
+submits. In my judgment, that must depend on all the circumstances.
+The claimant also says that his counsel's clerk contacted the court “shortly after D's
+communication". In fact, as I have already said, it was a week later, and it was not
+sent to the correct email address, with the result that it did not reach the listing clerk in
+time.
+Subject to specific provision made in the rules, the position of a litigant in person
+(such as the claimant is) is the same as that of a represented litigant, and it is generally
+not right to give advantages to such litigants which are not given to represented
+litigants: see eg Barton v Wright Hassall [2018] 1 WLR 1119, SC, [18], per Lord
+Sumption (with whom Lord Wilson and Carnwath agreed), [42] per Lord Briggs (with
+whom Lady Hale agreed).
+However, in the present case, the claimant relies on CPR 3.1A. This relevantly
+provides:
+“(1) This rule applies in any proceedings where at least one party is
+unrepresented.
+(2) When the court is exercising any powers of case management, it must have
+regard to the fact that at least one party is unrepresented.
+(3) Both the parties and the court must, when drafting case management
+directions in the multi-track and fast track, take as their starting point any relevant
+standard directions which can be found online at www.justice.gov.uk/courts/procedure-
+rules/civil and adapt them as appropriate to the circumstances of the case.
+11
+Page 301 of 380
+HHJ Paul Matthews
+Approved Judgment
+Webster v Penley & Anor (Adjournment)
+[ … ]”
+40.
+41.
+42.
+43.
+44.
+However, in the present case, the court did take into account the fact that Mr Webster
+was a litigant in person. If he had done what he told the court that he would do,
+namely, to send in his dates to avoid “early next week" instead of a week later, and to
+the correct email address (which he was in the habit of using anyway), this problem
+would not have arisen. So there was no breach. Nonetheless, the claimant says that
+this rule "provides that care should be taken by the listing office to ensure that a party
+may retain counsel of their choice”. But self-evidently the rule does not say that.
+The claimant further relies on the decision Mr Justice Neuberger in Maltez v Lewis
+[1999] All ER (D) 425, given ex tempore on 27 April 1999. The problem that arose in
+that case was that the claimant was to be represented at trial by junior counsel,
+whereas the defendant was to be represented by leading and junior counsel. The
+claimant sought an order debarring the defendant from retaining leading counsel. So
+the problem was not that which now faces me. The applicant had argued that, if
+counsel on the two sides were of very different seniority, there would be no level
+playing field (within CPR rule 1.1(2)(a)) and it would be disproportionate (within rule
+1.1(2)(c)). The judge held that the court had no jurisdiction to make the order sought.
+The claimant says that the judge decided that
+“The fundamental right of the parties to be represented by counsel or solicitors of
+his or her choice was well established and the new civil procedure rules, although
+containing wide new powers, have not cut down or removed that right”.
+This statement is taken verbatim from the short digest of the case available at [1999]
+All ER (D) 425. It is plainly a summary.
+However, according to the official transcript, what the judge actually said in his
+judgment on this point was this:
+"However, it has always been a fundamental right of every citizen to be
+represented by advocate and/or solicitors of his or her choice. That right is not of
+course absolute; circumstances may cut it down. Thus a person's chosen lawyer
+may be ill or engaged elsewhere or conflicted out. A legally aided party may find
+that the Legal Aid Board is not prepared to fund his or her particular selection of
+legal representative. Further, it is clear that no party has the right to expect a
+hearing date to be fixed on the basis of the availability of his or her choice of
+advocate or solicitor.
+Subject to that type of consideration, it seems to me that there is a fundamental
+right to a choice of legal representative; indeed, I would go so far as to say it is an
+important feature of any free society. I do not consider that the CPR, while
+accepting that they confer (and are intended to confer) very wide new powers on
+the court, could or should be interpreted so as to cut down, let alone so as to
+remove, that right.”
+So, contrary to what the claimant suggests, the right is not absolute, and must give
+way to circumstances. Moreover, and expressly, the judge said that “no party has the
+12
+Page 302 of 380
+HHJ Paul Matthews
+Approved Judgment
+Webster v Penley & Anor (Adjournment)
+45.
+46.
+47.
+48.
+right to expect a hearing date to be fixed on the basis of the availability of his or her
+choice of advocate or solicitor”. But that is this case.
+The claimant also submits that
+"there are serious human rights breaches going on here to expect to secure
+alternative counsel. The court is fully aware that personally I have few resources
+with which to pay. Nor would it appear to put both parties on an equal footing
+when 1 side retains preferred counsel with 7 years knowledge. I have been
+fortunate enough to secure pro bono counsel. The case requires pro bono counsel
+with sufficient expertise to argue the points - in which any point whatsoever is
+contradicted, and appears to be followed by abuse."
+I assume that this is a reference to the claimant's right to a fair trial under article 6 of
+the European Convention on Human Rights. In the recent case of Brake v Chedington
+Court Estate Ltd [2021] EWHC 2700 (Ch), I said:
+"13. ... Article 6 implies the principle of ‘equality of arms' (which also appears
+in CPR rule 1.1(2)(a) as part of the overriding objective), but this does not mean
+equality of resources. In the civil context it really means equality of opportunity
+in an adversarial process, for example to adduce evidence, comment on evidence
+and cross-examine witnesses in appropriate cases. For a recent example, see
+MacDonald v Animal Plant and Health Agency [2021] EWHC 2325 (QB), [46].”
+In the present case, however, the claimant has had all of these opportunities. There is
+no breach of article 6 here.
+Moreover, the claimant is not an ignorant, inarticulate layman. He has been in
+involved in complicated property litigation with other members of his family and his
+grandparents' personal representatives since at least 2009, and he has addressed me
+personally on numerous occasions. He is a well-educated, intelligent and articulate
+man who is perfectly capable of explaining complex points of fact and law (indeed,
+often somewhat recondite), and otherwise of instructing counsel when necessary,
+sitting behind him and passing numerous notes forward for counsel's attention, many
+of which, I have noticed, result in further (usually helpful) submissions to the court. It
+appears that he (and not counsel) settled the detailed particulars of claim in the present
+case, and prepared his two written submissions.
+The claimant knew on 22 November 2021 that I was not willing (at least at that stage)
+to adjourn the hearing. There were therefore 10 days in which he could have found
+alternative representation. For a one-day strike-out hearing that would not have been
+difficult to obtain. I accept that he may not have been able to find pro bono
+representation in that time. But he must have been aware that, if an adjournment was
+to be made, it would almost certainly be on terms that he pay the costs of the
+defendants thrown away by the adjournment. So it would not be free to him. There
+would be a cost either way. Moreover, this is not a case where the claimant would be
+utterly incapable of putting forward his own arguments to resist the application of the
+defendants. As I have said, he has addressed me previously on complex legal and
+factual arguments.
+Discussion
+13
+Page 303 of 380
+HHJ Paul Matthews
+Approved Judgment
+Webster v Penley & Anor (Adjournment)
+49.
+50.
+51.
+Looking at the consequences of adjourning and not adjourning the hearing fixed for 2
+December 2021, I can see that there are advantages and disadvantages either way. The
+application was issued in early August. The first available date to hear it was found to
+be four months later, in early December. If I adjourn the hearing, it will probably not
+be heard until well into next year. The process of finding a convenient date for
+everyone will have to begin all over again. This pushes further into the future the
+resolution of the parties' dispute. If the defendants are right, and the claim should be
+struck out or summary judgment given in their favour, they will have this professional
+negligence claim hanging over their heads for even longer. If on the other hand the
+claimant is right, and he is entitled to damages for the losses which he claims to have
+sustained, then he will have to wait even longer for that to occur.
+Moreover, adjourning the hearing at this late stage means that no other hearing can
+now be listed for that date. So it is not just the parties themselves who suffer. Other
+litigants, who might have been able to have their case heard earlier, if it had been
+made apparent sooner that there was a difficulty listing this case, now have to wait
+longer to have their matter heard. And the present matter would now take up a further
+date in the future which could have been used for another case.
+On the other hand, if I refuse the application for an adjournment, then the claimant
+will lose the pro bono representation by the counsel of his choice, familiar with the
+case, that he would otherwise have enjoyed. That is significant. But it is not
+overwhelming. As I have said, I have no doubt that the claimant could represent
+himself, as he has done in the past. And I have no evidence before me of his financial
+means, such as to demonstrate that he would be unable to pay for representation by
+any other advocate. He will not be deprived of a fair hearing complying with the
+overriding objective and article 6 of the European Convention. But, on the plus side,
+if I refuse to adjourn the matter will be dealt with sooner, using up a sitting day that
+would not otherwise be used. And no costs will be wasted.
+Conclusion
+52.
+On the whole, I am clear in my mind that the interests of justice in the present case are
+best served by retaining the date of 2 December 2021, and refusing the claimant's
+application for an adjournment of that hearing. Apart from the matters I have already
+referred to, this will save further expense, deal proportionately with the application
+concerned, and recognise that Mr Webster and his many legal proceedings have
+already enjoyed a much greater share of the scarce judicial resources available today
+than can be strictly justified.
+14
+Page 304 of 380
+ROYA
+COURTS
+Neutral Citation Number: [2021] EWHC 3386 (Ch)
+IN THE HIGH COURT OF JUSTICE
+BUSINESS AND PROPERTY COURTS IN BRISTOL
+BUSINESS LIST (ChD)
+Case No: BL-2021-BRS-000008
+Bristol Civil Justice Centre
+2 Redcliff Street, Bristol, BS1 6GR
+Date: 15 December 2021
+Before:
+HHJ PAUL MATTHEWS
+(sitting as a Judge of the High Court)
+Between:
+RUPERT ST JOHN WEBSTER
+-and-
+(1) JOHN FRANCIS PENLEY
+(2) WINTERBOTHAM SMITH PENLEY LLP
+Claimant
+Defendants
+The Claimant in person
+Oliver Wooding (instructed by Womble Bond Dickinson (UK) LLP) for the Defendants
+Hearing date: 2 December 2021
+Approved Judgment
+I direct that pursuant to CPR PD 39A para 6.1 no official shorthand note shall be taken of this
+Judgment and that copies of this version as handed down may be treated as authentic.
+Page 305 of 380

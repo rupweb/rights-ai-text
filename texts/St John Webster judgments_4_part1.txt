@@ -1,0 +1,656 @@
+ROYA
+COURTS
+OFUSTICE
+Neutral Citation Number: [2019] EWHC 2174 (Ch)
+Case No: D30YE032
+Appeal No: 8BS0149C
+IN THE HIGH COURT OF JUSTICE
+BUSINESS AND PROPERTY COURTS IN BRISTOL
+INSOLVENCY AND COMPANIES LIST (ChD)
+ON APPEAL FROM THE COUNTY COURT AT YEOVIL
+(District Judge Corrigan)
+Bristol Civil Justice Centre
+2 Redcliff Street, Bristol, BS1 6GR
+Before:
+HHJ PAUL MATTHEWS
+(sitting as a Judge of the High Court)
+Between:
+Date: 08/08/2019
+Rupert Jolyon Richard St John Webster
+Appellant
+- and -
+Alison Virginia Ashcroft
+Respondent
+Robert Trevis (instructed by direct access) for the Appellant
+Oliver Wooding (instructed by Clarke Willmott LLP) for the Respondent
+Hearing dates: 1 August 2019
+Approved Judgment
+I direct that pursuant to CPR PD 39A para 6.1 no official shorthand note shall be taken of this
+Judgment and that copies of this version as handed down may be treated as authentic.
+Page 168 of 380
+HHJ Paul Matthews
+Approved Judgment
+Webster v Ashcroft, 8BS0149C
+HHJ Paul Matthews:
+Introduction
+1.
+2.
+This is my judgment on an appeal brought by the appellant against the decision of
+District Judge Corrigan, sitting in the County Court at Yeovil, on 13 November 2018
+in relation to the costs of a bankruptcy petition presented against him by the
+respondent. On that day, the petition itself was dismissed, the appellant having paid
+the statutory demand debt in full since the date of the previous hearing. In the exercise
+of his discretion, the district judge ordered the appellant to pay the costs of the
+petitioning creditor, and refused to order her to pay his costs. (I note in passing that
+District Judge Corrigan in fact has now just retired from the bench.)
+After the appellant lodged an appellant's notice in the County Court at Yeovil, the
+matter was transferred to the Bristol District Registry of the High Court, Chancery
+Division. Under CPR PD 52A, para 3.5 and Table 2, an appeal from a district judge in
+the County Court in a personal insolvency matter lies to the High Court. Under the
+Insolvency Practice Direction of 25 April 2018, amended 10 July 2018, paras 17.2(4)
+and 1.1(8), (9), a judge authorised under s 9(1) of the Senior Courts Act 1981, such as
+I am, may deal with such an appeal.
+Procedural background
+3.
+4.
+5.
+The appeal arises out of long-running litigation between the appellant and the
+respondent, in which two costs orders, dated 20 December 2011 and 4 August 2014,
+were made against the appellant in favour of the respondent. The respondent served a
+statutory demand dated 14 February 2017 on the appellant on 1 March 2017. The
+appellant applied to the County Court at Taunton on 17 March 2017 for an order that
+the statutory demand be set aside. That application was transferred to the Bristol
+District Registry of the High Court on 12 April 2017
+However, in 2015 an extended civil restraint order had been made against the
+appellant, with a duration of two years. On 26 April 2017, I extended that order
+against the appellant for a further two years. When the appellant issued his application
+at Taunton on 17 March 2017, he did not first apply for permission to do so under the
+extended civil restraint order. He first applied for such permission by email dated 17
+July 2017, and by application notice in form N244 on 21 July 2017. On 29 August
+2017, whilst I was on annual leave, HHJ Cotter QC ordered that the appellant's
+application be placed before me, as I am the judge designated under the extended civil
+restraint order as amended and extended in April 2017. In the meantime, however, on
+7 August 2017 the respondent had already presented a bankruptcy petition in the
+County Court at Taunton against the appellant, based on the statutory demand served
+on 1 March 2017.
+On 14 September 2017, on my return from annual leave, I dealt with the appellant's
+application dated 21 July 2017 on the papers, and gave permission to the appellant
+under the extended civil restraint order to apply to set aside the statutory demand. In
+my reasons for doing so, I said that there was a question whether the appellant needed
+permission at all under the civil restraint order before applying to the court to set aside
+a statutory demand. But I also said that I did not need to decide this question because I
+was satisfied that, even if the application were caught by the civil restraint order, it
+2
+Page 169 of 380
+HHJ Paul Matthews
+Approved Judgment
+Webster v Ashcroft, 8BS0149C
+6.
+would be appropriate in this case to give permission to the appellant to make it. I will
+return to this later.
+In the light of my order of 14 September 2017, on 30 October 2017 District Judge
+Corrigan formally adjourned the petition. On 9 March 2018 District Judge Cope,
+sitting in the Bristol District Registry, heard and dismissed the appellant's application.
+On 13 November 2018 District Judge Corrigan heard the adjourned bankruptcy
+petition in the County Court at Yeovil. By that date, however, the appellant had paid
+the outstanding statutory demand debt, and so the judge dismissed the petition.
+However, as I have already said, taking into account the fact that the debt had been
+paid by the appellant only after the petition had been presented, he ordered the
+appellant to pay the respondent's costs of the petition and refused to order the
+respondent to pay the appellant's costs.
+Grounds of appeal
+7.
+8.
+9.
+The appellant's grounds of appeal attached to his appellant's notice were originally
+prepared by him when acting in person. On 21 March 2019 I refused permission to
+appeal on the papers, for reasons given at the time in writing. The appellant renewed
+his application for permission at a hearing on 5 June 2019, at which he was
+represented by Robert Trevis of counsel, instructed under the direct access scheme. In
+his skeleton argument for that hearing, Mr Trevis redrafted the grounds of appeal.
+After hearing Mr Trevis (the respondent not being present or represented at that
+hearing) I gave permission to appeal on one ground only, namely
+"whether the order of 14 September 2017 giving permission under the ECRO
+dated 23 March 2015 (as extended by the orders of 22 March 2017 and 26 April
+2017) to apply to set aside the statutory demand dated 14 February 2017 (served
+on the appellant on 1 March 2017) retrospectively validated the application made
+without permission under the said ECRO by notice dated 17 March 2017 to set
+aside the said statutory demand to a date before 7 August 2017, so that at the time
+that the petition for the appellant to be adjudicated bankrupt was presented (on 7
+August 2017) there was outstanding an application to set aside the statutory
+demand within section 267(2)(d) of the Insolvency Act 1986, so that the said
+petition could not be validly presented."
+I remind myself that CPR rule 52.21(3) provides that the appeal court will allow the
+appeal where the decision of the court below was (a) wrong, or (b) unjust because of
+serious procedural or other irregularity in the proceedings below. Here 'wrong' means
+wrong in law, wrong in fact, or wrong in the exercise of discretion. I record that on
+the appeal no challenge was made to any of the facts found by the district judge and
+on which he relied. Nor was there any suggestion of any procedural or other
+irregularity below, such as to engage paragraph (b) of the rule.
+The appeal
+10.
+At the hearing of this appeal the appellant was again represented by Mr Trevis, and
+Mr Oliver Wooding appeared for the respondent. Mr Trevis relied on the skeleton
+argument which had been prepared for the application for permission in June, but also
+on commentary on s 267 in Muir Hunter on Personal Insolvency and an authority
+3
+Page 170 of 380
+HHJ Paul Matthews
+Approved Judgment
+Webster v Ashcroft, 8BS0149C
+referred to in that commentary, Times Newspapers Ltd v Chohan (Limitation Periods)
+[2001] 1 WLR 184. He also made an additional point. This was that the appellant did
+not in fact need permission under the ECRO to apply to set aside a statutory demand.
+Mr Wooding pointed out that the ground of appeal permitted by my order of 5 June
+2019 was predicated on the assumption that the ECRO did apply to require
+permission for such an application. But he did not seek to argue that he was not in a
+position to make submissions on the point, although, as he said, those submissions
+would be less full than they might otherwise have been.
+Scope of the ECRO
+11.
+In arguing the point about the scope of the ECRO, Mr Trevis reminded me that I had
+raised the same point myself in my reasons for giving permission on 14 September
+2017. On that occasion I said this:
+"The first question is whether the defendant needs permission to apply to the
+court to set aside a statutory demand. The ECRO provides in section 2 that the
+defendant be restrained “from... Making applications in any court specified
+below concerning any matter involving or relating to or touching upon or leading
+to the proceedings in which this order is made without first obtaining the
+permission of" the named judge. The courts specified in the order as amended in
+April 2017 included the County Court.
+The words of the restraint are very wide indeed. On the face of it an application in
+the County Court for an order to set aside a statutory demand in respect of sums
+said to be due under orders made either in the same proceedings between the
+parties or in earlier proceedings between them covering the same subject matter
+falls within the restraint. I note the reference by Lewis J in Society of Lloyd's v
+Noel [2015] EWHC 734 (QB), [54], to the perceived need in that case to make an
+exception in the restraint for an application to set aside a statutory demand served
+by Lloyds on Mrs Noel, and to the earlier decision of Popplewell J in the same
+case (not unfortunately available to me) making a similar point. That of course
+reinforces the initial impression that such an application would otherwise fall
+within the terms of the restraint.
+Before I could conclusively determine this question, however, I should need to
+give the claimants the opportunity to be heard. But I do not need to do this,
+because I am satisfied that, even if the application is caught by the ECRO, it is
+appropriate in this case to give permission to the defendant to make it. Whatever
+the form of the proceeding, in substance it is a response by the defendant to a
+procedure launched against him by the claimants, i.e. to make him bankrupt. Just
+as he could obviously defend the petition for his bankruptcy without the need for
+permission, so to a person in the position of the defendant should normally be
+able to apply to set aside the statutory demand served on him. Otherwise he
+would be defending the inevitable bankruptcy petition with one hand tied behind
+his back.
+I say ‘normally', because, if it were clear that there were no grounds whatever
+challenging the demand, then there would be no point in giving permission. But,
+looking at the material provided by the defendant, I am not in a position to say
+4
+Page 171 of 380
+HHJ Paul Matthews
+Approved Judgment
+Webster v Ashcroft, 8BS0149C
+that. I emphasise that that does not indicate any view as to the strength of the
+points which the defendant wishes to make. Their evaluation is for another day.”
+Appellant's submissions
+12. Mr Trevis submits that an ECRO ought not to catch an application by an alleged
+debtor to set aside a statutory demand, because in essence it is a step taken in
+accordance with the rules of court after an alleged creditor has taken the initiative, out
+of court, in serving a statutory demand on the alleged debtor. It is therefore wholly
+defensive rather than offensive, and it is only the way that the court procedure is
+structured that requires that the alleged debtor take the first step in court.
+Respondent's submissions
+13.
+14.
+15.
+Mr Wooding submits that the ECRO in the present case does catch an application to
+set aside a statutory demand. In section 2 of the order the relevant part begins:
+"It is ordered that you be restrained from issuing claims or making applications in
+any court specified below concerning any matter involving or relating to or
+touching upon or leading to the proceedings in which this order is made without
+first obtaining the permission of [one of two named judges]".
+The courts then specified are the High Court and "any County Court". That section
+continues:
+"It is further ordered
+(1) this order relates to applications or claims by [the appellant] made against the
+claimants in their capacity as executors of the estate of Valerie Hilda Margaret
+Webster and trustees of (being the freehold owners of) the property known as The
+Priory, [address and title number] (“the Property") and their successors in title;
+(2) the matters subject to this order exclude any personal claim that [the
+appellant] may bring or is advised to bring in professional negligence as a
+disappointed beneficiary or otherwise;
+(3) for the avoidance of doubt, the matter is subject to this order include any
+claim or application in relation to the occupation of, possession of, ownership of,
+or access to the Property."
+Mr Wooding argues that an application to set aside a statutory demand is a positive
+step initiating court proceedings and therefore falls squarely within the wording of the
+ECRO, as long as the subject matter is the same. Here he says the statutory demand is
+based upon costs orders made in earlier litigation between the parties which led to the
+ECRO being imposed in the first place. The point of an ECRO is to act as a filter on
+applicants who have made multiple applications that are totally without merit, so as to
+allow to go forward only those applications which are proper to be heard. He accepts
+that it would normally be appropriate for the court in such a case to give permission to
+make such an application as this. He refers to the decision of Lewis J in Society of
+Lloyd's v Noel [2015] EWHC 734 (QB), where there was an assumption that the
+5
+Page 172 of 380
+HHJ Paul Matthews
+Approved Judgment
+Webster v Ashcroft, 8BS0149C
+application would have been caught by a civil restraint order but that it would be
+appropriate for the court to give permission.
+Discussion
+16.
+Mr Trevis is of course right to say that in substance the alleged debtor in applying to
+set aside a statutory demand is responding to an out of court procedure initiated by the
+alleged creditor. It is a defensive move. He is also right to say that it only happens like
+that because the court rules are so structured. But the whole point about the civil
+restraint order regime is to prevent the court system being overwhelmed with
+unmeritorious applications made to the court. And I cannot get away from the fact
+that, in applying to set aside a statutory demand, an alleged debtor is engaging the
+court process for the first time, rather than responding to the engagement of the court
+process by someone else. So I am clear that Mr Wooding is right to say that in
+principle an ECRO will cover an application to set aside a statutory demand arising
+out of the same subject matter. I also think he is right to say that it will normally be
+appropriate for the court to give permission for such an application to be made. On the
+other hand, if the application is bound to fail, then there will be no point in doing so.
+And then the filter system will have served a useful purpose. So I reject the first point
+made by Mr Trevis.
+Section 267(2)(d)
+Appellant's submissions
+17.
+His next point is that the wording of s 267(2)(d) of the Insolvency Act 1986 is
+mandatory. So far as material, it provides:
+66
+a creditor's petition may be presented to the court in respect of the debt or
+debts only if, at the time the petition is presented -
+18.
+(d) there is no outstanding application to set aside a statutory demand served
+in respect of the debt or any of the debts."
+In support of his view that the wording is mandatory he refers to the decision of
+Anthony Mann QC (as he then was), sitting as a deputy High Court judge, in Times
+Newspapers Ltd v Chohan (Limitation Periods) [2001] 1 WLR 184. In that case a
+statutory demand had been served on 11 January 2000. No application to set aside
+was made within the prescribed time limit. Then, on 18 February 2000, two things
+happened. The creditor presented the petition, and the debtor issued an application out
+of time for an extension of time in which to apply to set aside the statutory demand. It
+was not clear which had happened first: the former was timed, but the latter was not.
+It was later found that neither party knew what the other was doing at the time. The
+application out of time thereafter came before a deputy registrar, who extended time
+for applying to set aside, but in the same order dismissed the application to set aside
+itself. Subsequently, another registrar made a bankruptcy order based on the statutory
+demand. He held that the extension of time for appealing did not have the effect that
+an application to set aside should be treated as outstanding at the time of the petition.
+Alternatively, if he were wrong about that, he held that the condition in paragraph (d)
+6
+Page 173 of 380
+HHJ Paul Matthews
+Approved Judgment
+Webster v Ashcroft, 8BS0149C
+19.
+20.
+20
+21.
+was an irregularity which could be waived and should be waived in the circumstances.
+The bankrupt appealed to the High Court judge against the making of the bankruptcy
+order.
+The deputy judge agreed with the registrar that there was no breach of the
+requirements of paragraph (d). I will come back to that. But he went on to say this:
+“25. That conclusion makes it unnecessary for me to consider the registrar's view
+that any defect in this respect was one that could be waived. I have to say that I
+am not convinced that in this respect the registrar was correct, though I would
+agree with him that if this was a waivable defect then this is clearly a case in
+which the defect ought to be waived. In the light of my views as to the nature and
+effect of paragraph (d), however, it is unnecessary for me to express a view on
+this."
+Mr Trevis relies on this as showing that failure to comply with paragraph (d) cannot
+be waived. With respect, however, I think the language of the deputy judge is not so
+strong as that. It is the expression of a doubt, of course, and doubts should be
+respected and taken into account. But it is clear from the last sentence of the quotation
+above that the deputy judge did not mean to express any concluded view. Sitting, as I
+am, in a court of coordinate jurisdiction, I do not consider that the convention that
+judges at High Court level normally follow each other's judgements applies in this
+case. In this respect, I am fortified by the contrary (if tentative) view apparently
+expressed by Lindsay J in HM Customs and Excise v Jack Baars Wholesale [2004]
+BPIR 543, referred to in the commentary in Muir Hunter on Personal Insolvency,
+already mentioned (although I was not taken to the text of the judgment itself), and by
+the decision of Norris J in Regis Direct Ltd v Hakeem [2012] EWHC 4328 (Ch), to
+which I shall come shortly.
+To my mind, in any event, the more important point in the Chohan case is that the
+deputy judge considered the wording of paragraph (d) in some detail. He said that:
+"23... That paragraph means that there must be a valid application outstanding
+at the relevant time, that is to say one properly made and made in time. An
+application made out of time is not such an application. Technically, unless and
+until the court extends the time for making the application, it cannot be a valid
+application."
+This is relevant to Mr Trevis's point that, at the time of the presentation of the petition
+in August, there was outstanding an application by the appellant to set aside the
+statutory demand, and therefore s 267(2)(d) was not satisfied, and the petition could
+not have been validly presented.
+Respondent's submissions
+22.
+Mr Wooding said that the permission given on 14 September 2017 to the appellant to
+apply for an order setting aside the statutory demand was prospective only, and not
+retrospective. There were very few examples of potential or actual retrospectivity in
+the CPR, such as rule 3.1(2)(a) and rule 6.15(2) (neither of which was at all relevant
+to the present case). He submitted that, properly analysed, the provisions of the
+7
+Page 174 of 380
+HHJ Paul Matthews
+Approved Judgment
+23.
+Webster v Ashcroft, 8BS0149C
+Practice Direction relating to civil restraint orders made clear that permission under
+such an order to make an application was prospective only.
+CPR Practice Direction 3C, so far as relevant, provides:
+"3.3. Where a party who is subject to an extended civil restraint order -
+(1)... makes an application in a court identified in the order concerning any
+matter involving or relating to or touching upon or leading to the
+proceedings in which the order is made without first obtaining the
+permission of a judge identified in the order, the ... application will
+automatically be ... dismissed -
+(a) without the judge having to make any further order;
+24.
+3.4. A party who is subject to an extended civil restraint order may not make an
+application for permission ... without first serving notice of the application on the
+other party in accordance with paragraph 3.5.
+3.5. A notice under paragraph 3.4 must
+(1) set out the nature and grounds of the application; and
+(2) provide the other party with at least seven days within which to
+respond."
+Mr Wooding points to the provision in paragraph 3.3(1)(a) which results in an
+application made in breach of the permission requirement being automatically
+dismissed without the need for any further order. He says the procedure in paragraph
+3.4 shows that the other party must know of the intended application before it is
+made, and paragraph 3.5(2) shows that there must be a gap of seven days between the
+notice of the application and the next step taken by the applicant. He says that
+accordingly where the party subject to an extended civil restraint order issues an
+application in the court without first having obtained permission under the civil
+restraint order, the effect is that the application is automatically dismissed. Hence, by
+the time the petition in the present case was presented, there was no "outstanding
+application to set aside the statutory demand", and the condition in s 267(2)(d) was
+accordingly satisfied.
+Discussion
+25.
+The respondent's argument therefore is that the permission requirement once fulfilled
+looks forward only and not backwards as well. In this connection I may also mention
+another part of the judgment of Mr Mann QC in Times Newspapers Ltd v Chohan
+(Limitation Periods) [2001] 1WLR 184. That case of course concerned an application
+(out of time) for an extension of time in which to make an application to set aside a
+statutory demand rather than an application for permission under an ECRO to make
+such an application.
+26.
+The deputy judge said:
+8
+Page 175 of 380
+HHJ Paul Matthews
+Approved Judgment
+Webster v Ashcroft, 8BS0149C
+27.
+"21. Mr Lamacraft's submissions on the point were advanced succinctly and can
+be shortly stated. He says that when Mr Deputy Registrar Brettle extended the
+time for making the application to set aside had the effect of relating back the
+application to set aside itself so that it should be treated as having been extant at
+the moment it was presented to the court...
+22. Mr Morgan drew attention to the opening words of section 267(2) and in
+particular the words “at the time the petition is presented”. That, he said, is the
+time at which one judges the question of the fulfilment of the requirements of the
+rest of the subsection, and in this case there was no outstanding application at the
+time of the petition. ‘Application' means a valid and timeous application.
+Although there was an application of a sort outstanding, it was not in time and
+was therefore not valid. The subsequent extension of time for making the
+application did not have retrospective effect so as to deem something to be the
+case that was not in fact the case at the time the petition was presented...
+23. I agree with the registrar that there was no breach of the requirements of
+paragraph (d). That paragraph means that there must be a valid application
+outstanding at the relevant time, that is to say one properly made and made in
+time. An application made out of time is not such an application. Technically,
+unless and until the court extends the time for making the application, it cannot be
+a valid application."
+The same reasoning, as it seems to me, applies to the present case. Indeed, in this case
+is even stronger. Applications to extend time are, as already noted, one of the few
+cases where there is any attempt at retrospectivity in the CPR. There is no trace of any
+such retrospectivity in the provisions relating to applications for permission under
+civil restraint orders to make applications in existing proceedings. If an application for
+an extension of time, subsequently granted, does not retrospectively validate an
+application to set aside a statutory demand so that for the purposes of section 267(2)
+there remains an outstanding application, then it can hardly be the case that an
+application made without permission under a civil restraint order could be validated
+retrospectively so as to produce that same effect for the purposes of this section.
+No material difference
+28.
+29.
+Mr Wooding contended that, even if the order of 14 September 2017 did
+retrospectively validate the application to set aside, it made no material difference. He
+relied on the decision of Norris J in Regis Direct Ltd v Hakeem [2012] EWHC 4328
+(Ch), an appeal from the County Court. There the debtor on 22 August 2010 issued an
+application to set aside a statutory demand that had been served upon him.
+Unfortunately, the court wrongly failed to process that application and it was never
+served on the creditor, who presented a bankruptcy petition on 13 October 2010, still
+unaware of the application's existence. The district judge was told at the hearing of
+the petition that an application to set aside the statutory demand was outstanding but
+nevertheless made the bankruptcy order. Seemingly in ignorance of the existence of
+the bankruptcy order, a few days later the application to set aside the statutory
+demand was then heard and dismissed on its merits.
+The debtor argued that the bankruptcy order was void for non-compliance with s
+267(2)(d). Norris J held that it was not, despite the non-compliance. He said:
+9
+Page 176 of 380
+HHJ Paul Matthews
+Approved Judgment
+Webster v Ashcroft, 8BS0149C
+30.
+31.
+"19. The petitioner who knows there is an outstanding application to set aside the
+demand knows he will not be able to establish that the debtor is unable to pay the
+debt but that is not the position here. At the time when the petition was presented
+Regis did not know there was an outstanding application to set aside the statutory
+demand and they did not know that because through a combination of the court
+taking a bad point and Mr Hakeem's inactivity no sealed application notice was
+issued and Mr Hakeem had not, in accordance with the Insolvency Rule 7.43
+served notice of his application on Regis.
+20. In those circumstances Parliament would not have intended that the petition
+issued by such a creditor should be void, a nullity and automatically of no effect.
+It seems to me that in those circumstances the petitioner correctly presented the
+petition, and the question that arises is whether under section 266(3) the court
+should dismiss it or state, and if staying it whether to stay at on terms or
+otherwise. That said, I do think DJ Gill erred in law in making the bankruptcy
+order on 22 March 2011. The correct course to follow would have been to have
+adjourned the petition once it became clear Mr Hakeem's application to set aside
+the statutory demand was outstanding. When the fate of that application was
+known, the petition could be restored and ruled on."
+Section 266(3), referred to by Norris J, provides as follows:
+"The court has a general power, if it appears to be appropriate to do so on the
+grounds that there has been a contravention of the rules or for any other reason, to
+dismiss a bankruptcy petition or to stay proceedings on such a petition; and,
+where it stays proceedings on the petition, it may do so on such terms and
+conditions as it thinks fit."
+Norris J went on to hold that the correct course would have been to adjourn the
+petition until the outcome of the application to set aside was known. However, it was
+now known that the application failed. There was no suggestion that if the petition
+had been presented immediately after the application to set aside had been dismissed
+(some three days later) the debtor would have had any answer to it. Accordingly, there
+was no prejudice to the debtor, and the appeal court should affirm the bankruptcy
+order.
+Discussion
+32.
+33.
+In the Regis Direct case the creditor did not know of the debtor's application to set
+aside the statutory demand because it had not been properly processed by the court
+and the debtor did nothing about it. In the present case the creditor, if she knew of the
+application made to set aside statutory demand, was entitled to take the view that it
+was automatically dismissed by virtue of PD 3C para 3.3(1)(a), and therefore did not
+know that there was a valid outstanding application to set aside when the petition was
+presented. It is only if I were to hold on this appeal that the giving of permission on
+14 September 2017 retrospectively validated the application to set aside that the
+creditor would now know that there had in fact been a valid application outstanding at
+the time of the presentation of the petition.
+But the important difference between this case and the Regis Direct case is that, in
+this case, once permission had been given in September 2017, the hearing of the
+10
+Page 177 of 380
+HHJ Paul Matthews
+Approved Judgment
+Webster v Ashcroft, 8BS0149C
+34.
+petition was adjourned to await the result of the hearing of the application to set aside.
+That means that what Norris J said ought to happen actually did happen here. It also
+means that the judge at the hearing of the bankruptcy petition knew the result of the
+application to set aside.
+In accordance with the usual convention, I should follow the decision of Norris J that
+the presentation of a bankruptcy petition in breach of s 267(2)(d) does not render the
+petition void, but on the contrary, it is “correctly presented”, unless I am convinced
+that the decision is wrong. I am not so convinced, despite the doubt of Mr Mann QC
+on the "waivability" of the defect in the Chohan case. That being so, and the
+application to set aside having been dismissed on its merits, I cannot see that the
+district judge, in deciding in the exercise of his discretion what costs order to make
+made any error of law or failed to take into account material considerations (and only
+such considerations).
+Conclusion
+35.
+In my judgment the district judge went wrong neither in law nor in the exercise of
+judicial discretion. Accordingly, this appeal fails, and must be dismissed.
+11
+Page 178 of 380
+IN THE COUNTY COURT AT YEOVIL
+Case No: F00YE161
+BEFORE:
+DISTRICT JUDGE WALSH
+The Law Courts
+Petters Way
+Yeovil
+BA20 1SW
+Thursday, 16 January 2020
+BETWEEN:
+TRUSTEES OF THE J.S. NEAL ESTATE TRUST
+Claimants
+- and -
+PERSONS UNKNOWN & RUPERT ST. JOHN WEBSTER
+MR M CLARKE appeared on behalf of the Claimants
+MR R TREVIS appeared on behalf of the Second Defendant
+JUDGMENT
+Defendants
+Digital Transcription by Epiq Europe Ltd,
+Unit 1 Blenheim Court, Beaufort Business Park, Bristol, BS32 4NE
+Web: www.epiqglobal.com/en-gb/ Email: civil@epiqglobal.co.uk
+(Official Shorthand Writers to the Court)
+This Transcript is Crown Copyright. It may not be reproduced in whole or in part other than in accordance with
+relevant licence or with the express consent of the Authority. All rights are reserved.
+WARNING: reporting restrictions may apply to the contents transcribed in this document, particularly if the case
+concerned a sexual offence or involved a child. Reporting restrictions prohibit the publication of the applicable
+information to the public or any section of the public, in writing, in a broadcast or by means of the internet, including
+social media. Anyone who receives a copy of this transcript is responsible in law for making sure that applicable
+restrictions are not breached. A person who breaches a reporting restriction is liable to a fine and/or imprisonment.
+For guidance on whether reporting restrictions apply, and to what information, ask at the court office or take legal
+advice.
+1
+Epiq Europe Ltd, Unit 1 Blenheim Court, Beaufort Business Park, Bristol BS32 4NE
+www.epiqglobal.com/en-gb/
+Page 179 of 380
+1.
+2.
+3.
+THE DISTRICT JUDGE: This is my ex tempore judgment in the matter of Bruce
+Weir and Lesley Gaskell acting as trustees of the J. S. Neal Trust against
+Mr Rupert St. John Webster as second defendant. For reasons that were not always
+clear to me, the proceedings commenced as a claim against persons unknown when it
+was known that it was Mr Webster who was in occupation, and I know he took
+umbrage at the omission of his name early in these proceedings but that is a historic
+issue. This is, as I have said, an ex tempore judgment; it is being given at ten to five on
+a Thursday evening. I decided not to reserve judgment because it is in all the parties'
+interests that they should have the benefit of a judgment today but I reserve my right,
+as I am entitled to do, to augment my reasons should the matter go any further.
+It is, as I understand it, common ground that the claimants are the registered freehold
+owners of Bondip Farmhouse in Kingsdon in Somerton in Somerset; it is also common
+ground that that land and property was subject to a lease granted for a term of 35 years,
+from 29 September 1994, the lease itself being dated 6 March 1995. The term would
+accordingly expire in 2029 if it is not, or has not been, determined sooner. It appears
+(indeed, it is common ground again) that there were previous proceedings between
+these parties and also Jennifer St. John Webster, named as second defendant under
+claim number E00YE247, and that resulted in an order of Deputy District
+Judge Collins, to which I will return in due course. That order struck out a claim for
+possession which has been characterised before me by Mr Trevis, counsel for the
+second defendant, as proceedings that were identical to the present. I should say that
+Mr Clarke appears for the claimants.
+Under the terms of the previous order, as I have indicated, those proceedings stood
+struck out on 6 June; these proceedings were commenced on 11 June 2019. By an
+application dated 26 September 2019, the claimants applied to strike out the defence of
+the second defendant under Civil Procedure Rule 3.4(2)(a) which is, of course, the
+provision which provides that the court may strike out a statement of case if it appears
+to the court that the statement of case discloses no reasonable grounds for bringing or
+defending the claim.
+2
+Epiq Europe Ltd, Unit 1 Blenheim Court, Beaufort Business Park, Bristol BS32 4NE
+www.epiqglobal.com/en-gb/
+Page 180 of 380
+4.
+5.
+The 1995 lease that I have alluded to was granted by Prudence Neal to Edward Marrow
+and Patricia Marrow. The defence that has been filed by the second defendant states
+that Edward Marrow died on 17 August 1995 and that the lease accordingly vested in
+Patricia Marrow by survivorship. The defence goes on to state (and again I think it is
+common ground) that Patricia Marrow died on 25 December 2017 and, under her last
+will, she appointed Jennifer St. John Webster, Miranda Maby and Priscilla Keezer as
+her executrices. They were her daughters. I am told that one of the two other
+executrices (Jennifer being alive and the second defendant's mother) predeceased
+Patricia Marrow (I believe that to be Miranda Maby) and the third executor lives in
+Scotland; to the best of the parties' knowledge today no grant of probate has as yet been
+extracted. Under the terms of the will, Patricia Marrow has left her estate to her three
+daughters.
+What the defence goes on to say is that on 29 August 2018 the second defendant served
+notice on the claimants exercising, or purporting to exercise, a right to enfranchise in
+respect of the property of which possession is sought today, that right to enfranchise
+being exercised pursuant to the provisions of section 1 of the Leasehold Reform Act
+1967. Specifically, at paragraph 12(a) it is said the second defendant was "acting on
+behalf of and with the authority of the executors". That notice appears in my bundle at
+pages 92 and 93. It is addressed to Mr Weir and Lesley Gaskell as trustees of the J. S.
+Neal (Deceased) Trust and it says this:
+"(1) I am the tenant of the house and premises of which particulars
+are given in the schedule to this notice.
+(2) In exercise of my rights under part 1 of the Leasehold Reform
+Act 1967, I give you notice of my desire to have the freehold of the
+house and premises.
+(3) The particulars on which I rely are set out in the schedule to
+this
+notice."
+6.
+Paragraph (4) then sets out certain mandatory content, and at paragraph (5) it says:
+3
+Epiq Europe Ltd, Unit 1 Blenheim Court, Beaufort Business Park, Bristol BS32 4NE
+www.epiqglobal.com/en-gb/
+Page 181 of 380
+"(5) I have served a copy of this notice on Jennifer St. John
+Webster."
+7.
+The schedule with particulars supporting the tenant's claim runs to some seven
+paragraphs. I do not need to read out the entirety of those. What is particularly
+germane in my view is that at (6) and (7) it says:
+"(6) The house and premises have been the tenant's principal
+residence since early 2015, as set out in the defendant's first
+statement to the landlord's possession claim.
+(7) Mrs Marrow, the registered leaseholder, died on Christmas Day
+2017, as set out within the defendant's first statement. She was my
+grandmother. I rely on the rights of members of the family
+succeeding to the tenancy and on my rights to reasonable financial
+provision by the Inheritance Act 1975 as if she enfranchised the
+house and premises herself or requested extension of her lease."
+8.
+9.
+The application that I am determining, namely whether I should strike out the defence
+and grant possession, says a number of things. First, it is the claimant's position that
+the defence, predicated as it is by reliance upon the 1967 Act, is ill-conceived and
+bound to fail because the tenancy of 1995 had already determined by surrender.
+Paragraph (6) of the application says this:
+"(6) On 31 July Jennifer St. John Webster, having vacated the
+property previously, handed over possession of the property and
+keys to the claimant's agents, thereby surrendering any right she
+had to the property, and the property was secured."
+In support of that position a number of statements were filed. There is a statement
+from Ms Natalie Rendall of Greenslade Taylor Hunt. That statement explains that she
+is the residential sales manager at Greenslade's and goes on to say that:
+"On 31 July 2018 I was asked to assist Claire Crumb on an
+attendance at Bondip Farmhouse, Kingsdon BA22 8JL in order to
+receive the keys of the property from Jennifer St. John Webster.
+Claire had been asked by Neil Biffen at Greenslade Taylor Hunt to
+4
+Epiq Europe Ltd, Unit 1 Blenheim Court, Beaufort Business Park, Bristol BS32 4NE
+www.epiqglobal.com/en-gb/
+Page 182 of 380

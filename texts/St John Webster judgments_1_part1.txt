@@ -1,0 +1,390 @@
+2010 EWHC 3981 (CH)
+IN THE HIGH COURT OF JUSTICE
+CHANCERY DIVISION
+Case No: HC09C01570
+BEFORE:
+MASTER BRAGGE
+BETWEEN:
+ALISON ASHCROFT
+- and -
+Rolls Building
+7 Rolls Buildings
+Fetter Lane
+London EC4A 1NL
+Wednesday, 22 September 2010
+RUPERT ST JOHN WEBSTER
+MR GRANT appeared on behalf of the Claimant
+MR FISHER CROUCH appeared on behalf of the Defendant
+JUDGMENT
+(Draft Not Approved)
+Claimant
+Defendant
+Digital Transcript of WordWave International Ltd trading as DTI
+8th Floor, 165 Fleet Street, London, EC4A 2DY
+Tel No: 020 7404 1400 Fax No: 020 7404 1424
+Web: www.DTIGLOBAL.com Email: TTP@dtiglobal.eu
+(Official Shorthand Writers to the Court)
+No of Words: 947
+WordWave International Ltd trading as DTI
+No of Folios: 13
+Page 1 of 380
+1.
+MASTER BRAGGE: This afternoon I am concerned with an application notice issued
+on 6 September seeking an order that unless the claimant applies to join, either as
+claimant or defendant, Jennifer, and the executors of the late Valerie Webster (that is in
+fact Jennifer) and all persons purporting to have a legal beneficial interest in
+The Priory, as well as an order in relation to inspection of documents, that the claim
+stands struck out with judgment for the defendants.
+2.
+The question of parties arose because of what is pleaded in the Particulars of Claim.
+For example, paragraph 11 of the Particulars of Claim provides that "Further or in the
+alternative, all those persons including the defendants who purport to have a legal
+beneficial interest in The Priory and the agricultural land, whether as trustees or
+otherwise, are stopped by these assurances, promises and representations denying the
+existing of the trust referred to."
+3.
+Then there was a request for further and better particulars and the answers to that
+request made it clear that other persons needed at the very least to have notice of the
+claim or be joined in the claim. The view therefore was taken, and indeed is set out
+explicitly in the Defence, that the claim as presently constituted was defective, both in
+relation to the absence of Valerie Webster, and I should say that Valentine is deceased
+and neither his executors nor his mother has been made a party, that is the reason for
+that. Accordingly, it is said that Jennifer should be the claimant, or, if she refuses to be
+a claimant, then she should be a defendant. In fact, I am told by Mr Fisher Crouch and
+accept that she was about to go to her solicitors in that connection.
+WordWave International Ltd trading as DTI
+Page 2 of 380
+4.
+As I have already briefly indicated, the claimant also in effect brings into the litigation
+those who purport to have a legal or beneficial interest in The Priory. One then
+immediately has to think of those individuals as identified, in particular in the
+pleadings and in the reply to the further and better particulars. As I say, these matters
+were set out in the Defence, which was served now some considerable time ago, in fact
+in April.
+5.
+My attention has been drawn to a letter of 30 June 2010 from the defendant's solicitors
+referring to fundamental flaws in the case. A further letter was written and an extract is
+set out in Mr Grant's skeleton on 28 July. That letter asked for information as to what
+was supposed to be done to regulate the pleadings in the matter and it is in terms a
+warning that, if there is no response in substantive terms, then instructions would be
+taken with a view to issuing an application notice to strike out. There is also a request
+for the certain documents that were listed in the claimant's solicitor's documents. Later
+the application indeed was issued and that is the one that is before me.
+6.
+By a letter of 17 September the claimant's solicitors write a detailed letter to the
+defendant's solicitors suggesting a way forward. The matter is, however, before me. In
+light of the order I have indicated that I am going to make, there is in fact now no
+question of an unless order. Mr Grant submits that the substance of the order I have
+made reflects what his clients have been trying to achieve, namely the proper
+constitution of the claim.
+7.
+On the other hand, Mr Fisher Crouch says that an unless order was never appropriate
+and this sort of matter should have been dealt with at a routine case management
+WordWave International Ltd trading as DTI
+Page 3 of 380
+conference. In any event, the order that I have indicated is different, at least in part,
+from the order sought in the application notice.
+8.
+I have a certain amount of sympathy for Mr Fisher Crouch because it is quite clear
+from what he tells me and from his letter of 17 September that he has been trying to get
+a decision from Jennifer as to what her position is. However, the fact remains, as it
+seems to me, that it is the obligation of the claimant to see that the claim is properly
+constituted and, if in so far as it is defective of parties or defective of people who need
+to be given notice and therefore bound by the claim, then that is the obligation of a
+claimant.
+9.
+It was not, for example, suggested that there should be a case management conference
+to deal with the matter. The substance was that there was more or less silence from the
+claimant as to its position. Although the order is in formulation different in part from
+what is sought in the application notice, the substance of what I have ordered reflects,
+as I say, the onus on the defendant behind this application, so I am afraid I cannot
+merely treat this as a case management conference and I think that Jennifer will have to
+pay the costs of the application.
+WordWave International Ltd trading as DTI
+Page 4 of 380
+IN THE HIGH COURT OF JUSTICE
+Claim No. HC09CO1570
+CHANCERY DIVISION
+BETWEEN:
+RUPERT JOLYON RICHARD ST. JOHN WEBSTER
+and
+(1) ALISON VIRGINIA ASHCROFT
+(2) JOHN FRANCIS PENLEY
+(3) JENNIFER ST. JOHN WEBSTER
+(4) IAN RORY ST. JOHN WEBSTER
+and
+(5) ANTONIA MARY SLOANE
+Claimant
+Defendants
+Before Mr. N. Strauss Q.C., sitting as a deputy judge
+20th December 2011
+Mr. David E. Grant, instructed by Messrs. Clarke Willmott LLP, appeared for the 1st and
+2nd defendants. Miss Barbara Rich, instructed by Messrs. Beviss and Beckinsale
+appeared for the claimant.
+Approved judgment
+1.
+This action arises from a family dispute relating to the estate of Valerie Webster
+("Valerie"). There are two claims in the action. The first is a contentious probate claim,
+seeking an order in solemn form granting probate of Valerie's penultimate will dated 16th
+November 2000, and claiming against the validity of her last will dated 24th May 2006.
+-1-
+X:\NS\NS6 Page 5 of 380
+The second is a claim that land comprising The Priory and certain agricultural land at Ash
+Priors, near Taunton, Somerset is subject to a constructive trust or equity based on
+proprietary estoppel arising from a testamentary promise.
+2. This is an application by the 1st and 2nd defendants for summary judgment
+dismissing the constructive trust, or proprietary estoppel, claim. The trial of the action is
+due to begin on 16th January next, although, since witness statements are not due to be
+served until 6 weeks after my decision on this application, it seems doubtful whether the
+date can be retained.
+3.
+The Ash Priors estate, consisting of The Priory, comprising a mansion house, 3
+cottages and 17.628 acres of land, and the Agricultural Land, which has 20.236 acres, and
+certain other parcels of land which are not relevant to the present application, was
+purchased by Valerie's late husband, Antony Webster ("Antony") in 1950. He died on
+the 10th February 1996. Valerie died on 21st August 2007.
+4.
+Antony and Valerie's first child was Valentine Webster ("Valentine"). He married
+Jennifer in 1970, and they had 3 children, of whom the oldest is the claimant in the action,
+Rupert, who was born in 1972. Valentine was made bankrupt in December 1992,
+obtaining his discharge in the following year, 1993. He died in 2006. Jennifer is still
+alive. She is the 3rd defendant.
+5.
+Antony and Valerie had 3 further children, Virginia (or Alison), Antonia and Rory
+who are, respectively, the 2nd, 5th and 4th defendants. They have, between them, 9
+children.
+-2-
+X:\N\NS63 6 of 380
+6.
+Until 1992, Antony retained the legal title to the estate, but by a Deed of
+Voluntary Correspondence dated 6th April 1992 he conveyed the Priory and two fields to
+himself and to Valerie to be held by them as tenants in common in equal shares. Then, by
+a Deed of Gift dated 25th April 1992, Antony gave the remainder of the estate, including
+the Agricultural Land, to Valerie.
+7.
+By a Settlement dated 25th April 1992, Valerie transferred her interest in part of
+the estate, including the Agricultural Land, to Alison, Antonia and Rory to be held on
+trust for her 4 children.
+8.
+Rupert's claim is pleaded (not by counsel appearing on the application) in the
+following terms in the Particulars of Claim:-
+"THE TRUST CLAIM IN RESPECT OF THE PRIORY
+8.
+9.
+10.
+From the early 1970s onwards, Anthony made assurances, promises and
+representations to Valentine and Jennifer that if they (Valentine and Jennifer) came
+to live at Ash priors, helped to look after Anthony and Valerie, and helped to look
+after and run the farm at Ash Priors, he (Anthony) would by his Will bequeath to
+Valentine all his legal and beneficial interest in the Priory and in the Agricultural
+Land.
+Relying upon the said assurances, promises and representations, Valentine and
+Jennifer went to live at Ash Priors, helped to look after Anthony and Valerie, and
+helped to look after and run the farm at Ash Priors. They did so without
+remuneration, and also spent considerable sums of money on the Priory and on the
+Agricultural Land, and on other properties at Ash Priors originally owned by
+Antony. In so doing, they acted to their detriment, in reliance upon the said
+assurances, promises and representations.
+By virtue of the matters set out in Paragraphs 8 and 9 above, the Priory and the
+Agricultural Land were, immediately prior to the making of the 1992 Deed, and
+still are subject to a trust in favour of Valentine, and since his death on 16th
+September 2006, in favour of the residuary beneficiary of his Estate."
+-3-
+X:\N\NS63 Page 7 of 380
+9.
+The following Further Information relates to the constitution of this claim:-
+(1)
+the claimant brings these proceedings in his capacity as
+(a)
+(b)
+(2)
+a beneficiary of Valerie's Estate, and
+the beneficiary of a Trust created by Valentine in respect of Valentine's interest in
+The Priory and the Agricultural Land
+the (1st and 2nd) defendants are being sued in their capacity as
+(a)
+the current Trustees of the 1992 Deed, and
+(b)
+the Executors named in the Disputed 2006 Will.
+10.
+Further, (the 2nd defendant) is sued in her capacity as one of the Trustees of the
+1992 Settlement.
+11. The Further Information also states:
+"Jennifer is the sole Executrix of Valentine's Estate.
+Although she is in his Will named as the sole beneficiary of Valentine, she holds
+Valentine's legal and beneficial interest in The Priory and the Agricultural Land on Trust
+for the Claimant."
+12. The Further Information also contains more detail as to the alleged detriment to
+Valentine and Jennifer in reliance on the alleged assurances, including both substantial
+physical work and financial expenditure.
+-4-
+X:\N\NS63 8 of 380
+13. It is clear from the evidence that Jennifer has never wished to participate in these
+proceedings, but on 22nd September 2010, on the application of the 1st and 2nd defendants,
+Master Bragge ordered that she should be added as the 3rd defendant, by consent if she
+filed a written consent by 20 th October 2010, otherwise not by consent. She did not
+consent.
+14.
+The first ground on which the application for summary judgment is based is that
+Rupert has no locus standi to bring the claim. The constructive trust, or proprietary
+estoppel, operates in favour of his parents, and the proper claimant is therefore his
+mother, both in her personal capacity and as the executrix of her late husband's estate.
+15. In response to this, and amplifying the rather vague references to a trust in the
+Further Information, Rupert states as follows in his witness statement:
+"As is clear from my Response 12, (in the Further Injunction) it is my case that "she
+holds Valentine's legal and beneficial interest in the Priory and in the Agricultural Land
+on Trust" for myself. For the avoidance of doubt, I submit that I am entitled to rely, in
+relation to such interest, upon the terms of a Full Secret Trust agreed between my father
+Valentine and my mother Jennifer in my presence in the late stage of the terminal
+illness from which he eventually died. I shall seek at Trial to establish the existence of
+that Trust by my evidence and that of my mother Jennifer. The creation of that Trust
+was clearly in my father Valentine's mind at the time of the onset of that illness, as is
+shown by his diary note for 31st March 2011. ..."
+-
+16.
+On behalf of the 1st and 2nd defendants, Mr. Grant submits that there is no obvious
+reason for a secret trust, and that the suggestion that there was one is not supported by any
+evidence on the part of Jennifer. These may well be substantial points, but they do not
+provide a sufficient basis for a summary judgment application, in circumstances in which
+these is unequivocal evidence from Rupert of a conversation with his parents, and in
+-5-
+X:\NS\NS6 Page 9 of 380
+which his mother's evidence on the point is simply unknown. Rupert has explained his
+mother's understandable reluctance to become involved in some detail in his witness
+statement, but has said that he will if necessary compel her to give evidence.
+17. Next it is submitted that, even if there was an oral declaration of trust, as Rupert
+alleges, (a) it is ineffective for want of writing, by reason of section 53 of the Law of
+Property Act 1925 and (b) even if that were not so, only the trustee i.e. Rupert's mother,
+could enforce it: see Roberts v. Gill & Co. [2011] 1 A.C. 240 at §87 per Lord Rodger.
+Both these points seem to be correct, and Miss Rich on behalf of Rupert, while
+contending that they were irrelevant, did not seek to answer them.
+18.
+Instead, she made an application, in separate proceedings in Valentine's estate
+brought by Jennifer against Rupert, for the appointment of Rupert as Valentine's personal
+representative in substitution for Jennifer, pursuant to section 50 of the Administration of
+Justice Act 1985. Rupert of course consents to the application, the effect of which would
+be to give him locus standi to pursue his late father's claim.
+19.
+Mr. Grant objected to this application, on the ground of its lateness, which
+deprived him of the opportunity of obtaining evidence that Rupert was not a fit and
+proper person. However, I think that Miss Rich was right to say that that is a matter
+between Jennifer, the sole beneficiary, and Rupert, and that in relation to this it was Mr.
+Grant's clients who did not have locus standi.
+20. Mr. Grant further submitted that the substitution of Rupert as the personal
+representative of Valentine's estate did not assist his claim, since to pursue it on behalf of
+-6-
+X:\NS\NSPage 10 of 380
+the estate was inconsistent with his primary case of a secret trust in his favour. I do not
+accept this. In circumstances in which Mr. Grant has submitted, probably correctly, that
+any such secret trust would be unenforceable, there is no inconsistency in Rupert
+advancing an alternative case. He is perfectly entitled, in these circumstances, to claim
+that, if the secret trust is unenforceable, the beneficiary of the claim remains the estate of
+his father, which he is now entitled to represent.
+21.
+So this ground on which the application for summary judgment is based fails. I
+am prepared to make the order sought in the separate proceedings, which results in the
+position that Rupert is entitled to pursue the action in his capacity as the personal
+representative of his father's estate.
+22.
+Miss Rich also applied, on behalf of Jennifer, for an order that she should cease to
+be a party to the proceedings, on the ground that it was not desirable for her to remain a
+party following the appointment of Rupert as personal representative. I reject that
+application. The basis for Master Bragge's Order appears clearly from the defendants'
+skeleton argument for that hearing. It was that the claim was improperly constituted,
+having regard to CPR 19.3, because all persons jointly entitled to the remedy claimed in
+the action ought to be party to it. That remains the position: if the claim is valid, it is, or
+at least may be, a joint claim belonging to Jennifer and the estate of her late husband.
+23.
+Miss Rich said that Jennifer was concerned at the possibility of an order for costs,
+in circumstances in which the other parties to the action have declined to say that they
+would not apply for costs against her. There does not seem to me to be much risk of an
+-7-
+X:\N\NS Page 11 of 380
+order for costs being made against her, in circumstances in which she has not taken any
+steps to advance any claim which she may have.
+24.
+The next ground on which the application for summary judgment is based is that
+Valentine's claim is vested in his trustee in bankruptcy, the Official Receiver. This seems
+to me to be unanswerable.
+25.
+The property vesting in a trustee in bankruptcy is widely defined in section 436 of
+the Insolvency Act 1986:
+66 66
+property" includes money, goods, things in acting, and every description of property
+wherever situated and also obligations and every description of interest, whether present
+or future or vested or contingent, arising out of or incidental to, property"(my
+emphasis).
+26.
+As at December 1992, on the basis of the facts alleged, either Valentine and
+Jennifer jointly, or Valentine alone, had an equity interest in The Priory and the
+Agricultural Land, which would take effect on the death of his father. The precise extent
+of the equity might depend on the circumstances at that time, as the court will assess the
+minimum that is necessary to give effect to the promise and avoid unconscionability: see
+Jennings v. Rice [2003] 1 P. & CR. 100 (C.A.); Gillett v. Holt [2001] Ch. 210. Subject to
+that, Valentine and Jennifer became jointly entitled, or Valentine became entitled alone,
+to The Priory and the Agricultural Land on the death of his father. Alternatively, it is
+suggested, the assurances were to be understood as taking effect on the death of both
+parents, although this would require an amendment to the pleadings. However, the
+assurances are to be interpreted, assuming that they, and the necessary reliance and
+-8-
+X:\N\NS Page 12 of 380
+detriment, are established on the evidence, Valentine had by December 1992 a either a
+joint or a sole interest in the estate. Its existence did not depend on any future uncertain
+event.
+27.
+Miss Rich submitted that Valentine had not acquired any property by December
+1992. In cases of this kind, no property interest arose until the death of the promisor,
+unless the promisor did something inconsistent with the promise in his lifetime to the
+knowledge of the promisee: if he did, the promisee had an immediate claim, as in Gillett
+v. Holt.
+28.
+This seems to me to confuse the right with the circumstances in which the right is
+enforced. Normally, the promisee would not bring proceedings unless and until the
+promisee's personal representatives refused to give effect to the equity. In Gillett v. Holt,
+the promisor made inconsistent dispositions in his own lifetime, and earlier proceedings
+were justified. But the property here is not the cause of action but the equity, described
+by Slade L.J. in Jones v. Watkins, unreported, 26th November 1987 as “a right in equity to
+a transfer of the whole property.” On the facts pleaded in this case, Valentine and
+Jennifer, alternatively Valentine alone, had acquired such a right long before December
+1992. Although there is no authority directly in point, in my view Valentine's right was
+property which passed to the Official Receiver as his trustee in bankruptcy.
+29. The Official Receiver has never transferred the equity back to Valentine, from
+which it follows that, at this point in time, it is vested in him, and Rupert has no locus
+standi to pursue Valentine's claim. Since his mother does not wish to pursue her claim,
+as matters stand the action must fail. However, I understand that the Official Receiver
+-9-
+X:\NSINS Page 13 of 380
+has been approached, and it may be that he will be prepared to reassign the claim to
+Valentine's estate. If that happens before judgment is handed down, this ground on
+which the application is based will disappear. Similarly, if a reassignment takes place at
+any time in the future, any further action brought by Rupert, and similarly constituted,
+would not be affected by this decision. All that I have decided is that the cause of action
+is at present vested in the Official Receiver as Valentine's trustee in bankruptcy.
+30.
+The final ground on which this application is based is that the claim has no real
+prospect of success on the facts. Mr. Grant submitted that both the transfer by Antony to
+himself and Valerie as tenants in common on 7th April 1992, and the Deed of Settlement
+relating to the Agricultural Land on 27th April 1992, were flatly inconsistent with the
+alleged assurances. Yet Valentine and Jennifer did nothing, although they must have
+known of the arrangements and, indeed, a later entry in Valentine's diary for 3rd April
+2000 proves this. Therefore, Mr. Grant submitted, the claim is not credible, since
+Valentine would have objected at the time, and in any event the defence of laches would
+be unanswerable since nothing was done for the remaining 14 years of his life.
+31.
+These are clearly very powerful points, but I am not persuaded to accept them as a
+basis for summary judgment. There is some evidence that Valentine did not think it
+appropriate to do anything while his mother was still alive, and it is possible that the
+assurances were intended to take effect only on her death. Rupert relies on the witness
+statement signed by his mother which supports the claim, although his evidence is that
+she did not wish this to be used, but beyond this it is not clear what she will say. It is not
+impossible that there may be a valid explanation for the inaction since 1992 and, in
+-10-
+X:\NS\NS Page 14 of 380
+circumstances in which Rupert has said that she will be called to give evidence, it is
+impossible to say that the claim is fanciful or unreal.
+32.
+Nevertheless, as matters stand at present, I propose to give summary judgment
+dismissing the proprietary estoppel claim, but on the sole basis that Rupert has no locus
+standi to bring it at present.
+-11-
+X:\NS\NS Page 15 of 380

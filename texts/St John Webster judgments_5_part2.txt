@@ -1,0 +1,629 @@
+unknown,” and again using forms N5 and N121. The appellant was added as a second defendant to the claim by
+order of District Judge Walsh on 23 July 2019. Jennifer has never been a party to these proceedings, and the order
+under appeal does not mention her, expressly or impliedly.
+15. The judge below considered the evidence put forward on both sides in relation to the question whether
+Jennifer had surrendered the lease to the respondents by removing her own and the testatrix's possessions from the
+property, handing back the keys to the respondents' agents, signing the form and informing them of her intention
+to live elsewhere.
+16. Since he was dealing with an application to strike out the defence on the basis that it had no reasonable prospect
+or no reasonable grounds for succeeding, the judge treated the case as if the appellant would succeed in proving
+all the facts he alleged, namely that the named executrix in occupation ostensibly delivered up the keys to the
+landlord's agents, communicating that she was moving out and hoping that her son would do the same, but also
+that he probably retained a set of keys and possessions at the property.
+17. On this basis the judge held that, on an objective construction of Jennifer's acts, she had unequivocally
+intended to end the lease and had indeed surrendered it. The fact that the appellant (who was not a tenant) had
+left possessions at the property and retained keys to it did not prevent a surrender from taking place. The judge
+held that that was sufficient to dispose of the application in favour of the respondents.
+18. But the respondents had a second point, which was that, even if the lease had not been surrendered, no valid
+notice to enfranchise had been served by a party with standing to do so. The appellant disagreed, and relied on
+two documents, both postdating the notice served by the appellant, to demonstrate that he had the authority of his
+mother as executrix to serve the notice to enfranchise on behalf of his grandmother's estate. The judge held that
+neither conferred authority on the appellant to serve the notice in August 2018, and that on the true construction
+of the documents the claim to enfranchise was being made by the appellant personally, and not on behalf of his
+mother.
+19. However, there was a further point. The appellant argued through counsel that the proceedings were an abuse
+of process. He said that the enfranchisement claim was effectively adjudicated on by the order of Deputy District
+Judge Collins in the previous proceedings between the parties under claim number E00YE247. The judge below
+held that it was not so, and that the deputy district judge had not been adjudicating upon the claim to enfranchise.
+20. In addition, the judge also held that the lease in question was not capable of enfranchisement by anyone,
+because it was not a “long lease" as defined by the Act. Section 3(1) contained an exception for leases for
+a term exceeding 21 years but terminable by notice after the death (as in this case), where certain conditions
+were satisfied. The judge held that those conditions were satisfied, and accordingly the lease was not capable
+of enfranchisement. Accordingly, the judge held that the defence should be struck out and judgment given for
+possession of the property.
+21. The appellant advances nine grounds of appeal, signed by himself, rather than by his counsel. I infer from this
+that that he drafted them personally. These are as follows.
+"1. The learned judge erred in making an order in relation to Jennifer St John Webster who was not joined as a
+party to the proceedings notwithstanding the assertion that she had surrendered the tenancy;
+2. The court erred in failing to give Jennifer St John Webster the right to engage in the litigation given that an
+adverse order has now been made against her;
+3. In all of the circumstances the order of 16 January 2020 was contrary to Jennifer St John's [sic] right to a fair
+trial/hearing.
+4. The learned judge was wrong to adjudicate on the question of surrender of the lease as follows.
+4.1. The question had to be considered objectively by the learned judge;
+4.2. The issue required the learned judge to give Jennifer St John Webster an opportunity to make representations
+to the court but the learned judge failed to do so;
+5. The learned judge failed to take into account that the purported surrender did not concern any agreement
+between the parties, that there was no express agreement, in which case it must be by deed, and could not have
+taken place by operation of law.
+6. The learned judge failed to consider the doctrine of surrender by operation of law appropriately or at all in
+that notwithstanding that there must be an act on the tenants part which is inconsistent with continuance of the
+Page 238 of 380
+tenancy and on acceptance by the landlord that the tenancy has come to an end, there was no act(s) of both tenant
+and landlord that could have been said to have been unequivocal.
+7. The learned judge in any event took into account the intentions of Jennifer St John Webster, which is an
+irrelevant factor. The learned judge failed to analyse parties intentions objectively and consider whether a
+surrender should be implied from those acts. Further it is submitted that without Jennifer St John Webster being
+joined to the proceedings this consideration could not have taken place by the learned judge.
+8. The learned judge failed to consider appropriately or at all the extent to which or effect of whether Rupert
+St John Webster was entitled to succeed to the tenancy. Accordingly, the learned judge failed to consider
+appropriately or at all whether the Second Defendant Appellant was entitled to apply to enfranchise the tenancy
+in the circumstances of him having served a notice within two years of the death of his grandmother.
+9. The learned [sic] was wrong to conclude that the tenancy was not a long lease as follows.
+9.1. The claimant/respondent failed to produce the original lease or any copy thereof or any evidence in relation
+to the terms of that lease. The learned judge was wrong to construe the lease in the absence of any evidence;
+9.2. In any event the learned judge was wrong in concluding that this was not a long lease because the original
+lease commenced on 15 May 1948 and therefore as defined is a lease capable of enfranchisement."
+22. The appellant has supported his grounds of appeal by means of a detailed skeleton argument, dated 1 March
+2020, running to 11 typed A4 pages, which I have read. However, the appellant needs permission to appeal in order
+to take these grounds of appeal forward. The judge himself did not give permission to appeal. There is no mention
+of a refusal in his order, so perhaps he was not asked. At all events, the appellant seeks such permission from me.
+23. Under the Civil Procedure Rules, rule 52.6, the court (whether the lower or the appellate) may not grant
+permission for a first appeal unless either there is a real prospect of a successful appeal or there is some other
+compelling reason why an appeal should be heard. The phrase 'real prospect' does not require a probability of
+success, but merely means that the prospect of success is 'not unreal': Tanfern v Cameron-MacDonald [2001]
+1 WLR 1311, [21], CA. If the application passes that threshold test, however, the court is not obliged to give
+permission to appeal; instead it has a discretion to exercise.
+24. I must therefore consider, and will deal with, each ground of appeal in turn. The first ground asserts that the
+judge wrongly made an order in relation to Jennifer. This is incorrect. Jennifer was not a party to these proceedings,
+so that no possession order could have been made against her, and none was. This ground accordingly has no
+prospect of success.
+25. The second ground also asserts that an order has been made against Jennifer, and says the court failed to give
+her the right to engage in the litigation. The premise is wrong, as I have pointed out above. But in any event
+the respondents did not sue Jennifer for possession (or anything else) in the present claim. It is a matter for the
+claimants in a claim as to whom they wish to sue: see eg Dollfus Mieg v Bank of England [1951] Ch 33. This
+ground has no prospect of success, either.
+26. The third ground asserts that the order was contrary to Jennifer's right to a fair trial/hearing. Since she was
+never a party, and no order has been made against her, this is simply nonsense. It has no prospect of success.
+27. The fourth ground deals with the judge's decision on the question of surrender of the lease. It is in two parts.
+The first part is that on an objective view of the evidence the conditions for a surrender were not met, because
+the rent continue to be tendered and the landlord failed to take possession. In substance it is a complaint that the
+judge reached the wrong conclusion on the evidence. But a finding of fact (here, whether the evidence points
+unequivocally to the termination of the lease) is a matter for the appreciation of the judge in taking account of
+all the evidence tendered. An appellant court will not interfere unless it is satisfied that the finding of the court
+below was plainly wrong: McGraddie v McGraddie [2013] 1 WLR 2477, SC.
+28. Moreover, a judge is presumed to have taken all the evidence tendered into consideration even if he or she
+does not mention all of it in the decision: McGraddie v McGraddie [2013] 1 WLR 2477, [27], SC. And it makes
+no difference whether the evidence tendered was oral or written, or whether it involved an element of evaluation
+or appreciation: R(Z) v Hackney LBC [2020] 1 WLR 4327, [56], SC.
+29. In my judgment, there was evidence before the court below entitling the judge to conclude that the conduct
+of the parties pointed unequivocally to the termination of the lease. Whether another judge (including one in the
+appellate court) would reach the same conclusion is irrelevant. There is no prospect of success on this part of
+this ground.
+Page 239 of 380
+30. The second part of this ground asserts that the court was required to give Jennifer an opportunity to make
+representations to the court, but failed to do so. In substance, this repeats the first three grounds, which have
+already been dealt with. In circumstances where Jennifer was not a party, and no order was made against her,
+there could be no requirement that the court afford her an opportunity to make representations. This part of this
+ground is equally without any prospect of success.
+31. The fifth ground argues that no surrender could have taken place because there was no express agreement,
+no deed, and no surrender by operation of law. However, as I have already said, on the evidence the judge was
+entitled to and did reach the conclusion that the conduct of the parties pointed unequivocally to the termination
+of the lease, such that it would be inequitable for them to rely on the absence of a deed. In doing so, he applied
+the law as agreed by counsel for the parties. There is no prospect of a successful appeal on this ground.
+32. The sixth ground asserts that the judge failed to consider the doctrine of surrender by operation of law
+appropriately or at all. This duplicates the fifth ground, which has been dealt with above. In his skeleton argument
+the appellant seeks to make a number of further evidential points, as if he was entitled to a rerun of the trial. He is
+not. If these points were made to the judge below, then the judge had them in mind. If they were not made to the
+judge below then they cannot be taken into account now. Either way there is no prospect of success on this ground.
+33. The seventh ground complains that the judge took into account the subjective intentions of Jennifer, and says
+that these are “irrelevant”. I assume that the appellant takes the notion of irrelevancy from the quotation from
+Megarry and Wade's Law of Real Property, 9th edition [17-086], set out in paragraph 17 of the transcript of the
+judgment. This reads, in part:
+"Although the conduct of the parties must point unequivocally to the termination of the tenancy, their subjective
+intentions are irrelevant”.
+34. Having read the transcript of the judgment below, I am not at all sure that the judge did in fact take into
+account Jennifer's subjective intentions. But in any event I am satisfied that the appellant has misunderstood the
+quotation. The doctrine of surrender by operation of law is an aspect of the law of estoppel, which requires the
+court to focus on what a person's words or conduct would appear to convey to a reasonable person hearing or
+observing them, rather than on their subjective intentions, if they are different.
+35. As I have already said, after receiving a notice to quit, Jennifer had emailed the landlord's agents on 3 July
+2018 to say she would vacate the property and leave it at the end of the month. This, combined with the acts of
+removing her own and her late mother's possessions, of handing over the keys and signing the relevant form, was
+held by the judge to be such as would have conveyed to a reasonable person that she intended to terminate the
+lease. When the textbook says that her subjective intentions are irrelevant, all it means is that, even if she did not
+herself intend to terminate the lease, her objectively construed actions govern the effect of what she said and did.
+And the judge concluded as he did.
+36. The seventh ground also complains that the judge failed to analyse the parties' actions objectively and consider
+whether surrender should be implied from those acts, and that the judge was unable to carry this out without
+Jennifer being joined to the proceedings. But it is abundantly clear from the transcript of the judgment that the
+objective analysis is exactly what the judge carried out. The fact that Jennifer was not a party to the proceedings
+is irrelevant, because the respondents were not claiming, and have not obtained, any order against her.
+37. The eighth ground is that the judge failed to consider whether and how far the appellant was entitled to succeed
+to the lease. It appears from the written skeleton argument prepared by the appellant and dated 14 January 2020
+that he raised the question whether his exclusive possession of the property and payment of rents entitled him to
+succeed to the lease or created a separate tenancy.
+38. So far as I can see from the court files (both for the case below and for the appeal), and from the bundle of
+documents submitted by the appellant in support of his appeal, there is no evidence supporting a claim to his
+exclusive possession of the property and payment of any rent by him to the respondents. Indeed, his own defence
+in this claim dated 27 July 2019 (settled by counsel, instructed by solicitors, and supported by a statement of truth
+signed by the appellant) asserts that Jennifer is the tenant of the property and that the appellant also occupied it,
+but with her permission. In addition, it makes no claim that he paid any rent.
+39. So far as I can see from the transcript of the judgment, this further argument appears not to have been pressed
+by the appellant's counsel at the oral hearing, because it is not referred to at all in the judgment. This may have
+Page 240 of 380
+been because, as pointed out above, there seems to have been no evidence to support it. At all events, in my
+judgment there is no real prospect of this ground succeeding on appeal, at least so far as relates to the appellant.
+40. However, the skeleton argument refers to section 6A of the 1967 Act, concerning the rights of personal
+representatives of a deceased tenant to claim enfranchisement. The problem for the appellant is that he was not
+such a personal representative (even though at the hearing his counsel argued that he was), and the judge held
+that in serving the notice to enfranchise he was acting on his own behalf and not that of his mother. None of the
+grounds of appeal seeks to overturn this decision. But, even if any of them did, the judge also decided that there
+was a surrender of the lease by operation of law before any enfranchisement notice was served, and I have held
+that an appeal against that decision has no prospect of success.
+41. Lastly under this ground, the appellant argues that the tenancy created by the lease was protected by the Rent
+Act 1977, and that he was entitled to succeed to it under Schedule 1 paragraph 6 of that Act. In turn, he says
+that that engaged CPR rule 24.3, which prevents the court awarding summary judgment against the tenant of a
+protected tenancy holding over after the end of the tenancy.
+42. None of this appears to have been argued before the judge. It is not mentioned in the skeleton argument, and
+the judge does not deal with it. But, in relation to the succession question, the same problem arises for the appellant
+as I have already mentioned. The judge decided that there was a surrender of the lease by operation of law before
+any enfranchisement notice was served, and I have held that an appeal against that decision has no prospect of
+success. Hence it cannot matter whether there was a protected tenancy or not. The tenancy was surrendered, and
+no longer in existence at the date of the notice to enfranchise. Hence, there was nothing to succeed to.
+43. As for the argument based on CPR rule 24.3, that rule prevents summary judgment. It does not prevent the
+striking out of a statement of case (here the defence) on the basis that it cannot succeed. And once that is done
+(as it was here), the court is able to award judgment in default of defence. That is not summary judgment, which
+involves an appreciation of the merits (or, rather, lack of merits) of the party's case. Accordingly, this ground of
+appeal has no prospect of success either.
+44. The ninth ground of appeal is that the judge should not have concluded that the tenancy was not a "long lease"
+for the purposes of enfranchisement. The argument is that the the lease granted in 1995 followed an earlier lease
+granted on 15 May 1948 and was in the same terms. Hence, by virtue of section 1B of the 1967 Act, the proviso
+to section 3(1) dealing with leases terminable by notice after the death does not have the same excepting effect
+that it does for leases granted on or after 18 April 1980.
+45. The appellant submits that the judge was wrong to conclude that, because the earlier lease was not available
+to the court, it could not be shown what the terms of that these were, and that therefore it could not be shown that
+the 1948 lease was a “long lease” within the meaning of the 1967 Act, and therefore capable of enfranchisement.
+However, the burden of showing that the lease was capable of enfranchisement lay on the appellant, for the
+appellant put that forward as a reason for not striking out the defence. Since the appellant did not show that, the
+judge was entitled to conclude as he did.
+46. Even if that were wrong, however, and as I have already said, the judge decided that there was a surrender of
+the lease by operation of law before any enfranchisement notice was served, and I have held that an appeal against
+that decision has no prospect of success. Hence it cannot matter whether the lease was capable of enfranchisement
+or not. As a result, this ground of appeal cannot result in a reversal of the judge's decision on this point.
+47. I should also mention that, in separate proceedings in the High Court in Bristol, Penley and Ashcroft v Webster,
+B30BS071, there is an application pending to amend the order of HHJ McCahill QC dated 23 March 2015, by
+removing clause 3(c). This provision prohibits the appellant from making certain public statements in relation to
+his claimed rights in relation to a quite different property known as The Priory, Ash Priors, where he used to live,
+except in relation to certain listed legal proceedings (of which the present is not one).
+48. The appellant has just written to the court, by letter dated 8 January 2020 (but evidently meaning 2021), to
+say that
+"It is [his] opinion that full legal argument in [the present] proceedings F00YE161 also requires removal of clause
+3 (c) of HHJ McCahill's 23 March 2015 order, otherwise there cannot be a fair hearing.”
+49. I will deal with that application in due course; it is listed for hearing on 22 January 2021. In the context of
+the present matter I will simply say that I cannot see how full legal argument in the present case is inhibited by
+Page 241 of 380
+the prohibition in clause 3(c) of the order of 23 March 2015. The property the subject of that order is completely
+different from the property the subject of this.
+50. Moreover, as far as it goes, the appellant's argument in the present case appears to depend on the appellant
+and his mother Jennifer having no interest in the other property. In other words, far from asserting an interest in
+the other property, these proceedings assert none. Ground 2 appears to rest on the proposition that Jennifer “is not
+entitled to any equity or interest in Captain Webster's farm or residential properties” (ie the property the subject
+of the order of 23 March 2015. That is indeed what the other proceedings decide.
+51. Accordingly, none of the grounds advanced by the appellant has any, or any real, prospect of success. Turning
+to the other limb of the rule, and having read all the papers, in my judgment there is nothing here that suggests
+that there may be any other compelling reason for having an appeal in this matter. This appeal therefore does not
+pass either limb of the the threshold test set out in CPR rule 52.6.
+52. Accordingly I must dismiss the application for permission to appeal. I add only that, even if on the the material
+before me the appellant had somehow passed that threshold, as a matter of discretion I would not have thought it
+right to grant permission to appeal. On that material, any such appeal would appear to have very weak merits, and,
+in light of the appellant's many and fruitless attempts to claim an interest in other property, and his habit of taking
+every point, however unmeritorious, would not justify taking up a further share of limited judicial resources.
+53. There is one final point. This arises from CPR rule 52.4(3), (4). This provides that:
+"(3) Where in the appeal court a judge of the High Court, a Designated Civil Judge or a Specialist Circuit Judge
+refuses permission to appeal without an oral hearing and considers that the application is totally without merit,
+the judge may make an order that the person seeking permission may not request the decision to be reconsidered
+at an oral hearing.
+(4) For the purposes of paragraph (3), ‘Specialist Circuit Judge' means any Circuit Judge in the County Court
+nominated to hear cases in the Circuit Commercial, Chancery or Technology and Construction Court lists."
+54. I am a circuit judge sitting in the County Court, nominated to hear cases in the Circuit Commercial and
+Chancery lists. In dealing with this application for permission to appeal, I am of opinion that it has been totally
+without merit, in that it was doomed to fail from the outset. Accordingly, under rule 52.4(3) I may make an
+order that appellant may not request the decision to be reconsidered at an oral hearing. In my judgment, for the
+reasons already given, it is appropriate for me to do so here. The appellant therefore may not request an oral
+reconsideration of my decision, which is final.
+Dated 12 January 2021
+Page 242 of 380
+General Form of Judgment or Order
+In the County Court at
+Yeovil
+Claim Number
+Date
+F00YE161
+1 February 2021
+THE
+COUNTY
+MR BRUCE KERSTIN WEIR TRUSTEE OF J S NEAL DECEASED TRUST
+1st Claimant
+Ref SEW/DL/
+EP/90578/042
+MS LESLEY JOAN GASKELL TRUSTEE OF J S NEAL DECEASED TRUST 2nd Claimant
+PERSONS UNKNOWN
+Ref
+1st Defendant
+Ref
+RUPERT ST JOHN WEBSTER
+2nd Defendant
+Ref
+COURT
+Before His Honour Judge Paul Matthews sitting at the County Court at Bristol, Bristol Civil Justice Centre,
+Number 2, Redcliff Street, Bristol, BS1 6GR.
+Weir and Gaskell v Webster, Bristol Appeal no 10BS005C (original claim F00YE161)
+ORDER:
+UPON the appellant' application for permission to appeal by appellant's notice dated 5 February 2020 ("the
+Notice")
+AND UPON reading the Notice, the Grounds of Appeal and the skeleton argument (and attached documents)
+filed in support, and the transcript of the judgment in the court below
+IT IS ORDERED THAT:
+1. The application be refused, as totally without merit;
+2. The appellant may not request that the application be renewed at an oral hearing.
+REASONS:
+1. By appellant's notice dated 5 February 2020, the appellant Mr Webster seeks to appeal against the order of
+District Judge Walsh given in the County Court at Yeovil on 24 January 2020 that he give up possession of
+the property known as Bondip Farmhouse, Kingsdon, Somerton by 4 PM on 13 February 2020. There appear to
+have been issues with obtaining a transcript of the ex tempore judgment in the court below, which is why this
+application is only now being decided. The transcript runs to just over 12 A4 pages of typescript.
+2. The claim for possession was commenced by claim form issued on 11 June 2019 by the respondents, the
+registered proprietors of the fee simple estate in the property, in their capacity as trustees of the JS Neal Deceased
+Trust. The respondents applied by notice dated 26 September 2019 for an order striking out Mr Webster's defence
+The court office at the County Court at Yeovil, The Law Courts, Petters Way, Yeovil, Somerset, BA20 1SW. When corresponding with the court, please address forms
+or letters to the Court Manager and quote the claim number. Tel: 01935 382150 Fax: 0870 3240162. Check if you can issue your claim online. It will save you time
+and money. Go to www.moneyclaim.gov.uk to find out more.
+N24 General Form of Judgment or Order
+Produced Bages248Q3
+CJR065C
+Persons Unknown
+Bondip Farmhouse
+Kingsdon
+Somerton
+Somerset
+TA11 7LE
+Page 244 of 380
+and granting possession forthwith, on the basis that the defence disclosed no reasonable grounds for defending
+the claim.
+3. The order under appeal was made following a judgment given at the end of a second hearing of this application,
+lasting half a day. The first hearing was on 10 October 2019, but was adjourned to the second by the judge in
+order to allow the appellant time to adduce any evidence he wished in respect of the respondents' assertion that
+the lease had been surrendered on 31 July 2018. Both sides were represented by counsel, and the matter was fully
+argued, including full skeleton arguments.
+4. A number of basic facts are not disputed. On 6 March 1995 Prudence Neil granted a lease of the property at an
+annual rent of £5200 (subject to review) to Edward and Patricia Marrow for 35 years from 29 September 1994.
+The lease contained a provision that the landlord should be entitled to give one month's written notice to terminate
+the lease after the death of the survivor of Mr and Mrs Marrow.
+5. Mr Marrow died in 1997 and the lease accordingly vested in his widow Patricia by survivorship. She eventually
+suffered from Alzheimer's disease, and died on 25 December 2017. She had been cared for at the property for
+some years before her death by her daughter Jennifer St John Webster (the mother of the appellant, and since 2006
+a widow herself). For convenience, but without intending any disrespect, I shall refer to her hereafter as “Jennifer”.
+6. By her will dated 18 October 2006 the testatrix appointed her three daughters Jennifer, Miranda Maby and
+Priscilla Keyser as her executrices, and gave the residue of her estate (which would include the lease of the
+property) to her three daughters equally (but with a substitutionary gift in favour of the children of a predeceasing
+in child). It appears that Miranda predeceased the testatrix. At that time, no grant of probate had so far been taken
+out. I do not know if the position has changed since, but for present purposes it does not matter.
+7. On 1 April 2018, the respondents' solicitors, acting on their behalf, gave to Jennifer and the appellant a written
+notice to quit and deliver up possession of the property “on the day on which a complete period of your tenancy
+expires next after the end of four weeks from the service of this notice”. Whether that form of notice (suitable for
+a periodic tenancy) was apt to determine the lease granted in 1995 is not the issue which arises here, but it is part
+of the context in which further events occurred, as set out below.
+8. On 3 July 2018 Jennifer sent an email to the respondents' agents telling them that she would be moving out of
+the property at the end of July, to go and live permanently with her daughter in Bath, and that her sister Priscilla
+would be coming down from Scotland to help her move out. The email also pointed out that the appellant (who
+stayed there from time to time) had been told to move his things out of the property by the same date. On 31 July
+2018 Jennifer handed over the keys to the property to the respondents' agents and signed their final inspection
+form confirming that she had given them all the keys to the property.
+9. The appellant however declined to vacate the property. On 10 August 2018, the respondents issued a claim for
+possession against “persons unknown,” using forms N5 (claim form) and N121 (particulars of claim), under claim
+number E00YE247. The appellant made a witness statement dated 19 August 2018, as he put it, to “supplement
+and explain the Defence Form and a counter claim”.
+10. On 29 August 2018 the appellant served notice on the respondents claiming to enfranchise the property under
+the Leasehold Reform Act 1967. That notice stated that he was the tenant. However, in his defence in the present
+proceedings, the appellant claimed to have served the notice “acting on behalf of and with the authority of the
+executors".
+11. By 27 December 2018, the possession claim had been amended to show the appellant as first defendant and
+Jennifer as second defendant. On that date, however, the claim was “adjourned generally with liberty to either
+party to apply to restore” by Deputy District Judge Collins. The order recited the parties' agreement to adjourn
+"to allow the Defendants the opportunity to investigate and apply for the enfranchisement of the Property”.
+12. However, the order went on to provide that, if no application to restore had been made by 6 June 2019, the
+claim should stand automatically dismissed without further order. Since no application to restore was made by
+that date, the claim was indeed dismissed.
+13. In the interim, on 23 April 2019, further notices to quit were sent by post behalf of the respondents. These
+were expressly stated to be given pursuant to the provision in the lease for giving notice after the death of the
+survivor of the original tenants, and to expire on 1 June 2019.
+14. A second claim for possession was issued a few days later, on 11 June 2019, under number F00YE161. This
+is the present claim, out of which this appeal arises. This claim also was originally brought against “persons
+Page 245 of 380
+unknown,” and again using forms N5 and N121. The appellant was added as a second defendant to the claim by
+order of District Judge Walsh on 23 July 2019. Jennifer has never been a party to these proceedings, and the order
+under appeal does not mention her, expressly or impliedly.
+15. The judge below considered the evidence put forward on both sides in relation to the question whether
+Jennifer had surrendered the lease to the respondents by removing her own and the testatrix's possessions from the
+property, handing back the keys to the respondents' agents, signing the form and informing them of her intention
+to live elsewhere.
+16. Since he was dealing with an application to strike out the defence on the basis that it had no reasonable prospect
+or no reasonable grounds for succeeding, the judge treated the case as if the appellant would succeed in proving
+all the facts he alleged, namely that the named executrix in occupation ostensibly delivered up the keys to the
+landlord's agents, communicating that she was moving out and hoping that her son would do the same, but also
+that he probably retained a set of keys and possessions at the property.
+17. On this basis the judge held that, on an objective construction of Jennifer's acts, she had unequivocally
+intended to end the lease and had indeed surrendered it. The fact that the appellant (who was not a tenant) had
+left possessions at the property and retained keys to it did not prevent a surrender from taking place. The judge
+held that that was sufficient to dispose of the application in favour of the respondents.
+18. But the respondents had a second point, which was that, even if the lease had not been surrendered, no valid
+notice to enfranchise had been served by a party with standing to do so. The appellant disagreed, and relied on
+two documents, both postdating the notice served by the appellant, to demonstrate that he had the authority of his
+mother as executrix to serve the notice to enfranchise on behalf of his grandmother's estate. The judge held that
+neither conferred authority on the appellant to serve the notice in August 2018, and that on the true construction
+of the documents the claim to enfranchise was being made by the appellant personally, and not on behalf of his
+mother.
+19. However, there was a further point. The appellant argued through counsel that the proceedings were an abuse
+of process. He said that the enfranchisement claim was effectively adjudicated on by the order of Deputy District
+Judge Collins in the previous proceedings between the parties under claim number E00YE247. The judge below
+held that it was not so, and that the deputy district judge had not been adjudicating upon the claim to enfranchise.
+20. In addition, the judge also held that the lease in question was not capable of enfranchisement by anyone,
+because it was not a “long lease" as defined by the Act. Section 3(1) contained an exception for leases for
+a term exceeding 21 years but terminable by notice after the death (as in this case), where certain conditions
+were satisfied. The judge held that those conditions were satisfied, and accordingly the lease was not capable
+of enfranchisement. Accordingly, the judge held that the defence should be struck out and judgment given for
+possession of the property.
+21. The appellant advances nine grounds of appeal, signed by himself, rather than by his counsel. I infer from this
+that that he drafted them personally. These are as follows.
+"1. The learned judge erred in making an order in relation to Jennifer St John Webster who was not joined as a
+party to the proceedings notwithstanding the assertion that she had surrendered the tenancy;
+2. The court erred in failing to give Jennifer St John Webster the right to engage in the litigation given that an
+adverse order has now been made against her;
+3. In all of the circumstances the order of 16 January 2020 was contrary to Jennifer St John's [sic] right to a fair
+trial/hearing.
+4. The learned judge was wrong to adjudicate on the question of surrender of the lease as follows.
+4.1. The question had to be considered objectively by the learned judge;
+4.2. The issue required the learned judge to give Jennifer St John Webster an opportunity to make representations
+to the court but the learned judge failed to do so;
+5. The learned judge failed to take into account that the purported surrender did not concern any agreement
+between the parties, that there was no express agreement, in which case it must be by deed, and could not have
+taken place by operation of law.
+6. The learned judge failed to consider the doctrine of surrender by operation of law appropriately or at all in
+that notwithstanding that there must be an act on the tenants part which is inconsistent with continuance of the
+Page 246 of 380
+tenancy and on acceptance by the landlord that the tenancy has come to an end, there was no act(s) of both tenant
+and landlord that could have been said to have been unequivocal.
+7. The learned judge in any event took into account the intentions of Jennifer St John Webster, which is an
+irrelevant factor. The learned judge failed to analyse parties intentions objectively and consider whether a
+surrender should be implied from those acts. Further it is submitted that without Jennifer St John Webster being
+joined to the proceedings this consideration could not have taken place by the learned judge.
+8. The learned judge failed to consider appropriately or at all the extent to which or effect of whether Rupert
+St John Webster was entitled to succeed to the tenancy. Accordingly, the learned judge failed to consider
+appropriately or at all whether the Second Defendant Appellant was entitled to apply to enfranchise the tenancy
+in the circumstances of him having served a notice within two years of the death of his grandmother.
+9. The learned [sic] was wrong to conclude that the tenancy was not a long lease as follows.
+9.1. The claimant/respondent failed to produce the original lease or any copy thereof or any evidence in relation
+to the terms of that lease. The learned judge was wrong to construe the lease in the absence of any evidence;
+9.2. In any event the learned judge was wrong in concluding that this was not a long lease because the original
+lease commenced on 15 May 1948 and therefore as defined is a lease capable of enfranchisement."
+22. The appellant has supported his grounds of appeal by means of a detailed skeleton argument, dated 1 March
+2020, running to 11 typed A4 pages, which I have read. However, the appellant needs permission to appeal in order
+to take these grounds of appeal forward. The judge himself did not give permission to appeal. There is no mention
+of a refusal in his order, so perhaps he was not asked. At all events, the appellant seeks such permission from me.
+23. Under the Civil Procedure Rules, rule 52.6, the court (whether the lower or the appellate) may not grant
+permission for a first appeal unless either there is a real prospect of a successful appeal or there is some other
+compelling reason why an appeal should be heard. The phrase 'real prospect' does not require a probability of
+success, but merely means that the prospect of success is 'not unreal': Tanfern v Cameron-MacDonald [2001]
+1 WLR 1311, [21], CA. If the application passes that threshold test, however, the court is not obliged to give
+permission to appeal; instead it has a discretion to exercise.
+24. I must therefore consider, and will deal with, each ground of appeal in turn. The first ground asserts that the
+judge wrongly made an order in relation to Jennifer. This is incorrect. Jennifer was not a party to these proceedings,
+so that no possession order could have been made against her, and none was. This ground accordingly has no
+prospect of success.
+25. The second ground also asserts that an order has been made against Jennifer, and says the court failed to give
+her the right to engage in the litigation. The premise is wrong, as I have pointed out above. But in any event
+the respondents did not sue Jennifer for possession (or anything else) in the present claim. It is a matter for the
+claimants in a claim as to whom they wish to sue: see eg Dollfus Mieg v Bank of England [1951] Ch 33. This
+ground has no prospect of success, either.
+26. The third ground asserts that the order was contrary to Jennifer's right to a fair trial/hearing. Since she was
+never a party, and no order has been made against her, this is simply nonsense. It has no prospect of success.
+27. The fourth ground deals with the judge's decision on the question of surrender of the lease. It is in two parts.
+The first part is that on an objective view of the evidence the conditions for a surrender were not met, because
+the rent continue to be tendered and the landlord failed to take possession. In substance it is a complaint that the
+judge reached the wrong conclusion on the evidence. But a finding of fact (here, whether the evidence points
+unequivocally to the termination of the lease) is a matter for the appreciation of the judge in taking account of
+all the evidence tendered. An appellant court will not interfere unless it is satisfied that the finding of the court
+below was plainly wrong: McGraddie v McGraddie [2013] 1 WLR 2477, SC.
+28. Moreover, a judge is presumed to have taken all the evidence tendered into consideration even if he or she
+does not mention all of it in the decision: McGraddie v McGraddie [2013] 1 WLR 2477, [27], SC. And it makes
+no difference whether the evidence tendered was oral or written, or whether it involved an element of evaluation
+or appreciation: R(Z) v Hackney LBC [2020] 1 WLR 4327, [56], SC.
+29. In my judgment, there was evidence before the court below entitling the judge to conclude that the conduct
+of the parties pointed unequivocally to the termination of the lease. Whether another judge (including one in the
+appellate court) would reach the same conclusion is irrelevant. There is no prospect of success on this part of
+this ground.
+Page 247 of 380
+30. The second part of this ground asserts that the court was required to give Jennifer an opportunity to make
+representations to the court, but failed to do so. In substance, this repeats the first three grounds, which have
+already been dealt with. In circumstances where Jennifer was not a party, and no order was made against her,
+there could be no requirement that the court afford her an opportunity to make representations. This part of this
+ground is equally without any prospect of success.
+31. The fifth ground argues that no surrender could have taken place because there was no express agreement,
+no deed, and no surrender by operation of law. However, as I have already said, on the evidence the judge was
+entitled to and did reach the conclusion that the conduct of the parties pointed unequivocally to the termination
+of the lease, such that it would be inequitable for them to rely on the absence of a deed. In doing so, he applied
+the law as agreed by counsel for the parties. There is no prospect of a successful appeal on this ground.
+32. The sixth ground asserts that the judge failed to consider the doctrine of surrender by operation of law
+appropriately or at all. This duplicates the fifth ground, which has been dealt with above. In his skeleton argument
+the appellant seeks to make a number of further evidential points, as if he was entitled to a rerun of the trial. He is
+not. If these points were made to the judge below, then the judge had them in mind. If they were not made to the
+judge below then they cannot be taken into account now. Either way there is no prospect of success on this ground.
+33. The seventh ground complains that the judge took into account the subjective intentions of Jennifer, and says
+that these are “irrelevant”. I assume that the appellant takes the notion of irrelevancy from the quotation from
+Megarry and Wade's Law of Real Property, 9th edition [17-086], set out in paragraph 17 of the transcript of the
+judgment. This reads, in part:
+"Although the conduct of the parties must point unequivocally to the termination of the tenancy, their subjective
+intentions are irrelevant”.
+34. Having read the transcript of the judgment below, I am not at all sure that the judge did in fact take into
+account Jennifer's subjective intentions. But in any event I am satisfied that the appellant has misunderstood the
+quotation. The doctrine of surrender by operation of law is an aspect of the law of estoppel, which requires the
+court to focus on what a person's words or conduct would appear to convey to a reasonable person hearing or
+observing them, rather than on their subjective intentions, if they are different.
+35. As I have already said, after receiving a notice to quit, Jennifer had emailed the landlord's agents on 3 July
+2018 to say she would vacate the property and leave it at the end of the month. This, combined with the acts of
+removing her own and her late mother's possessions, of handing over the keys and signing the relevant form, was
+held by the judge to be such as would have conveyed to a reasonable person that she intended to terminate the
+lease. When the textbook says that her subjective intentions are irrelevant, all it means is that, even if she did not
+herself intend to terminate the lease, her objectively construed actions govern the effect of what she said and did.
+And the judge concluded as he did.
+36. The seventh ground also complains that the judge failed to analyse the parties' actions objectively and consider
+whether surrender should be implied from those acts, and that the judge was unable to carry this out without
+Jennifer being joined to the proceedings. But it is abundantly clear from the transcript of the judgment that the
+objective analysis is exactly what the judge carried out. The fact that Jennifer was not a party to the proceedings
+is irrelevant, because the respondents were not claiming, and have not obtained, any order against her.
+37. The eighth ground is that the judge failed to consider whether and how far the appellant was entitled to succeed
+to the lease. It appears from the written skeleton argument prepared by the appellant and dated 14 January 2020
+that he raised the question whether his exclusive possession of the property and payment of rents entitled him to
+succeed to the lease or created a separate tenancy.
+38. So far as I can see from the court files (both for the case below and for the appeal), and from the bundle of
+documents submitted by the appellant in support of his appeal, there is no evidence supporting a claim to his
+exclusive possession of the property and payment of any rent by him to the respondents. Indeed, his own defence
+in this claim dated 27 July 2019 (settled by counsel, instructed by solicitors, and supported by a statement of truth
+signed by the appellant) asserts that Jennifer is the tenant of the property and that the appellant also occupied it,
+but with her permission. In addition, it makes no claim that he paid any rent.
+39. So far as I can see from the transcript of the judgment, this further argument appears not to have been pressed
+by the appellant's counsel at the oral hearing, because it is not referred to at all in the judgment. This may have
+Page 248 of 380
+been because, as pointed out above, there seems to have been no evidence to support it. At all events, in my
+judgment there is no real prospect of this ground succeeding on appeal, at least so far as relates to the appellant.
+40. However, the skeleton argument refers to section 6A of the 1967 Act, concerning the rights of personal
+representatives of a deceased tenant to claim enfranchisement. The problem for the appellant is that he was not
+such a personal representative (even though at the hearing his counsel argued that he was), and the judge held
+that in serving the notice to enfranchise he was acting on his own behalf and not that of his mother. None of the
+grounds of appeal seeks to overturn this decision. But, even if any of them did, the judge also decided that there
+was a surrender of the lease by operation of law before any enfranchisement notice was served, and I have held
+that an appeal against that decision has no prospect of success.
+41. Lastly under this ground, the appellant argues that the tenancy created by the lease was protected by the Rent
+Act 1977, and that he was entitled to succeed to it under Schedule 1 paragraph 6 of that Act. In turn, he says
+that that engaged CPR rule 24.3, which prevents the court awarding summary judgment against the tenant of a
+protected tenancy holding over after the end of the tenancy.
+42. None of this appears to have been argued before the judge. It is not mentioned in the skeleton argument, and
+the judge does not deal with it. But, in relation to the succession question, the same problem arises for the appellant
+as I have already mentioned. The judge decided that there was a surrender of the lease by operation of law before
+any enfranchisement notice was served, and I have held that an appeal against that decision has no prospect of
+success. Hence it cannot matter whether there was a protected tenancy or not. The tenancy was surrendered, and
+no longer in existence at the date of the notice to enfranchise. Hence, there was nothing to succeed to.
+43. As for the argument based on CPR rule 24.3, that rule prevents summary judgment. It does not prevent the
+striking out of a statement of case (here the defence) on the basis that it cannot succeed. And once that is done
+(as it was here), the court is able to award judgment in default of defence. That is not summary judgment, which
+involves an appreciation of the merits (or, rather, lack of merits) of the party's case. Accordingly, this ground of
+appeal has no prospect of success either.
+44. The ninth ground of appeal is that the judge should not have concluded that the tenancy was not a "long lease"
+for the purposes of enfranchisement. The argument is that the the lease granted in 1995 followed an earlier lease
+granted on 15 May 1948 and was in the same terms. Hence, by virtue of section 1B of the 1967 Act, the proviso
+to section 3(1) dealing with leases terminable by notice after the death does not have the same excepting effect
+that it does for leases granted on or after 18 April 1980.
+45. The appellant submits that the judge was wrong to conclude that, because the earlier lease was not available
+to the court, it could not be shown what the terms of that these were, and that therefore it could not be shown that
+the 1948 lease was a “long lease” within the meaning of the 1967 Act, and therefore capable of enfranchisement.
+However, the burden of showing that the lease was capable of enfranchisement lay on the appellant, for the
+appellant put that forward as a reason for not striking out the defence. Since the appellant did not show that, the
+judge was entitled to conclude as he did.
+46. Even if that were wrong, however, and as I have already said, the judge decided that there was a surrender of
+the lease by operation of law before any enfranchisement notice was served, and I have held that an appeal against
+that decision has no prospect of success. Hence it cannot matter whether the lease was capable of enfranchisement
+or not. As a result, this ground of appeal cannot result in a reversal of the judge's decision on this point.
+47. I should also mention that, in separate proceedings in the High Court in Bristol, Penley and Ashcroft v Webster,
+B30BS071, there is an application pending to amend the order of HHJ McCahill QC dated 23 March 2015, by
+removing clause 3(c). This provision prohibits the appellant from making certain public statements in relation to
+his claimed rights in relation to a quite different property known as The Priory, Ash Priors, where he used to live,
+except in relation to certain listed legal proceedings (of which the present is not one).
+48. The appellant has just written to the court, by letter dated 8 January 2020 (but evidently meaning 2021), to
+say that
+"It is [his] opinion that full legal argument in [the present] proceedings F00YE161 also requires removal of clause
+3 (c) of HHJ McCahill's 23 March 2015 order, otherwise there cannot be a fair hearing.”
+49. I will deal with that application in due course; it is listed for hearing on 22 January 2021. In the context of
+the present matter I will simply say that I cannot see how full legal argument in the present case is inhibited by
+Page 249 of 380
+the prohibition in clause 3(c) of the order of 23 March 2015. The property the subject of that order is completely
+different from the property the subject of this.
+50. Moreover, as far as it goes, the appellant's argument in the present case appears to depend on the appellant
+and his mother Jennifer having no interest in the other property. In other words, far from asserting an interest in
+the other property, these proceedings assert none. Ground 2 appears to rest on the proposition that Jennifer “is not
+entitled to any equity or interest in Captain Webster's farm or residential properties” (ie the property the subject
+of the order of 23 March 2015. That is indeed what the other proceedings decide.
+51. Accordingly, none of the grounds advanced by the appellant has any, or any real, prospect of success. Turning
+to the other limb of the rule, and having read all the papers, in my judgment there is nothing here that suggests
+that there may be any other compelling reason for having an appeal in this matter. This appeal therefore does not
+pass either limb of the the threshold test set out in CPR rule 52.6.
+52. Accordingly I must dismiss the application for permission to appeal. I add only that, even if on the the material
+before me the appellant had somehow passed that threshold, as a matter of discretion I would not have thought it
+right to grant permission to appeal. On that material, any such appeal would appear to have very weak merits, and,
+in light of the appellant's many and fruitless attempts to claim an interest in other property, and his habit of taking
+every point, however unmeritorious, would not justify taking up a further share of limited judicial resources.
+53. There is one final point. This arises from CPR rule 52.4(3), (4). This provides that:
+"(3) Where in the appeal court a judge of the High Court, a Designated Civil Judge or a Specialist Circuit Judge
+refuses permission to appeal without an oral hearing and considers that the application is totally without merit,
+the judge may make an order that the person seeking permission may not request the decision to be reconsidered
+at an oral hearing.
+(4) For the purposes of paragraph (3), ‘Specialist Circuit Judge' means any Circuit Judge in the County Court
+nominated to hear cases in the Circuit Commercial, Chancery or Technology and Construction Court lists."
+54. I am a circuit judge sitting in the County Court, nominated to hear cases in the Circuit Commercial and
+Chancery lists. In dealing with this application for permission to appeal, I am of opinion that it has been totally
+without merit, in that it was doomed to fail from the outset. Accordingly, under rule 52.4(3) I may make an
+order that appellant may not request the decision to be reconsidered at an oral hearing. In my judgment, for the
+reasons already given, it is appropriate for me to do so here. The appellant therefore may not request an oral
+reconsideration of my decision, which is final.
+Dated 12 January 2021
+Page 250 of 380
+General Form of Judgment or Order
+In the County Court at
+Yeovil
+Claim Number
+Date
+F00YE161
+1 February 2021
+THE
+COUNTY
+MR BRUCE KERSTIN WEIR TRUSTEE OF J S NEAL DECEASED TRUST
+1st Claimant
+Ref SEW/DL/
+EP/90578/042
+MS LESLEY JOAN GASKELL TRUSTEE OF J S NEAL DECEASED TRUST 2nd Claimant
+PERSONS UNKNOWN
+Ref
+1st Defendant
+Ref
+RUPERT ST JOHN WEBSTER
+2nd Defendant
+Ref
+COURT
+Before His Honour Judge Paul Matthews sitting at the County Court at Bristol, Bristol Civil Justice Centre,
+Number 2, Redcliff Street, Bristol, BS1 6GR.
+Weir and Gaskell v Webster, Bristol Appeal no 10BS005C (original claim F00YE161)
+ORDER:
+UPON the appellant' application for permission to appeal by appellant's notice dated 5 February 2020 ("the
+Notice")
+AND UPON reading the Notice, the Grounds of Appeal and the skeleton argument (and attached documents)
+filed in support, and the transcript of the judgment in the court below
+IT IS ORDERED THAT:
+1. The application be refused, as totally without merit;
+2. The appellant may not request that the application be renewed at an oral hearing.
+REASONS:
+1. By appellant's notice dated 5 February 2020, the appellant Mr Webster seeks to appeal against the order of
+District Judge Walsh given in the County Court at Yeovil on 24 January 2020 that he give up possession of
+the property known as Bondip Farmhouse, Kingsdon, Somerton by 4 PM on 13 February 2020. There appear to
+have been issues with obtaining a transcript of the ex tempore judgment in the court below, which is why this
+application is only now being decided. The transcript runs to just over 12 A4 pages of typescript.
+2. The claim for possession was commenced by claim form issued on 11 June 2019 by the respondents, the
+registered proprietors of the fee simple estate in the property, in their capacity as trustees of the JS Neal Deceased
+Trust. The respondents applied by notice dated 26 September 2019 for an order striking out Mr Webster's defence
+The court office at the County Court at Yeovil, The Law Courts, Petters Way, Yeovil, Somerset, BA20 1SW. When corresponding with the court, please address forms
+or letters to the Court Manager and quote the claim number. Tel: 01935 382150 Fax: 0870 3240162. Check if you can issue your claim online. It will save you time
+and money. Go to www.moneyclaim.gov.uk to find out more.
+N24 General Form of Judgment or Order
+Produced Bages25sma
+CJR065C
+Rupert St John Webster
+Page 252 of 380

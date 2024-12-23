@@ -1,0 +1,571 @@
+IN THE HIGH COURT OF JUSTICE
+CHANCERY DIVISION
+Neutral citation no: [2013] EWHC 1316 (Ch)
+BETWEEN
+Claim Number: HC 09 C 01570
+HIGH
+ESTY'S
+DISTRICT
+HER
+COURT
+REGISTRY
+22 MAY 2013
+BIRMINGHAM
+Before: HHJ PURLE QC
+The Rolls Building
+OF
+7 Rolls Buildings
+Fetter Lane
+London EC4A 1NL
+JUSTICE
+22nd May 2013
+RUPERT JOLYON ST. JOHN WEBSTER
+- and -
+(1) ALISON VIRGINIA ASHCROFT
+(2) JOHN FRANCIS PENLEY
+(3) JENNIFER ST. JOHN WEBSTER
+(4) IAN RORY ST. JOHN WEBSTER
+(5) ANTONIA MARY SLOANE
+Claimant
+Defendants
+Edward Hewitt instructed by Beviss & Beckingsale appeared for the Claimant
+Leslie Blohm QC instructed by Clarke Willmott appeared for the First and Second
+Defendants
+The Third, Fourth and Fifth Defendants appeared in person
+I DIRECT THAT PURSUANT TO CPR PD 39A PARA 6.1 NO OFFICIAL
+SHORTHAND NOTE SHALL BE TAKEN OF THIS JUDGMENT AND THAT
+COPIES OF THIS VERSION AS HANDED DOWN MAY BE TREATED AS
+AUTHENTIC.
+HHJ PURLE QC:
+Cale
+1
+Page 16 of 380
+APPROVED JUDGMENT
+JUDGE PURLE QC:
+1. This is a family dispute. In the course of the trial, family members were known by
+their given names, and I shall, without intending any disrespect, refer to them in the
+same way in this judgment.
+2. Valentine St. John Webster ("Valentine") died on 16th September 2006 of motor
+neurone disease aged 64. He was the elder son of Antony and Valerie. He had one
+brother, Rory (the Fourth Defendant) and two sisters, Virginia (the First Defendant)
+and Antonia (the Fifth Defendant). He was also the father of Rupert (the Claimant),
+and the husband of Jennifer (the Third Defendant). Valentine and Jennifer also had
+two daughters, Letitia and Arabella.
+3. Rupert, as administrator of Valentine's estate, seeks to establish for the estate
+ownership by proprietary estoppel of property in Ash Priors, Taunton, Somerset
+known as the Priory Farmhouse ("the farmhouse"), together with two adjoining fields
+("the two fields") marked 8333 and 8622 on a coloured plan adduced in evidence.
+The farmhouse and two fields once formed part of a larger estate known as Priory
+Farm. This was originally purchased by Antony in 1950, and then consisted of
+approximately 44 acres of land and eight cottages.
+4. Valentine served in the Royal Navy from 1959 until he retired in July 1989. He
+married Jennifer in 1970. Rupert was born in 1972.
+5. In 1965, Valerie purchased Farmhouse Cottage and Cottage-on-the-Common (hitherto
+part of the estate) from Antony. Rory subsequently bought a 50% interest from
+Valerie in 1978.
+6. In 1971, Valerie purchased a nearby property known as Monks Walk. She sold it
+(though retaining some land) to Valentine in December 1972. From no later than the
+early 1980s, Valentine and Jennifer used part of it as a weekend retreat (living mainly
+in Bath) until moving there in around 1985. Valerie gave the retained land to
+Valentine in November 1990.
+7. On 3rd November 1987, Antony conveyed other estate cottages to Valerie (Lavender
+Cottage, Honeysuckle Cottage and Priory Cottage).
+8. In 1989, following Valentine's retirement from the Navy, he and Jennifer started a
+business called Taunton Trees through Taunton Trees Limited. This was never
+notably successful.
+9. On 26th January 1990, Valentine's company, Valentine Webster Limited bought from
+Antony for £100,000 part of the estate known as Priory Barn. £50,000 of that was
+raised on a first mortgage; the other £50,000 was left outstanding on a second
+mortgage. There were other mortgages too, both on the Barn and Monks Walk, and
+the financial burden proved too great. Valentine had the idea that development of the
+Barn would make untold amounts of money. The reality was that the development
+proved very problematical and expensive, and he was saddled with what proved to be
+2
+Page 17 of 380
+unmanageable debt. A possession order was made in respect of Monks Walk in
+favour of the mortgagee in early 1992. The mortgagee subsequently took possession
+of and sold Monks Walk, and Valentine moved into the Barn with Jennifer.
+10. On 6th April 1992, Antony made a will (which was his last will) creating (if Valerie
+survived him, which she did) a nil-rate band discretionary trust for the benefit of
+Valerie and his issue still alive at his death or born within 80 years, leaving a legacy
+of £5,000 to Virginia and leaving the residue of his estate to (in the events which
+happened) Valerie. Valerie also made a will in mirror-image terms.
+11. On the same date, Antony transferred the farmhouse and the two fields to himself and
+Valerie as tenants in common in equal shares. Since 6th April 1992, the two fields
+(8333 and 8622) have been treated as annexed to the farmhouse.
+12. The remaining land shown on the coloured plan originally forming part of Priory
+Farm was referred to throughout the trial as "the Agricultural Land". Originally, the
+pleaded claim extended to the Agricultural Land as well, but this wider claim was
+abandoned. In addition, there were a number of cottages on the estate.
+13. On 25th April 1992, Antony gave the Agricultural Land and various cottages
+(including some previously given) to Valerie.
+14. On 27th April 1992, Valerie created a discretionary trust of the Agricultural Land,
+Priory Cottages, Honeysuckle Cottage, Lavender Cottage (since sold) and her 50%
+interest in Cottage-on-the-Common and Farmhouse Cottage. Virginia, Rory and
+Antonia were appointed trustees. Those three and Valentine became discretionary
+beneficiaries.
+15. In December 1992, Valentine became bankrupt, as (much later) did Antonia (in May
+1995) and Simon Sloane, her husband (in August 1995), now deceased. Later still, in
+July 2005, Rory and his wife, Inga, were declared bankrupt.
+16. Priory Barn was repossessed and sold by the mortgagee in October 1995. Valentine
+and Jennifer had been living there. Following the repossession, they moved into the
+farmhouse. Antony and Valerie both lived there at the time, as did Antonia and Simon
+Sloane.
+17. Antony died on 10th February 1996 aged 87. His will trust came into effect
+comprising a 50% interest in the farmhouse and two fields. Probate of his will was
+granted to Virginia and the Second Defendant, Mr Penley on 13th May 1996. Mr
+Penley was a solicitor. Either he or his father had acted (though not exclusively) for
+various family members over many years.
+18. As already mentioned, Valentine died on 16th September 2006. Valerie died on 21st
+August 2007.
+19. The estoppel claim which Rupert now asserts for Valentine's estate was not made
+during Valentine's or Valerie's lifetime, and their live evidence is not available. This
+is therefore a case in which, unusually, neither the person claiming the benefit of the
+estoppel nor the persons said to be estopped is around to make or defend the claim.
+3
+Page 18 of 380
+20.
+Moreover, whilst the claim is advanced by Rupert for the estate, the sole beneficiary
+is Jennifer, who has chosen not to bring these proceedings herself, but instead
+supported the appointment of Rupert as personal representative in her place: see, for
+the relevant history, the decision of Nicholas Strauss QC at an earlier stage of this
+case reported at [2012] 1 WLR 1309, in particular at [17].
+Rupert also challenges the validity of the last will of his grandmother, Valerie, dated
+24th May 2006 ("the 2006 Will") on the grounds of want of knowledge and approval.
+There is also a pleaded case of undue influence, which was abandoned before the trial
+began.
+21. In consequence of the alleged invalidity of the 2006 Will, Rupert contends that an
+earlier will of 16th November 2000, together with a codicil of 30th May 2002 ("the
+earlier will and codicil") should be admitted to probate. No-one suggests that the
+earlier will and codicil were invalid. If, however, the 2006 Will is valid, the earlier
+will and codicil were revoked. The earlier will and codicil left any interest she had in
+The Priory (i.e. her half share in the farmhouse and two fields) to Valentine. She then
+left other cottages to her other children, though she appears to have overlooked that
+these were already within the 1992 Trust mentioned in paragraph 14 above.
+PROPRIETARY ESTOPPEL
+22. There was no serious dispute as to the principles to be applied. The estoppel in this
+case is said to arise from various representations or promises made over the years,
+apparently starting in the 70s, by Antony and Valerie to the effect that Ash Priors
+would come to Valentine. It is also said that Valentine relied detrimentally upon the
+representations or promises.
+23. I say straightaway that I reject this claim. In my judgment, no representation or
+promise to the effect suggested by Rupert was ever made. Nor, if I am wrong about
+that, was there detrimental reliance.
+24. One immediate difficulty facing this claim is that the representations, as asserted,
+relate not only to the farmhouse but to the Agricultural land as well. Though this
+wider claim has been abandoned, the evidence (such as it was) was assembled on the
+broader basis. Given that any representation, to found an estoppel, must be
+sufficiently clear, or "clear enough" (as it has been put) this is an unpromising starting
+point.
+25. Jennifer's attitude to this litigation was made plain by her in the witness box - she
+hates it and wishes the claim had never been brought. She made two somewhat
+contradictory witness statements, one appearing to support Rupert's claim, the other
+not. I have no doubt that she was trying to achieve the impossible of keeping all her
+children happy, and I have to approach those written statements with appropriate
+circumspection. In fact, her oral evidence, as given, was measured, sincere, and
+dignified. It did not however do much to advance Rupert's case. This is perhaps
+unsurprising, as the relevant events are all distant in time. I have derived much
+greater assistance from contemporaneous documents.
+4
+Page 19 of 380
+26. I also found the evidence of Mr Penley very helpful. He was a classic example of a
+trusted family solicitor, who was sensitive to the dynamics (actual and potential)
+within the family whenever ideas were raised with him. He gave evidence cautiously
+and carefully, assisted by the contemporaneous record.
+27. Rupert's evidence, extensive though it was, was not particularly helpful, so far as it
+was based on his own recollections or recollections of what he had been told by
+Valentine. Rupert appears to have developed an obsession with this case, and the
+family history underpinning it, which is all-consuming. I did feel that, though he was
+plainly honest, this could affect his judgment.
+28. Given the passage of time, the evidence of other family members and acquaintances
+was not especially helpful on the estoppel claim. What did emerge very clearly from
+the evidence, however, was the fact that Valentine held the strong conviction that as
+the eldest son he was entitled at least morally to control and (ultimately) inherit the
+Priory as his birthright. That conviction was not, however, shared by other family
+members, and Valentine knew this. During the course of the tax planning exercise
+undertaken in 1992, Valentine's conviction was expressly rejected by Valerie at a
+family meeting in the presence of solicitors (fully minuted) on 25th February 1992.
+Notably, Valentine did not rely upon any representation or promise at this stage, only
+a conviction of his prior entitlement as the first born son.
+29. That said, there is little doubt that the hope was expressed from time to time, in
+different ways, especially by Valerie, that Valentine might inherit or live at Ash
+Priors, or the farmhouse. But there was nothing amounting to a commitment to
+ensure that any part of Ash Priors, or the farmhouse, or the two fields, would become
+his. Moreover, after the 1992 tax planning exercise, Mr Penley was very much
+against the taking of any step that might imperil the tax efficiency of the structure he
+had helped to put in place, and his advice was heeded.
+30. The 1992 tax planning exercise resulted in the farmhouse and the two fields being
+separated from the rest and (more significantly) being split between Antony and
+Valerie as tenants in common, rather than being settled upon or left to Valentine.
+Valentine's interest was, prospectively, as one of the discretionary beneficiaries of the
+Will Trusts under the two wills executed at that time. That structure is wholly
+inconsistent with the estoppel claim. For that claim to succeed, I must find that
+Antony and Valerie did one thing, and told Valentine something different. Not only
+am I not persuaded that that was the case, but it is clear that all family members in
+fact knew what occurred in 1992, and (in due course) that Antony's will trust duly
+took effect in 1996. There was no challenge to the Will, and the estoppel claim was
+not made until after Valerie's death.
+31. Even if I concentrate on the position before 1992, there is virtually no evidence that
+Antony (or for that matter Valerie) made any promise or relevant representation to
+Valentine, and previous wills do not suggest that Valentine had a special position or
+entitlement as elder son. I am not aware of any earlier will where Valentine took the
+farmhouse, or the two fields, to the exclusion of all others. He is unlikely therefore to
+have been told anything to foster his belief of a superior entitlement.
+5
+Page 20 of 380
+32. There is some tenuous evidence that Valentine was offered Ash Priors when he was
+17, but, as he chose a career in the Navy instead, it is impossible to regard that as a
+commitment, and certainly not one which he acted upon. The offer presupposed that
+he would work the farm. A similar offer, also not taken up, appears to have been
+made to Rory at one time.
+33. When eventually, Valentine did come to Ash Priors from Bath, that was into Monks
+Walk, which Valerie initially bought and then sold to Valentine though giving him
+some land later. In addition, the acquisition of Priory Barn was on commercial, albeit
+favourable, terms, and not in response to any commitment. Why, I ask myself, should
+the position be different in relation to the farmhouse and two fields? I can think of no
+reason, and repeat again the point that the separation of the farmhouse and fields in
+1992 was part of a structured series of transactions inconsistent with the estoppel
+claim.
+34. Valentine and Jennifer moved into the farmhouse when the Priory Barn project turned
+into a disaster. In reality, they had nowhere else to go. This was a generous act on
+the part of Antony and Valerie (recorded in Valerie's letter of 31st October 1995) but
+not wholly unexpected of caring, conscientious parents.
+35. Valentine and Jennifer had over time put considerable amounts of money and effort
+into Monks Walk and Priory Barn, but that cannot amount to detrimental reliance
+affecting the ownership of the farmhouse and two fields, as Valentine came to own
+both Monks Walk and Priory Barn. The money and effort thus expended was
+referable to that ownership. The fact that the fruits of those endeavours were lost does
+not affect this conclusion. There is evidence also that Valerie may have kept some of
+the rent referable to one of Valentine's cottages but this cannot be used as a
+foundation for ownership of some other part of Ash Priors.
+36. Valentine and Jennifer also expended money and effort connected with their living at
+the farmhouse and (initially) working the farm, though the farmland has for the most
+part been tenanted. This is summarised in part in a letter Jennifer put before me of
+11th February 2013. The expenditure smacks of the sort of expenditure someone
+living rent free (as Valentine and Jennifer did) would bear, and of mutual family
+support. The same can be said of fencing works Valentine appears to have
+undertaken. One of the fields was worked by Valentine and Valerie in connection
+with the trees business for Taunton Trees Limited, which was carried on for their
+benefit. Valentine also bred pigs and the like, again for his own benefit, though this
+business, as well as ruining much of the grass around the farmhouse, generated much
+hostility locally, not least from Jennifer. I did not gain the impression that any of
+Valentine's business activities were conspicuously successful at this or any other
+time. I think he probably had trouble adjusting to civilian life after his naval career.
+None of this activity indicates to me that Valentine or Jennifer were to have an
+interest in the farmhouse and two fields, and I regard none of it as detrimental reliance
+even if there were some underlying promise or representation which has eluded me.
+37. In early correspondence following Valerie's death, a claim was made on 19th June
+2008 by Rupert's present solicitors (acting then for both Jennifer and Rupert) to the
+effect that Jennifer (who has continued to live at the farmhouse though sometimes
+away caring for her mother) might have acquired some rights, but the present claim
+6
+Page 21 of 380
+was not advanced. Nothing was said about Valentine (or Jennifer, for that matter)
+ever having had the benefit of a relevant promise or representation. The omission of
+any mention of such a promise or representation is telling. In my judgment, there
+never was any such promise or representation.
+38. An attendance note of Mr Penley dated 23rd September 2006 records a conversation
+with Virginia, who referred to certain assurances having been given by Valerie to
+Valentine. The note records that it was being suggested that Valentine's wife/children
+should have the benefit of these. In her oral evidence, Virginia did not accept that she
+had attributed these assurances to Valerie. I am inclined to the view that she probably
+did, but it may be that the source of the allegation was Valentine, not Valerie. I
+cannot place sensible reliance on this episode, which occurred at a time of high
+emotion shortly after Valentine's death. I return to this episode and the
+correspondence leading up to it later when considering the validity of the 2006 Will.
+39. In the circumstances, the proprietary estoppel claim fails. A defence of laches was
+also advanced, which it is unnecessary for me to consider, as the claim does not get
+that far.
+WANT OF KNOWLEDGE AND APPROVAL
+40. I turn to consider the challenge to Valerie's last will.
+41. Both parties agreed that the relevant principles are accurately set out in the decision of
+Wharton v Bancroft [2011] EWHC 3250 (Ch) at [27]-[28]. Ultimately, the burden is
+on the person propounding the will to demonstrate its validity, though this may be
+assisted by established presumptions in an appropriate case.
+42. In the present case, I am, irrespective of any presumption, satisfied from the evidence
+I have read and heard that Valerie knew and approved of the contents of the 2006
+Will.
+43. The principal evidence which leads me to that conclusion is the evidence of Mr
+Penley, who was the solicitor who took instructions for and drafted the 2006 Will. I
+have not looked at his evidence alone, however, but have considered all the relevant
+evidence in the round.
+44. His initial instructions came from Rory, who had been asked by Valerie, his mother,
+to arrange for the new will. At that time, there was a real prospect (as in fact
+occurred) of Valentine predeceasing Valerie. Valentine was much favoured by
+Valerie. She thought he was very handsome, and that this in some way increased his
+claims on her bounty.
+45. The instructions to Mr Penley, which he carried out, were that Valentine should have
+75% of her outstanding half share in the farmhouse and two fields if he survived her.
+If he did not, the half share was to be divided equally four ways between her 3
+remaining children and Valentine's issue.
+7
+Page 22 of 380
+46. Mr Penley gave effect to those instructions. The Will as drafted by him was not
+especially complicated, and Valerie was well aware of her half interest in the
+farmhouse and two fields.
+47. There is a detailed attendance note of the occasion upon which the new Will was
+explained and executed. Virginia and Rory were also there, though they offered to
+leave, Valerie preferring them to remain.
+48. The attendance note in material part reads (with typographical corrections):
+"JFP [Mr Penley] said that the clause relating to [Valerie's] half share in The
+Priory was conditional on Valentine surviving by 28 days. [Valerie]
+confirmed that if Valentine did not survive her she would not want his estate
+to take a larger share of The Priory than that going to her other children. JFP
+took her through the remainder of the clause including the provisions dealing
+with the disposal of the 75% and the 25%.
+JFP explained that if Valentine did not survive then [Valerie's] share of the
+Priory would be dealt with under the clause dealing with the remainder of her
+estate.
+JFP then went through the clause dealing with residue..."
+49. Mr Penley confirmed that this was an accurate attendance note. He also explained in
+an affidavit that he made on 1st June 2006 that he explained the Will in considerable
+detail including taking her through the Will line by line for the relevant clauses. I
+accept that evidence. No-one has challenged Valerie's capacity at this time. That is,
+of course, a separate question of whether she knew and approved of the contents of
+this Will. The evidence before me was that Valerie not merely had sufficient capacity
+but was generally in full possession of her mental faculties right up to the day she
+died', despite her great age (98 when she made the 2006 Will). She was a strong-
+willed lady perfectly capable of making up her own mind. Moreover, the same
+attendance note reveals that she raised with Mr Penley intelligent questions
+concerning tax penalties.
+50. I have no doubt that Valerie knew and approved of the contents of the 2006 Will. It
+makes no difference that the instructions to Mr Penley came from Rory. Rory was her
+son and she trusted him to pass on her wishes. Likewise, it makes no difference that
+Rory and Virginia were both present. That was Valerie's wish. What matters is that
+the contents were fully explained to her, and that she understood the Will, which I am
+satisfied she did. The Will was a rational response to the dilemma that Valentine
+might well die before her.
+51. It is said that she gave different instructions to another solicitor, Mrs Booth, not long
+previously (initially in mid to late 2005, and then again in early 2006). Mrs Booth
+declined to carry out those instructions, as she did not feel it appropriate for Valerie to
+be completing any fresh documentation in view of her great age and current health.
+'I leave aside the period immediately following Valentine's death, dealt with later.
+8
+Page 23 of 380
+As capacity is not challenged before me, this point is of minimal relevance. The fact
+that she made different dispositions in the events which happened is not that unusual
+or remarkable. Old people commonly do change their wills. Anyone can change their
+mind from one month to the next, or even from one day to the next.
+52. On 22nd September 2006, shortly after Valentine's death but before his funeral,
+Virginia wrote to Mr Penley saying that Valerie did not wish "Jenny and her family's
+share" to be reduced to equal shares. The letter continued to say that Valerie always
+agreed that "Jenny" (i.e. Jennifer) should have half the Priory, and she was still saying
+that. A note in Valerie's handwriting said that she wanted Valentine's share of the
+estate to go to "Jenny" (i.e. Jennifer).
+53. By another letter also bearing the date 22nd September 2006, Virginia modified her
+position, saying that she accepted clearly (and she was sure her mother agreed) that
+Jennifer's children, not Jennifer herself, inherited. This must have come about
+because Mr Penley pointed out to Virginia that this was the consistent approach of all
+wills of which he was aware. She also said that if her mother had written saying it
+was Jennifer, she meant her children. She noted that Valentine's children were
+pressing Valerie for a new Will. Valentine had seen the 2006 Will and a further Will
+appears to have been improperly executed by Valerie at this stage. None of this
+causes me to come to a different conclusion when considering all the evidence in the
+round.
+54. On 23rd September 2006, there is an attendance note of Mr Penley recording a
+conversation with Rory. Mr Penley clearly thought (almost certainly correctly) that
+pressure was being brought on Virginia and Valerie. Rory was of the opinion (again
+probably correctly) that Valerie was not able to grasp everything at that time and she
+would be inclined to say things simply in order (as the attendance note puts it) to
+"enquire". I cannot safely rely upon anything emanating from Valerie (or Virginia) at
+this time. When the 2006 Will was explained and executed, by contrast, the occasion
+was not coloured by high emotion, or family rancour.
+55. In all the circumstances, I pronounce in favour of the validity of the 2006 Will.
+9
+Page 24 of 380
+FORM 269C1
+COURT OF APPEAL
+IN THE COURT OF APPEAL, CIVIL DIVISION
+REF: A3/2013/2303
+WEBSTER
+--
+(CIV:GS.26.07.13)
+Her Majesty's
+Court (SEALjcal
+- 5 NOV 2013
+ASHCROFT & ORS
+ORDER made by the Rt. Hon. Lord Justice Lewison
+On consideration of the appellant's notice and accompanying documents, but without an oral hearing, in respect of an
+application for permission to appeal
+Decision: granted, refused, adjourned. An order granting permission may limit the issues to be heard or be
+made subject to conditions.
+REFUSED
+Reasons
+Proprietary estoppel
+1. The judge's conclusion turned entirely on the facts that he found. The testing of oral evidence against
+contemporaneous documents is a conventional and well-recognised method of evaluating evidence. There is no
+error of principle in the judge's fact-finding exercise.
+2. The fact that the claimant disagrees with the facts as found by the judge gives rise to no ground of appeal.
+3. There was no dispute about the law before the judge, and his self-direction reveals no error of law.
+Want of knowledge and approval
+4. This issue also turned on a pure question of fact. The judge was entitled to accept the evidence of Mr Penley.
+5. There is no real prospect that the Court of Appeal will interfere with the judge's findings.
+Information for or directions to the parties
+This case falls within the Court of Appeal Mediation Scheme automatic pilot categories". Yes
+Recommended for mediation
+If not, please give reason:
+Yes
+No
+Where permission has been granted, or the application adjourned
+a) time estimate (excluding judgment)
+b) any expedition
+MAJESTY'S
+HER M
+COUP
+E & W
+APPEA
+No
+Signed: Kin hewi
+31.10.13
+By the Court
+Date:
+☑
+Page 25 of 380
+DATED 31ST OCTOBER 2013
+IN THE COURT OF APPEAL
+ORDER
+Copies to:
+Rupert Jolyon St John Webster
+The Priory
+Ash Priors
+Taunton
+Somerset
+TA4 3ND
+Jennifer St John Webster
+The Priory
+Ash Priors
+Taunton
+Somerset
+TA4 3ND
+Ian Rory St John Webster
+Lye House
+West Wick
+Pewsey
+Wilts
+SN9 5JZ
+Antonia Mary Sloane
+Cottage-On-The-Common
+Ash Priors
+Taunton
+Somerset
+TA4 3ND
+Alison Virginia Ashcroft
+Blackbrook Gate
+Blackbrook Park Ave
+Taunton
+TA1 2PG
+Clarke Willmott Lip
+Dx 97175
+Taunton Blackbrook
+Chancery Division
+1st Floor, Roll's Building
+File Management
+London EC4A 1NL
+Ref: HC09C01570
+Page 26 of 380
+Neutral Citation Number: [2014] EWCA Civ 1772
+IN THE SUPREME COURT OF JUDICATURE
+IN THE COURT OF APPEAL (CIVIL DIVISION)
+ON APPEAL FROM THE HIGH COURT OF JUSTICE
+CHANCERY DIVISION
+(HIS HONOUR JUDGE PURLE QC)
+BEFORE:
+LORD JUSTICE FLOYD
+WEBSTER
+-V-
+ASHCROFT & ORS
+A3/2013/2303
+Royal Courts of Justice
+Strand
+London, WC2
+Thursday, 13th February 2014
+(Digital Audio Transcript of
+WordWave International Limited
+A Merrill Communications Company
+165 Fleet Street, London EC4A 2DY
+Tel No: 020 7404 1400 Fax No: 020 7831 8838
+Official Shorthand Writers to the Court)
+The Applicant appeared in Person
+JUDGMENT
+(Approved)
+Crown copyright©
+Claimant/Applicant
+Defendant/Respondent
+Page 27 of 380
+LORD JUSTICE FLOYD: 1. This is an application for permission to appeal the decision of His
+Honour Judge Purle QC made on 22nd May 2013. The judge rejected a claim based on
+proprietary estoppel made by the claimant in respect of land known as Priory Farmhouse
+and two adjoining fields in Ash Priors in Somerset.
+2.
+The claimant is the administrator of the estate of his father, the late Valentine Webster. He
+makes this claim on behalf of his father's estate. The proprietary estoppel claim was said
+to be based on representations made over the years, starting in the 1970s by Valentines'
+parents, that is the claimant's grandparents, Anthony and Valerie, to the effect that Ash
+Priors would come to Valentine. Valentine died on 16th September 2006. Anthony died
+on 10th February 1996. Valerie died on 21st August 2007.
+3.
+As the judge observed this made the case an unusual one in that neither the alleged
+representors, that is to say the grandparents nor the alleged representees were available to
+give evidence as sadly they have all died. It not only made the case unusual, it made the
+judge's task a difficult one.
+4.
+The sole beneficiary of the estate, Valentine's wife Jennifer, chose not to bring proceedings
+herself but supported the appointment of the claimant to bring proceedings as her personal
+representative.
+5.
+The proceedings also included a challenge to the will of Rupert's grandmother, Valerie,
+dated 24th May 2006, on the grounds that it lacked her knowledge and approval.
+Page 28 of 380
+6.
+The judge recorded in his judgment that the principles relevant to proprietary estoppel
+were not in dispute. The grounds of appeal and the skeleton argument seek to call into
+question almost every finding and observation of the judge and say that the judge failed to
+give weight to a number of highly detailed matters, set out in numbered paragraphs on
+pages 4 and onwards of the skeleton.
+7.
+It is said that he failed to look at the matter holistically. In argument before me this
+morning Mr Hill has argued that the judge incorrectly stated that the law was agreed and
+that it appears from reading the judgment, he submits, that the judge had failed to take into
+account developments in the law starting with Gillett v Holt [2001] Ch 210, including
+Suggitt v Suggitt [2012] EWCA Civ 1140, Thorner v Majors & Ors [2009] 1 WLR 766
+and Henry v Henry [2010] UKPC 3.
+8.
+Some of the difficulty which the claimant faced can be seen from paragraph 31 of the
+judge's judgment which follows his exposition of a tax planning exercise and meeting
+which occurred in 1992, at which no reliance had been placed on any representation or
+promise. The judge said this:
+"Even if I concentrate on the position before 1992, there is virtually no
+evidence that Anthony or for that matter Valerie made any promise or
+relevant representation to Valentine and previous wills do not suggest that
+Valentine had a special position or entitlement as elder son. I am not aware
+of any earlier Will where Valentine took the Farmhouse or two fields to the
+exclusion of all others. He is unlikely therefore to have been told anything to
+foster his belief in that superior entitlement."
+9.
+The judge concluded that there had not been any representations or promises. He also
+Page 29 of 380
+concluded that none of the matters relied on by way of detriment which were mainly in the
+nature of financial expenditure were incurred in reliance on any promise about ownership
+of the property.
+10.
+The judge's conclusions were essentially based on findings of primary fact, faced amongst
+other things, on inferences from contemporaneous events such as the tax planning exercise.
+He found little help in the evidence of members of the family for a variety of reasons
+including the passage of time and the reliability of witnesses including the claimant. This
+is classic territory in which the fact finding judge's assessment will almost invariably
+prevail.
+11.
+I take first want of knowledge and approval, which, to be fair, Mr Hill did not place at the
+forefront of his argument. It seems to me that any appeal against the judge's finding that
+the Will was executed with the full knowledge and approval of Valerie has no realistic
+prospect of success. No criticism is made of the judge's reliance on the principles set out in
+Wharton v Bancroft [2011] EWHC 3250. The judge held that irrespective of any
+presumption, Valerie knew and approved the contents of her Will, relying very heavily on
+the evidence of Mr Penley who he found to be an excellent witness. I would refuse
+permission to appeal on that ground.
+12.
+Mr Hill's principal argument this morning is that Judge Purle appears to have been highly
+selective in his approach to the matter and left out of account numerous matters which are
+not referred to in his judgment. From this he developed the argument that the judge was
+not adopting the broader holistic approach propounded in the cases which I have
+Page 30 of 380

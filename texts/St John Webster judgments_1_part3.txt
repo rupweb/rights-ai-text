@@ -1,0 +1,513 @@
+mentioned. Those cases make it clear that it is not appropriate to when consider proprietary
+estoppel on too compartmentalised a basis and that a holistic approach, standing back from
+the evidence as a whole, is more appropriate. Ultimately the question is whether the
+conduct of the representors is such that equity would regard it as unconscionable to deny
+the existence of the interest which is alleged.
+13.
+Mr Hill accepts that if his appeal were to succeed on this basis, this court would be in no
+position to conduct the holistic assessment which he argues the judge failed to carry out. A
+retrial would be the inevitable consequence.
+14.
+Attractively though the matter was put, I have to say I do not consider that an appeal
+against the judgment would have a realistic prospect of success. The judge saw the
+witnesses, saw the available documents and must have had in mind all the matters to which
+the skeleton argument refers. In the end he found the case was not made out on the facts. I
+am unable to detect any error of principle in the judge's approach, which would justify this
+court intervening and ordering a new trial. Plainly, the prospect of a new trial is one which
+it is not attractive to countenance but I refuse permission on the basis that this court would
+have no basis on which to interfere with the judge's order and there is no other reason why
+this court should grant permission to appeal.
+Page 31 of 380
+IN THE HIGH COURT OF JUSTICE – CHANCERY DIVISION
+Case No: HC09C01570
+Royal Courts of Justice
+7 Rolls Building
+Fetters Lane
+London
+EC4A 1NL
+BETWEEN:
+Before:
+:
+DEPUTY MASTER MATTHEWS
+RUPERT ST JOHN WEBSTER
+and
+ALISON ASHCROFT
+JOHN PENLEY
+Transcript from a recording by Ubiqus
+61 Southwark Street, London SE1 OHL
+Tel: 020 7269 0370
+MR WEBSTER appeared In Person
+MR OLIVER WOODING appeared on behalf of the Applicants
+JUDGMENT
+(Approved)
+1
+Monday, 4th August 2014
+Page 32 of 380
+DEPUTY MASTER MATTHEWS:
+1.
+2.
+3.
+4.
+This is an application by notice dated 9 May 2014 by the first and second defendants,
+Alison Ashcroft and John Penley, to vacate land charges in an action which was brought by
+the claimant, Mr Rupert Webster, against a number of defendants, not only the first and
+second defendants, as applicants, but also others, in respect of certain pieces of land which
+have been in his family for something like 60-odd years.
+The main part of the action was the subject of a decision by His Honour Judge Purle. That
+decision was that the claims brought by Mr Rupert Webster, which were based largely on
+proprietary estoppel and also on want of knowledge and approval of a will, should fail.
+Mr Webster had protected the position in the pending litigation by means of four land
+charges. These four charges were placed on the property concerned at the time of the
+litigation. Then, in a letter subsequent to the decision of Judge Purle, dated 24 June 2014,
+Mr Webster, the respondent to this application, said:
+'I accept from that that the land charges pending action AB are out of date
+and should now be replaced with a land charge pending action pursuant to
+the European Court, as well as three further land charges pending actions
+pursuant to the three valuation claims."
+I will come back to the reference to pending actions pursuant to the three valuation
+claims.
+The position therefore appears to be that Mr Webster accepts that the four charges which
+were registered in the land charges register (because the property is unregistered land), in
+protecting the rights claimed in the litigation, should go. But he is unwilling for them to go
+before they can be replaced by new charges in relation to proceedings which he intends to,
+but has not yet brought, before the European Court of Human Rights, and (it may also be)
+the other claims which I have referred to above in respect of valuation. Presumably this is
+because Mr Webster does not want there to be any gap in the protection which is afforded
+2
+Page 33 of 380
+5.
+6.
+7.
+by the charges, so as to allow the property, for example, to be sold in the meantime when
+the property is not covered by any protection.
+However, I am faced with the application being made by the applicants to vacate those
+charges and I must deal with it judicially. In my judgment there is absolutely no defence to
+the application to vacate those four charges from the land charges register. They are as
+plain a case as could possibly be, and well within the jurisdiction of the master, which is to
+vacate charges in the land charges register only in plain cases. Accordingly, I will make the
+order in respect of the four existing land charges.
+Two more recent charges, however, are in a different position. They are not charges in
+respect of any land claims, but charges directed at protecting a substantive legal right. At
+page 113 of the bundle, I see from Form K1 (the application for registration of the land
+charge) that the particulars of the chargee are given as Mr Webster himself, and the
+particulars of the charge are given in this way: ‘an equitable charge as a tenant for life in
+actual occupation, having an overriding interest pursuant to an equitable licence,' and the
+class and subclass which are given in the application are Class C(iii).
+Now, the position is quite clear. The Land Charges Act 1972, which is the relevant
+legislation, defines a Class C(iii) land charge in the following way. In Section 2(4) of the
+Land Charges Act (as amended) it is provided that:
+‘A Class C land charge is any of the following (not being a local land
+charge), namely
+[...]
+(iii) a general equitable charge;
+[ ]
+and for this purpose
+[ ]
+(iii) a general equitable charge is any equitable charge which
+(a) is not secured by a deposit of documents relating the legal estate
+affected; and
+(b) does not arise or affect an interest arising under a trust of land or a
+settlement; and
+(c) is not a charge given by way of indemnity against rents equitably
+3
+Page 34 of 380
+8.
+9.
+10.
+apportioned or charged exclusively on land in exoneration of other land and
+against the breach or non-observance of covenants and conditions; and
+(d) is not included in any other class of land charge.'
+Now, it is clear beyond any doubt that the kind of charge which is claimed in this
+application for the registration of the land charge is not a Class C(iii) land charge. It
+therefore falls at the first hurdle, that what is being claimed cannot be such a charge. There
+are also other difficulties with the description of the charge, because the words used, such as
+'actual occupation' and 'having an overriding interest', are words which are entirely
+inapposite for unregistered land such as this is, or at any rate was at the time of the
+application in May, and in my judgment this claim to a land charge of Class C(iii) must fail.
+It simply does not get through the gateway required for such charges. Accordingly, it is a
+plain case for vacating the charge.
+I should also say that it does not seem to me that the substantive rights which are meant by
+these words, that is to say rights of enjoyment of the land by virtue of some claim to being a
+tenant for life, whether pursuant to an equitable licence or otherwise, are simply not the
+kind of rights which are the subject of land charges under the Land Charges Act. It is not
+designed for this kind of protection of this kind of substantive right. On the contrary, it is
+concerned much more with certain types of commercial rights rather than family rights.
+Accordingly, in my judgment, and without going in any way into the substance of the claim
+to this right, as I do not have to examine the facts of the case, it seems to me right that I
+should make the order vacating these two charges too.
+I have said that I do not need to go into the facts, but even at a cursory glance it seems to
+me, and without making any kind of finding or determination, that the substance behind
+these applications for further land charges is perilously thin and confused, even to the point
+of incoherence. There is danger in pursuing any such claim in the future, simply because of
+the risks of legal costs being awarded. At the same time it is the right of the claimant, Mr
+4
+Page 35 of 380
+11.
+12.
+Webster, to pursue such claims as he may be advised. That is a matter for him.
+I referred above to certain other claims relating to valuation. I have been taken to the claim
+forms in these three further actions, which were all issued in March 2014. These actions
+were in fact issued sometime after the further two land charges were registered and they
+relate to claims that the valuations of the three estates of the claimant's grandfather,
+grandmother and father are wrong. It is not entirely clear to me exactly how these claims
+are put, but it seems to me that there is a real problem if the valuations do not actually raise
+rights of the substantive kind which are claimed in these registration of land charges. This is
+because, if they do not raise such rights, they are not supporting the claims which are made
+in the land charges. If, on the other hand, they do raise substantive rights of this kind, the
+danger is that they are in fact simply seeking to re-litigate the decision of His Honour Judge
+Purle. However, I do not need to decide anything in relation to these further claims because,
+as I have said, I can order the vacation of the two further charges because they simply do
+not fit Class C(iii).
+Therefore, in my judgment, I should make orders vacating all six of the land charges
+concerned.
+End of judgment.
+5
+Page 36 of 380
+Neutral Citation Number: [2015] EWHC 678 (Ch)
+IN THE HIGH COURT OF JUSTICE
+CHANCERY DIVISION
+BRISTOL DISTRICT REGISTRY
+BEFORE:
+HIS HONOUR JUDGE McCAHILL QC
+BETWEEN:
+Case No: B30BS071
+Bristol Civil and Family Justice Centre
+2 Redcliff Street
+Bristol BS1 6GR
+Friday, 13 February 2015
+(1) JOHN PENLEY
+(2) ALISON VIRGINIA ASHCROFT
+- and -
+RUPERT ST.JOHN WEBSTER
+Claimants/Applicants
+Defendant/Respondent
+MR O WOODING (instructed by Clarke Willmott LLP) appeared on behalf of the Claimant
+MR WEBSTER appeared in person
+Approved Judgment
+Crown Copyright
+Digital Transcript of WordWave International, a Merrill Communications Company
+101 Finsbury Pavement London EC2A 1ER
+Tel No: 020 7421 6131 Fax No: 020 7421 6134
+Web: www.merrillcorp.com/mls Email: mlstape@merrillcorp.com
+(Official Shorthand Writers to the Court)
+25
+No of words: 3,071
+No of folios: 43
+Page 37 of 380
+JUDGE McCAHILL QC:
+The Injunction Application and the London Proceedings
+1.
+2.
+3.
+4.
+5.
+6.
+There is before the court today an application for a temporary injunction by John
+Francis Henry, a solicitor, and Alison Virginia Ashcroft, known mainly as Virginia,
+against Rupert St John Webster, the defendant. Virginia is the aunt of the defendant.
+Mr Penley is a solicitor who has been involved with the affairs of the wider family and
+its rural estate for many years. There is a complicated series of trusts, wills and
+antecedent litigation concerning the family. It suffices to say that there came a time
+when this defendant, Mr Webster, on behalf of the estate of his late father, Valentine,
+commenced proceedings in the High Court claiming that his late father, Valentine, had
+acquired by proprietary estoppel an equitable right in the farmhouse and land on the
+estate.
+Those proceedings were determined by his Honour Judge Purle QC, sitting as a judge
+of the High Court. He dismissed the claim for estoppel by the estate of Valentine,
+observing in his judgment that the claim had certain difficulties.
+The person primarily asserting the claim, Valentine, was dead, and the person against
+whom it was being asserted, namely Ventine's mother, Valerie, was also dead. The
+judge commented that it was not the most promising start for a case based upon
+estoppel when the two protagonists were dead.
+Having reviewed all the evidence in the case, the judge dismissed the case for estoppel
+and ordered an interim payment of £75,000 on account of costs to be paid. I am told
+that those costs have not yet been paid in those proceedings.
+In paragraph 27 of his judgment, Judge Purle QC said this:
+"Rupert's evidence, extensive though it was, was not particularly
+helpful, so far as it was based on his own recollections or recollections
+of what he had been told by Valentine. Rupert appears to have
+developed an obsession with this case and the family history
+underpinning it, which is all consuming. I did feel that, though he was
+plainly honest, this could affect his judgment."
+Trespass and Obstruction
+7.
+8.
+The claim before me is effectively one requiring the defendant not to trespass upon the
+property, the subject matter of that litigation, which is currently registered in the name
+of these two claimants as executors and trustees. It was previously unregistered land.
+Mr Webster had then made a number of entries on the Land Charges Register, which
+were themselves the subject matter of summary proceedings before the Registrar to
+have them vacated. They were vacated and the title was then registered clean, save for
+those encumbrances which the claimants accept were properly registered against it.
+However, the claimants are concerned that, unless restrained, the defendant will try
+again to place unwarranted entries on the registered title. This is a matter of grave
+concern to the claimants, because they are in the process of trying to sell the property.
+It has been and is being marketed through Savills. Indeed, there was an incident earlier
+26
+Page 38 of 380
+9.
+10.
+11.
+12.
+in May 2014, when the defendant approached the representative of Savills, Mr
+Addlington, on the site, to assert that Mr Addington or Savills had no right to sell the
+property.
+The claim by the claimant trustees is to keep the defendant off the land on to which he
+has trespassed. There are undoubtedly many issues of factual dispute. The defendant
+denies that he is trespassing or has trespassed. He asserts, no doubt, that he is entitled
+to be on the land by some right in law.
+The claimants allege that he has no right to be there. Indeed, following an agreement
+reached between his mother, Jennifer, and the claimants in September 2014, his mother
+left the premises, As far as the claimants are concerned, this defendant was not living
+there or occupying those premises at that particular time.
+The current position is that the second claimant, Virginia, is living in the property as
+her home, almost as a caretaker, to safeguard it. She is, if I may say so, of a certain age.
+She has to confront the defendant, as he comes and goes, or tries to come and go, on to
+the premises or into the house as he pleases, often in hours of darkness and/or at times
+when other guests are present. That is not only a matter of embarrassment, but also a
+source of concern to the second claimant.
+The particular allegations of trespass relied upon by the claimants are summarised in
+paragraph 18 of Mr Wooding's skeleton argument, where the relevant evidence, which
+I have read, is identified. Paragraph 18 deals with the specific episodes of alleged
+trespass on 23 September 2014, 23 January 2015, 27 January 2015 and 28 January
+2015.
+13. In addition, the claimants rely upon the defendant's interference with the sale process.
+The particulars of interference are set out in paragraph 20 of the skeleton argument,
+where the evidence, which I have considered, is also summarised. They include
+issuing in London three High Court claims called "the valuation claims", which are
+themselves currently the subject of an application to strike out by these claimants. Mr
+Webster has challenged the entitlements under the estate, because they failed to take
+into account his alleged right or that of his late father's estate through an estoppel
+claim. The incident on 28 May 2014, when Mr Webster confronted Mr Addington of
+Savills, is relied on by the claimants as a further example of interference.
+14.
+Moreover, on 13 January 2015, Mr Webster contacted BT to install a separate
+telephone line to the property and, on 30 January 2015,went to the police station
+attempting to persuade the police that he had a right of access to the property.
+15. Today is not the day on which I decide the truth, accuracy or falsity of those
+allegations.
+16.
+All I am concerned with is whether those allegations, which are no doubt denied by the
+defendant, are arguably true and whether they raise a serious issue to be tried.
+Adjournment
+17.
+For his part, the defendant said that I should not even be dealing with the case today
+because of a variety of reasons.
+27
+27
+Page 39 of 380
+18. First, he said that he only received the papers yesterday, that the papers are voluminous
+and that he was staying with a friend in Winchester at the time they were served at hid
+grandmother's home. He said that he needed to obtain legal representation, either pro
+bono or by legal aid or to prepare to represent himself. To use his own phrase, "he
+needs to lawyer up”.
+19. Secondly, he has already commenced proceedings under CPR Part 55 in the County
+Court at Taunton. Those summary proceedings are against the same claimants in this
+case. He seeks possession of the very property as is the subject matter of this claim.
+There is a hearing returnable before the district judge in Taunton on 10 March 2015,
+where either that claim will be struck out by the district judge or he will give directions
+for a trial of the issues or he may be persuaded to grant Mr Webster the summary relief
+claimed. Those are the three probabilities. However, the district judge in Taunton is
+going to be confronted not only with Mr Webster's amended Particulars of Claim, but
+also with an amended Defence from these executors/trustees. They will no doubt show
+the judge the judgment of Judge Purle QC, contending that this is yet another attempt
+to relitigate matters which were disposed of by Judge Purle QC, and in respect of
+which the Court of Appeal refused permission to appeal.
+20. Thirdly, Mr Webster argued that these proceedings today are wrong, because they
+should have been the subject matter of a counterclaim and brought within the Part 55
+proceedings in the County Court at Taunton. Those summary proceedings in the
+County Court would normally be listed before a district judge, who, when the matter
+comes before him on 10 March 2015, will not, as I understand it, have the power to
+grant the injunction which is sought in these proceedings. So, although by case
+management, this matter could have been brought perhaps within the Taunton
+proceedings, today's application before me for injunctive relief could not be dealt
+with by the district judge, because the district judge does or may not have the
+jurisdiction to grant an injunction.
+21.
+22.
+23.
+For those reasons, as well as asserting that there is an answer to all the claimants'
+points, Mr Webster has submitted that I should adjourn the case and transfer it to
+Taunton. Or, if I do not do that, adjourn it to another day to enable him to get
+representation and for the matter to come back before me. Adiitionally, he asked for his
+costs of today.
+I do not accept Mr Webster's submissions.
+I appreciate that this is a case where, according to Mr Webster, he first saw the papers
+yesterday. Howevery I have seen the witness statement of Nigel John Wills of Devon
+Investigations, who said this:
+"A copy of the claim form together with particulars of claim
+with exhibits, together with a claimants' application notice for an
+injunction, together with the witness statement of John Francis
+in support of application notice, together with the witness
+statement of Alison Virginia Ashcroft in support of the
+application notice, together with the witness statement of
+Richard Addington in support of the application notice, together
+28
+Page 40 of 380
+24.
+25.
+with the witness statement of Beth King Smith [that is a solicitor
+acting for the claimant], in support of the application notice,
+together with a draft order in support of the application notice,
+together with a notice of issue, together with a notice of hearing
+order and the defendant's response pack were handed to Patricia
+Marrow, the defendant's grandmother on Tuesday 10 February
+2015 at 16.30 hours at Kingsdon Nursery Garden, North Town,
+Kingsdon... as the defendant was not available. At the time of
+service, Patricia Marrow advised me that she would hand it to
+him immediately on his return later that evening."
+I take it that the address, Kingsdon Nursery, is where the mother and grandmother live.
+So, the documentation was handed into the hands of a member of the defendant's
+family at 4.30pm on Tuesday. Today is Friday. I am satisfied that there was valid
+service on Tuesday. I accept that evidence of service.
+Mr Webster said that he first heard of this application yesterday. Even if that were the
+case, and I am not to be taken as accepting that, nevertheless, I would, to the extent that
+that is not sufficient time for service, abridge time to enable this hearing to be heard
+here today.
+26. Having regard to the background of the case and to Mr Webster's intimate knowledge
+of it, as referred to by Judge Purle QC in his judgment, it is right, just, appropriate, fair
+and necessary for the court to engage with this application at this stage. Indeed, the
+court could have done so even on an ex parte basis at short notice.
+27.
+28.
+The papers were within the defendant's family on Tuesday and today is Friday. The
+defendant has had the time which the rules would normally allow to prepare for this
+case. Even if he did not, I would abridge time, even on the basis he had them
+yesterday. I say that because of the background to the case and the need urgently to
+address the issues which have arisen.
+I move on then to deal with those issues.
+Serious Issues, Adequacy of damages and of the Undertaking in Damages
+29.
+30.
+I have already identified the factual disputes. I am not today deciding the truth of
+these allegations. However, I am satisfied that there are serious matters to be tried on
+the issues of trespass, slander of title and upon the defendant's obstruction of the sale.
+I turn then to deal with the second issue: would damages be an adequate remedy? In
+my judgment, they would not.
+31. The defendant has demonstrated that he can engage in litigation and not pay costs
+orders made against him or his family. In any event, money would never be enough in
+this situation, because the whole point is to get the property sold in order to implement
+a court's decision. Damages simply would not be an adequate remedy here, because,
+unless restrained, the defendant will carry on doing what he is doing to frustrate a sale.
+29
+Page 41 of 380
+32.
+33.
+The third question then is: are the claimants good for their undertaking? Can I ask for
+some confirmation on that? There is no reason to doubt - Mr Penley is a solicitor - that
+the claimants are good for their undertaking in damages.
+So I turn then to deal with the final consideration, the balance of convenience.
+Balance of Convenience
+34. In my judgment, the balance of convenience here falls most emphatically in favour of
+the grant of the injunction. These parties have already been through the court process
+once. There has been a detailed decision by Judge Purle QC, rejecting the claim for
+estoppel and, if I may say so, making it plain in his judgment that this defendant's
+mother was far from a happy witness in those proceedings.
+35.
+36.
+37.
+38.
+The evidence clearly establishes that, on a prima facie basis, Mr Webster was not in
+possession or occupation in September 2014. It may be a matter to be litigated, but
+certainly is an arguable case that he was not there then, because the trustees were busy
+negotiating with his mother.
+The episodes of trespass do have a worrying element about them. I am satisfied the
+status quo for the purpose of this application was one in which the defendant was not in
+posession or occupation. These acts of alleged trespass have been committed since then
+and since the vacation of the house by his mother. The status quo argument as well as
+the balance of convenience favour the grant of the injunction. Moreover, the claimants
+had engaged in the legal process in the London Proceedings and secured a court order
+which they are seeking to implement.
+Against all that, I have had to balance the other proceedings in Taunton to beheard on
+10 March 2015 and the London proceedings. It seems to me that those proceedings are
+all constructed substantially upon the premise that he has the rights which were denied
+in the litigation before Judge Purle QC. To the extent that they did not get raised before
+Judge Purle QC by Mr Webster, one wonders why not? These two sets of proceedings,
+the valuation proceedings in London and the Taunton proceedings, seem to me to be
+substantially if not exclusively an attempt to re-run the arguments which were rejected
+by Judge Purle QC.
+For all those reasons, therefore, it seems to me that the balance of convenience falls
+firmly down on the side of the grant of the injunction.
+Conclusion
+39.
+I make the injunction in terms of the draft which appears at pages 74, 75, 76 and 77,
+save that the restriction in paragraph 1(c) shall be qualified by the fact that the
+defendant shall be entitled, in hearings before the court and in court documentation
+prepared solely for the court, to assert the arguments which he needs to argue in those
+proceedings.
+40. Moreover, in relation to 1(b), which currently as drafted prohibits him from entering or
+causing to be entered any entry against the title, the provision 'save without prior
+permission of the court' needs to be added, because, if Mr Webster has a legitimate
+claim to register something against the title, then the court will want to consider that
+30
+Page 42 of 380
+41.
+42.
+43.
+before it is registered, rather than having a lengthy and expensive process afterwards
+for its removal.
+With those modifications, I make the injunction in terms of the draft order.
+As far as the costs of today are concerned, the simplest thing for me to do is to reserve
+those costs to the next hearing before me. This will probably be after the hearing in
+Taunton on 10 March 2015. That will give Mr Webster the opportunity to seek legal
+assistance and representation generally and on the question of costs in particular.
+Indeed, at the next hearing before me, which will be no later than 23 March 2015, it
+may well be argued that this injunction should never have been made and that it should
+be set aside. So, although this was an inter-partes hearing and not an ex parte one, I
+shall reserve to myself the costs of this application and the costs of today and I shall
+consider them at the next hearing before me in March 2015.
+Page 43 of 380
+31
+IN THE TAUNTON COUNTY COURT
+Case No: A00TA241
+The Shire Hall
+Taunton
+Somerset
+BETWEEN:
+Before:
+DEPUTY DISTRICT JUDGE ORME
+RUPERT ST JOHN WEBSTER
+and
+JOHN PENLEY & ANOR
+Transcript from a recording by Ubiqus
+61 Southwark Street, London SE1 OHL
+Tel: 020 7269 0370
+MR TREVIS appeared on behalf of the Claimant
+MR O WOODING appeared on behalf of the Defendants
+JUDGMENT
+Approved
+1
+TA1 4EU
+Tuesday, 10th March 2015
+Page 44 of 380
+DDJ ORME:
+1.
+2.
+3.
+4.
+In this matter I am dealing with a claim for possession which is brought by Rupert St John
+Webster against Mr John Francis Penley and Mrs Alison Virginia Ashcroft. Mr Webster
+was represented before me by Mr Trevis of counsel and the defendants were represented by
+Mr Wooding of counsel.
+The claim is for possession of the living quarters of Commander Valentine St John Webster
+at The Priory, Ash Priors, Taunton. A claim form was issued on 29 September 2014 and
+had particulars of claim attached to it. A form of defence was filed and the matter then
+became before District Judge Woodburn on 24 November 2014. He clearly did not think
+that the particulars of claim showed any reasonable ground for bringing the claim and
+although he did not expressly strike out the particulars of claim what he said in paragraph
+one of the order was that:
+'Unless by 4pm on 5 December 2014 the claimant shall file and serve an amended
+claim form and/or particulars of claim the claim shall stand automatically struck out
+as not disclosing a reasonable ground for bringing a claim.”
+Following the making of that order the claimant filed amended particulars of claim which
+are dated 5 December 2014 and the defendants have filed a long amended defence to that
+claim dated 17 December 2014. The application before me today by the defendants is to
+strike out the claim in total as showing no cause of action or being an abuse of the court
+procedure.
+The main reason for that is that there is a long history to this litigation and this is not the
+only claim that is still going on. There is a claim for proprietary estoppel within which the
+claimant is also the claimant and the defendants in this case were two of the defendants
+along with three other parties; that claim came before His Honour Judge Purle QC in the
+High Court of Justice Chancery Division in May 2013 and after a full trial of that claim
+2
+Page 45 of 380
