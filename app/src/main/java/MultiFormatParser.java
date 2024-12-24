@@ -8,7 +8,7 @@ public class MultiFormatParser {
     private static final Logger log = LogManager.getLogger(MultiFormatParser.class);
 
     static final String credentials = "D:\\Documents\\Will\\Aggregated Documents\\woven-edge-445419-a8-ccd69cd2a32e.json";
-    static final String defaultSource = "G:\\Petition\\rights-ai-text\\All Docs";
+    static final String defaultSource = "G:\\Petition\\rights-ai-text\\missed";
 
     public static void main(String[] args) throws IOException {
         String sourceDir = System.getProperty("sourceDir", defaultSource);
