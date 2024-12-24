@@ -44,7 +44,14 @@ java {
 
 application {
     // Define the main class for the application.
-    mainClass = 'DocumentAIParser'
+    mainClass = 'MultiFormatParser'
+}
+
+test {
+    testLogging {
+        events "PASSED", "FAILED", "SKIPPED"
+        showStandardStreams = true
+    }
 }
 
 tasks.named('test') {

@@ -22,10 +22,10 @@ import org.junit.jupiter.api.Test;
 
 import com.aspose.email.MailMessage;
 
-public class MultiFormatDocumentAIParserTest {
-        private static final Logger log = LogManager.getLogger(MultiFormatDocumentAIParserTest.class);
+public class MultiFormatParserTest {
+        private static final Logger log = LogManager.getLogger(MultiFormatParserTest.class);
 
-    private static final String TEST_SOURCE_DIR = "D:\\Documents\\Will\\Aggregated Documents\\source docs\\test";
+    private static final String TEST_SOURCE_DIR = "G:\\Petition\\rights-ai-text\\test source";
 
     @BeforeEach
     public void setUp() throws IOException {
@@ -112,7 +112,7 @@ public class MultiFormatDocumentAIParserTest {
     @Test
     public void testMultiFormatProcessing() throws IOException {
         System.setProperty("sourceDir", TEST_SOURCE_DIR);
-        MultiFormatDocumentAIParser.main(new String[]{});
+        MultiFormatParser.main(new String[]{});
 
         // Assert that output files were created
         assertOutputFileExists("test-document1.txt");
