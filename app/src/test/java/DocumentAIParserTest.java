@@ -4,6 +4,8 @@ import java.nio.file.Files;
 import java.nio.file.Path;
 import java.util.Objects;
 
+import org.apache.logging.log4j.LogManager;
+import org.apache.logging.log4j.Logger;
 import org.apache.pdfbox.pdmodel.PDDocument;
 import org.apache.pdfbox.pdmodel.PDPage;
 import org.apache.pdfbox.pdmodel.PDPageContentStream;
@@ -19,6 +21,7 @@ import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 
 public class DocumentAIParserTest {
+    private static final Logger log = LogManager.getLogger(DocumentAIParserTest.class);
 
     private static final String TEST_SOURCE_DIR = "D:\\Documents\\Will\\Aggregated Documents\\source docs\\test";
     private File tempPdfFile;
@@ -56,6 +59,9 @@ public void setUp() throws IOException {
 
         // Set the system property for the source directory
         System.setProperty("sourceDir", TEST_SOURCE_DIR);
+
+        // Google environment variables
+        System.out.println("GOOGLE_APPLICATION_CREDENTIALS: " + System.getenv("GOOGLE_APPLICATION_CREDENTIALS"));
 
         // Call the main method to process files
         try {

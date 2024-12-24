@@ -3,3 +3,8 @@
 
 # Ignore Gradle build output directory
 build
+
+# Ignore various app directories
+app/logs
+app/bin
+app/bin/test

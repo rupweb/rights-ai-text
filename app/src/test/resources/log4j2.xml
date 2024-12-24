@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configuration>
+    <Appenders>
+        <Console name="Console" target="SYSTEM_OUT">
+            <PatternLayout
+                    pattern="%style{%d{ISO8601}}{white} %highlight{%-5level }[%style{%t}{cyan}] %style{%M}{bright,yellow}: %msg%n%throwable" />
+        </Console>
+ 
+        <RollingFile name="RollingFile"
+            fileName="./logs/document-ai-test.log"
+            filePattern="./logs/$${date:yyyy-MM}/document-ai-test-%d{-dd-MMMM-yyyy}-%i.log.gz">
+            <PatternLayout>
+                <pattern>%d %p %C{1.} [%t] %m%n</pattern>
+            </PatternLayout>
+            <Policies>
+                <!-- roll over daily and when the file reaches 10 MegaBytes -->
+                <SizeBasedTriggeringPolicy size="10 MB" />
+                <TimeBasedTriggeringPolicy />
+            </Policies>
+        </RollingFile>
+    </Appenders>
+    
+    <Loggers>
+        <Root level="info">
+            <AppenderRef ref="Console" />
+            <AppenderRef ref="RollingFile" />
+        </Root>
+ 
+        <Logger name="admin" level="info"></Logger>
+    </Loggers>
+</configuration>
