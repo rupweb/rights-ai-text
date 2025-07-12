@@ -112,7 +112,7 @@ public class MultiFormatParserTest {
     @Test
     public void testMultiFormatProcessing() throws IOException {
         System.setProperty("sourceDir", TEST_SOURCE_DIR);
-        MultiFormatParser.main(new String[]{});
+        MultiFormatParser.main(new String[]{"test source"});
 
         // Assert that output files were created
         assertOutputFileExists("test-document1.txt");

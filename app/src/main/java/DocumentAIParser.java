@@ -71,28 +71,44 @@ public class DocumentAIParser {
 
     public static void processPdfFile(File pdfFile, String outputDir) throws IOException {
         try (PDDocument document = Loader.loadPDF(pdfFile)) {
-            Splitter splitter = new Splitter();
-            splitter.setSplitAtPage(15);
-            List<PDDocument> chunks = splitter.split(document);
+            int totalPages = document.getNumberOfPages();
 
-            int partNumber = 1;
-            for (PDDocument chunk : chunks) {
-                File tempFile = File.createTempFile("chunk_" + partNumber, ".pdf");
-                chunk.save(tempFile);
-                chunk.close();
+            StringBuilder fullText = new StringBuilder();
 
-                String text = extractTextFromPdf(tempFile.getAbsolutePath());
-                String outputFileName = pdfFile.getName().replaceAll("\\.pdf$", "_part" + partNumber + ".txt");
-                String outputFilePath = outputDir + File.separator + outputFileName;
+            if (totalPages <= 15) {
+                // No need to split
+                log.info("Processing full PDF ({} pages)", totalPages);
+                String text = extractTextFromPdf(pdfFile.getAbsolutePath());
+                fullText.append(text);
+            } else {
+                // Split into 15-page chunks
+                log.info("Splitting large PDF ({} pages)", totalPages);
+                Splitter splitter = new Splitter();
+                splitter.setSplitAtPage(15);
+                List<PDDocument> chunks = splitter.split(document);
 
-                saveTextToFile(text, outputFilePath);
-                log.info("Processed and saved part {}: {}", partNumber, outputFilePath);
+                int partNumber = 1;
+                for (PDDocument chunk : chunks) {
+                    File tempFile = File.createTempFile("chunk_" + partNumber, ".pdf");
+                    chunk.save(tempFile);
+                    chunk.close();
 
-                tempFile.delete(); // Clean up temporary file
-                partNumber++;
+                    String text = extractTextFromPdf(tempFile.getAbsolutePath());
+                    fullText.append(text).append("\n\n");
+
+                    log.info("Processed chunk {}", partNumber);
+                    tempFile.delete();
+                    partNumber++;
+                }
             }
-        } catch (IOException e) {
+
+            String outputFileName = pdfFile.getName().replaceAll("\\.pdf$", ".txt");
+            String outputFilePath = outputDir + File.separator + outputFileName;
+            saveTextToFile(fullText.toString(), outputFilePath);
+            log.info("Saved full output to {}", outputFilePath);
+        }   catch (IOException e) {
             log.error("Error processing PDF file: {}", pdfFile.getAbsolutePath(), e);
+            throw e;
         }
     }
 

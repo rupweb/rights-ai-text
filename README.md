@@ -7,4 +7,4 @@ Feed the AI with the text files.
 
 1. Choose your source file of pdf, jpg, gif, doc etc.
 2. Update the hard coded source file location.
-3. `gradle run` and the text files will be produced in the "texts" sub-directory of the source directory.
+3. `gradle run --args="myDirectory"` and the text files will be produced in the "texts" sub-directory of the source directory + myDirectory.
