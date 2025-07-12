@@ -10,4 +10,4 @@ Feed the AI with the text files.
 3. `gradle run --args="myDirectory"` and the text files will be produced in the "texts" sub-directory of the source directory + myDirectory.
 
 4. Concatenate text for AI by using:
-`gradlew runTextConcatenator -PcliArgs="ombudsman2/texts ombudsman2/ombudsman.txt"`
+`gradle runTextConcatenator -PcliArgs="ombudsman2/texts ombudsman2/ombudsman.txt"`

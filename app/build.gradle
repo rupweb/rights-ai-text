@@ -47,14 +47,17 @@ application {
     mainClass = 'MultiFormatParser'
 }
 
-// Custom task for TextConcatenator
+// Define additional run task for TextConcatenator
 tasks.register('runTextConcatenator', JavaExec) {
     group = 'application'
-    description = 'Run the TextConcatenator tool with CLI args'
-
+    description = 'Run the TextConcatenator CLI'
     classpath = sourceSets.main.runtimeClasspath
     mainClass.set('TextConcatenator')
-    args = project.hasProperty('cliArgs') ? project.cliArgs.split(' ') : []
+
+    // Read command-line args from -PcliArgs="..."
+    if (project.hasProperty('cliArgs')) {
+        args cliArgs.split(' ')
+    }
 }
 
 test {
