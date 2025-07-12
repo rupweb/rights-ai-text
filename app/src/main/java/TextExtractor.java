@@ -52,7 +52,37 @@ public class TextExtractor {
             throw e;
         }
     }
-    
+
+    public static Document getDocumentAIParsedDocument(File file) throws IOException {
+        String endpoint = String.format("%s-documentai.googleapis.com:443", location);
+
+        try (DocumentProcessorServiceClient client = DocumentProcessorServiceClient.create(
+                DocumentProcessorServiceSettings.newBuilder()
+                        .setEndpoint(endpoint)
+                        .build())) {
+
+            ByteString content = ByteString.readFrom(new FileInputStream(file));
+
+            RawDocument rawDocument = RawDocument.newBuilder()
+                    .setContent(content)
+                    .setMimeType(Files.probeContentType(file.toPath()))
+                    .build();
+
+            String processorName = String.format("projects/%s/locations/%s/processors/%s", projectId, location, processorId);
+
+            ProcessRequest request = ProcessRequest.newBuilder()
+                    .setName(processorName)
+                    .setRawDocument(rawDocument)
+                    .build();
+
+            ProcessResponse response = client.processDocument(request);
+            return response.getDocument();
+        } catch (Exception e) {
+            log.error("Failed to parse Document AI response for file: {}", file.getAbsolutePath(), e);
+            throw e;
+        }
+    }
+ 
     public static void extractTextFromTxt(File file, String outputDir) throws IOException {
         String text = new String(Files.readAllBytes(file.toPath()));
         String outputFilePath = outputDir + File.separator + file.getName();

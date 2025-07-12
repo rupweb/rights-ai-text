@@ -54,40 +54,57 @@ public class DocumentConverter {
         try (XWPFDocument document = new XWPFDocument(new FileInputStream(docxFile));
             PDDocument pdfDocument = new PDDocument()) {
 
-            PDFont pdfFont = new PDType1Font(FontName.HELVETICA);
+            PDFont font = new PDType1Font(FontName.HELVETICA);
             float fontSize = 12;
             float leading = 1.5f * fontSize;
 
             PDPage page = new PDPage(PDRectangle.A4);
             pdfDocument.addPage(page);
-
             PDPageContentStream contentStream = new PDPageContentStream(pdfDocument, page);
+
+            float margin = 50;
+            float yStart = PDRectangle.A4.getHeight() - margin;
+            float yPosition = yStart;
+            float width = PDRectangle.A4.getWidth() - 2 * margin;
+
+            contentStream.setFont(font, fontSize);
             contentStream.beginText();
-            contentStream.setFont(pdfFont, fontSize);
-            contentStream.newLineAtOffset(50, PDRectangle.A4.getHeight() - 50);
+            contentStream.newLineAtOffset(margin, yPosition);
 
-            float yPosition = PDRectangle.A4.getHeight() - 50;
+            for (XWPFParagraph para : document.getParagraphs()) {
+                String[] words = filterUnsupportedCharacters(para.getText()).split(" ");
+                StringBuilder line = new StringBuilder();
+                for (String word : words) {
+                    String testLine = line + word + " ";
+                    float textWidth = font.getStringWidth(testLine) / 1000 * fontSize;
+                    if (textWidth > width) {
+                        contentStream.showText(line.toString());
+                        contentStream.newLineAtOffset(0, -leading);
+                        yPosition -= leading;
+                        line = new StringBuilder(word + " ");
 
-            for (XWPFParagraph paragraph : document.getParagraphs()) {
-                String text = filterUnsupportedCharacters(paragraph.getText());
-                if (text == null || text.isBlank()) continue;
+                        // New page if needed
+                        if (yPosition <= margin) {
+                            contentStream.endText();
+                            contentStream.close();
 
-                yPosition -= leading;
-                if (yPosition <= 50) {
-                    contentStream.endText();
-                    contentStream.close();
-
-                    page = new PDPage(PDRectangle.A4);
-                    pdfDocument.addPage(page);
-                    contentStream = new PDPageContentStream(pdfDocument, page);
-                    contentStream.beginText();
-                    contentStream.setFont(pdfFont, fontSize);
-                    contentStream.newLineAtOffset(50, PDRectangle.A4.getHeight() - 50);
-                    yPosition = PDRectangle.A4.getHeight() - 50 - leading;
+                            page = new PDPage(PDRectangle.A4);
+                            pdfDocument.addPage(page);
+                            contentStream = new PDPageContentStream(pdfDocument, page);
+                            contentStream.setFont(font, fontSize);
+                            yPosition = yStart;
+                            contentStream.beginText();
+                            contentStream.newLineAtOffset(margin, yPosition);
+                        }
+                    } else {
+                        line.append(word).append(" ");
+                    }
                 }
-
-                contentStream.newLineAtOffset(0, -leading);
-                contentStream.showText(text);
+                if (!line.isEmpty()) {
+                    contentStream.showText(line.toString());
+                    contentStream.newLineAtOffset(0, -leading);
+                    yPosition -= leading;
+                }
             }
 
             contentStream.endText();

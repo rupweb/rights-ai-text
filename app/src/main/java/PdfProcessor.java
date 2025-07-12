@@ -8,6 +8,8 @@ import org.apache.pdfbox.Loader;
 import org.apache.pdfbox.multipdf.Splitter;
 import org.apache.pdfbox.pdmodel.PDDocument;
 
+import com.google.cloud.documentai.v1.Document;
+
 public class PdfProcessor {
     private static final Logger log = LogManager.getLogger(PdfProcessor.class);
 
@@ -18,7 +20,10 @@ public class PdfProcessor {
     
             if (totalPages <= 15) {
                 log.info("Processing full PDF ({} pages)", totalPages);
-                String text = TextExtractor.extractTextUsingDocumentAI(file);
+                Document doc = TextExtractor.getDocumentAIParsedDocument(file);
+                String text = TextReconstructor.reconstructText(doc);
+
+
                 fullText.append(text);
             } else {
                 // Split into chunks of 15 pages
@@ -33,7 +38,8 @@ public class PdfProcessor {
                     chunk.save(tempFile);
                     chunk.close();
 
-                    String text = TextExtractor.extractTextUsingDocumentAI(tempFile);
+                    Document chunkDoc = TextExtractor.getDocumentAIParsedDocument(tempFile);
+                    String text = TextReconstructor.reconstructText(chunkDoc);
                     fullText.append(text).append("\n\n");
 
                     log.info("Processed chunk {}", partNumber);
